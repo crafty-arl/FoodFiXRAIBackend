@@ -812,4 +812,4 @@ async def health_check():
 
 if __name__ == "__main__":
     # Run the FastAPI app with uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000, ssl_keyfile=None, ssl_certfile=None)
+    uvicorn.run(app, host="0.0.0.0", port=3001, ssl_keyfile=None, ssl_certfile=None)
