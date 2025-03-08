@@ -1,0 +1,749 @@
+
+Mood & Depression Supplement Guide 
+Written By: Michael Hull, Wyatt Brown, Antonis Damianou, Mike Murray, & Adel Moussa Edited By: Molly Gregas 
+Reviewed By: Wyatt Brown, & Molly Gregas
+Table of Contents 
+Introduction 
+Combos 
+Primary Supplements 
+Secondary Supplements 
+Promising Supplements 
+Unproven Supplements 
+Inadvisable Supplements 
+FAQ 
+2
+Introduction 
+From time to time, everyone feels down for some reason, such as failing at something or losing a job or a loved one. This downturn can be disabling and can prevent a person from performing normal, everyday tasks. And when “low mood” turns very severe or simply lasts too long, it is often classified as a mood disorder. 
+The most common mood disorder is major depressive disorder (MDD), a condition that affects nearly 322 million people worldwide[1] and is one of the largest contributors to global disability. The World Health Organization (WHO) estimates that the number of people living with depression increased by nearly 20% from 2005 to 2015. Although estimated to be more common in women[2] and adults of working age, depressive symptoms are frequently found in all sexes and age groups.[3] 
+Prevalence of depressive disorders (% of population) by WHO Region 
+Reference: World Health Organization. Depression and Other Common Mental Disorders: Global Health Estimates. Gov't Doc #: WHO/MSD/MER/2017.2 
+3
+Prevalence of major depressive episodes (% of population) in the US 
+Reference: Substance Abuse and Mental Health Services Administration (SAMHSA) and the National Institute of Mental Health (NIMH). 2013. 
+Although depression is a common ailment, it can be incredibly difficult to talk about, both because of the stigma around mental health[4] and because many people (including researchers) don’t take it as seriously as they do ailments that can be objectively assessed, such as infections or diabetes. 
+Issues related to measurement and diagnoses 
+Mood disorders are difficult to diagnose, notably because they cannot be assessed objectively. Diagnosis of depression involves weighing subjective symptoms such as anxiety, fatigue, insomnia, and altered appetite. 
+Not only are those symptoms subjective, but not everyone living with depression will have them all, and their severity will also differ from one person to the next.[5] One person with depression may suffer from narcolepsy, serious fatigue, loss of interest, and some anxiety, whereas another may suffer from serious anxiety, very little fatigue, and insomnia. 
+This variation is especially problematic because the questionnaires used to assess depression tend to assign greater weight to the number of symptoms than to their severity.[6][7] For example, consider a 20-item questionnaire on which each item is a symptom graded from 1 to 4 (from least to most severe). In that instance, having 15 level-1 symptoms will yield a greater “depression total score” than having 3 level-4 
+4
+symptoms (15 vs. 12 points), even though the latter scenario is probably more debilitating.[7] 
+Digging deeper: “Measuring” depression 
+To diagnose an illness, you have to assess variables. 
+Observable variables can be measured directly. For instance, we can assess people’s risk of cardiovascular disease by measuring their blood levels of low-density lipoprotein (LDL). LDL levels are observable variables. 
+Latent variables cannot be measured directly — they must be inferred from observable variables (using mathematical models).[8] When it comes to assessing depression, the observable variables are usually answers to a questionnaire, some of which are filled by the patient and others by a clinician. 
+Two examples of patient-filled questionnaires 
+Beck’s Depression Inventory II (BDI-II) is a 21-item multiple-choice questionnaire.[9] Each item refers to an area of life that could be affected by depression. For each item, there are 4 possible choices corresponding to 4 levels of severity — from nothing wrong (rated 0) to great distress (rated 3). The scores from all 21 items are then tallied up: 
+00–10 = no depression 
+11–16 = mild mood disturbance 
+17–20 = borderline clinical depression 
+21–30 = moderate depression 
+31–40 = severe depression 
+40–63 = extreme depression 
+The Self-Reported 30-item Inventory of Depressive Symptoms (IDS-SR30) is a 30-item questionnaire.[10] Each item refers to a specific symptom experienced over the past week. Most items are scored from 0 to 3, where 0 indicates an absence of symptoms and 3 indicates high severity and frequency. The scores from all 30 questions are then tallied up: 
+00–13 = no depression 
+14–25 = mild depression 
+26–38 = moderate depression 
+39–48 = severe depression 
+49–84 = very severe depression 
+Two examples of clinician-filled questionnaires 
+The Hamilton Depression Rating Scale (HDRS) is a 17-item questionnaire widely used to quantify levels of depression and evaluate recovery.[11] The interviewer rates the severity of symptoms such as anxiety, agitation, feelings of guilt, and weight loss. These measures have been shown to reliably track and quantify symptoms of depression. A score of 15 or higher indicates depression. 
+The Montgomery-Åsberg Depression Rating Scale (MADRS) is a 10-item questionnaire.[12] The interviewer rates from 0 to 6 the severity of symptoms such as inner tension, reduced sleep duration, and suicidal thoughts. The scores from all 10 questions are then tallied up: 
+5
+00–06 = no depression 
+07–19 = mild depression 
+20–34 = moderate depression 
+34–60 = severe depression 
+The subjectivity and interindividual variability of depression symptoms make it difficult to establish robust, generalizable theories and find treatments that work for everyone. Also, they make it even more difficult for researchers to take depression seriously. This is worth keeping in mind as we explore hypotheses that have been proposed over the years. 
+
+
+Hypotheses of mood disorders 
+Neuroscientists and psychiatrists have searched for biological causes of depression (objective, observable variables) since the 1950s, especially to gain credibility within the medical community. One of the first major theories was that depression was caused by low levels of serotonin[13] (a neurotransmitter that notably helps regulate mood). This idea was heavily marketed by the pharmaceutical industry, which created several types of antidepressants designed to raise serotonin levels.[14] 
+Presynaptic neurons are serotonergic: they produce serotonin, which activates postsynaptic neurons. Selective serotonin reuptake inhibitors (SSRIs), by far the most common class of antidepressants, prevent the presynaptic neurons from reabsorbing serotonin so that more is absorbed by the postsynaptic neurons. 
+However, more recent studies have contradicted this “low serotonin” hypothesis.[15] Some studies showed that SSRIs instantly increased serotonin levels but took weeks to result in any improvements in people with depression.[16] Other studies showed that using drugs to deplete serotonin in healthy individuals did not cause depression, but simply resulted in feelings of irritation or temporary insomnia.[17] 
+These results have led some researchers to posit that antidepressants actually work by mechanisms other than increasing serotonin, such as increasing brain-derived neurotrophic factor (BDNF), a molecule associated with brain growth.[18] For that reason, BDNF levels have been proposed as a better observable variable than serotonin levels to indicate the efficacy of antidepressant treatments. However, changes in BDNF levels don’t appear to occur uniformly across all antidepressants.[19] 
+Today, the “serotonin” hypothesis has lost much of its credibility with neuroscientists and psychiatrists, and several new biological hypotheses of depression have emerged and gained traction, exploring the roles of neuroinflammation,[20] neurotoxicity (more precisely, excitotoxicity[21]), hypothalamic-pituitary-adrenal (HPA) axis dysfunction,[22] and circadian-rhythm abnormalities.[23] 
+6
+Possible mechanisms involved in depression 
+
+References: Miller and Raison. Nat Rev Immunol. 2016.[24] ● Anacker et al. Psychoneuroendocrinology. 2011.[22] ● Delgado. J Clin Psychiatry. 2000.[25] ● Delgado and Moreno. J Clin Psychiatry. 2000.[26] 
+Additionally, observational studies have linked depressive symptoms to nutrient deficiencies[27] and seasonal decreases in sunlight exposure. Unfortunately, in either case, it is difficult to assess whether these links are causal because other variables might be at play — for instance, less sunlight is associated with less exercise, less sunlight and less exercise are associated with worse sleep,[28] and less exercise[29] and worse sleep[30][31][32] are associated with lower mood. 
+Finally, some researchers have argued that looking for biological causes of depression is a waste of time and that the focus should be on the environment and social connections.[33] 
+To summarize, numerous hypotheses of depression have been proposed (most of them biological), but unfortunately, many have been contradicted by newer evidence, and almost none have large support from researchers who study depression. 
+Treatments and their evidence 
+7
+Today, antidepressants (chiefly SSRIs) are still the first-line treatment for depression, even though they’ve been incredibly controversial ever since they entered the market, with many researchers arguing that they are no better than placebo and have potential adverse effects. 
+In 2008, a psychiatric researcher conducted a meta-analysis of all the published clinical trials and, using the Freedom Act of Information, obtained unpublished data from pharmaceutical companies; the researcher concluded that although antidepressants were statistically more effective than placebo in reducing symptoms of depression, their benefits were not clinically meaningful because the size of the reduction in symptoms did not meet the guidelines set by some researchers.[34] 
+In 2018, the largest meta-analysis of antidepressants to date, which combined 522 controlled trials, found that antidepressants led to a small reduction in symptoms of depression but were also associated with higher study dropout rates as a result of adverse events.[35] 
+Some authors have disputed these results, however.[36] They’ve suggested that the benefits are actually much smaller and the risks much higher than reported because many of the analyzed trials suffer from poor study design and poor choice of method of statistical analysis, as well as the potential of publication bias[37] (meaning that studies with positive results, because they are considered more interesting, are more likely to get published). 
+Another problem is that most antidepressant trials are quite short. Even the “long-term” ones didn’t last all that long (2–3 years at the very most). Moreover, as a rule, the participants take the antidepressant for the whole duration of the trial and aren’t monitored afterward — and if they drop out of the trial because of an adverse event associated with the antidepressant, they are no longer part of the trial and thus are no longer monitored (or at least not in the same way), even though the trial is still ongoing. Therefore, we don’t always know whether recorded adverse effects persist, lessen, or worsen after the participant stops taking the antidepressant, and if they do, for how long. It is also possible for adverse events to occur after cessation of the treatment, either because of the treatment itself or as a result of its cessation. 
+Another issue is that meta-analyses of antidepressant studies are likely to combine trials that used different questionnaires, in which case they may be adding noise rather than clarifying the effects of antidepressants. 
+Some researchers have proposed using “big data” and machine learning to find common patterns among people with depression, with the goal of tailoring drug protocols to specific patterns — which is to say, to specific subgroups of people with depression.[38] Although this approach sounds highly promising, especially given the heterogeneous nature of depression, determining true subgroups within a population is incredibly difficult due to the possibility of random noise showing up as systematic patterns.[39] Furthermore, with the use of big data and machine learning, the small biases of small trials may accumulate. 
+Another primary treatment for depression is cognitive-behavioral therapy (CBT),[40] which has been shown to be helpful in many trials.[41] There is still much uncertainty about its effects, however, and it can be inaccessible to many people due to cost and lack of information.[42] 
+Digging deeper: Behavioral therapies 
+There have been three “waves” of behavioral therapies. 
+The first wave altered behaviors. Techniques such as exposure therapy for phobias fall into this category — in exposure therapy, people are either gradually or suddenly exposed (with their 
+consent) to something that they fear, and the fear tends to subside with repeated exposure. 8
+The second wave added thoughts to the equation, becoming cognitive-behavioral therapy (CBT). This family of therapies requires that people change not only their behaviors but also their thoughts — they must challenge their irrational, harmful thoughts and replace them by more rational thoughts based on the evidence. 
+The third wave takes a different approach to thoughts: instead of challenging and replacing them, people must be mindful of them. In other words, they must see the thoughts for what they are: fleeting thoughts, not enduring facts. They can then act according to their higher values rather than to their fleeting thoughts and the emotions that accompany them. 
+Acceptance and Commitment Therapy (ACT) is one type of third-wave behavioral therapy. It teaches people to use mindfulness-based methods to accept thoughts and feelings instead of fighting them, so that they can then act based on their higher values. ACT therapists tend to insist that this therapy be pronounced as an acronym (i.e., as one word: act) rather than as an initialism (i.e., as separate letters: a, c, t), to emphasize a commitment to action. There are 6 areas of training in ACT: 
+The ACT Hexaflex 
+
+It should be noted that ACT is very new, so although it is a promising type of therapy, the supporting evidence is scarce (basically nonexistent compared to the evidence in support of CBT). 
+Depression is a complex, heterogenous mental disorder, and there are several barriers to measuring it and treating it. This means that taming depression may require some long-term work with a trained professional with good judgment to try various interventions that show promise. This is a sizable investment (in money, time, and effort), yet one that may be worth considering, given the potential to experience some relief from a debilitating disorder that can seriously impair quality of life. 
+
+9
+Zad Rafi, Researcher 
+BA in neuroscience 
+10
+Combos 
+Disclaimer about supplement quality 
+We expect that readers will do their due diligence when choosing products. Depending on the manufacturer, supplements may have inaccurate labels (i.e., they contain too much or too little of the ingredients they claim or, in some cases, significant amounts of other ingredients not listed). They may also contain significant amounts of contaminants such as heavy metals or pesticides. It is also possible for supplements to contain ingredients that people are commonly allergic to, and it’s important to be aware of the nonmedicinal ingredients as well. As a brief introduction to vetting manufacturers, we drew up a short list of steps you should take if a product has caught your interest. 
+
+
+Core Combo 
+
+
+First, it may be best to evaluate the overall diet and identify any instances of insufficient nutrient intake. 11
+Although the evidence for vitamin D, zinc, and magnesium is not as strong as we would like, if a person’s diet is critically low in any of these nutrients, or any other nutrients that could plausibly affect neurological function, it may be a significant factor in mood, and improving the diet/taking supplements to fill gaps is probably a good idea anyway. 
+It’s also very worthwhile to test the effects of frequent exercise, especially for people who currently don’t get enough. 
+More details about taking these nutrients can be found in the “How to take” sections of this guide. 
+
+
+Specialized Combos 
+For people who are taking medication or have been diagnosed with a major depressive disorder: 
+Consider whether the intakes or levels of essential nutrients are inadequate or deficient (read the core combos section). 
+After addressing that, and after consultation with a physician, add 1 g of EPA to the core supplements (if needed). Fish oil with DHA can be used as long as the amount of EPA reaches 1 g. 
+After that, there is a decision to make. It is often a good idea to add supplements slowly to see if more are truly needed or to try to discern whether or not they are effective. Two or three months is typically the minimum amount of time required to see the full benefits of an antidepressive intervention, and longer 
+12
+durations may yield greater effects still. But it is also understandable if people don’t want to wait that long before adding additional interventions. 
+After giving the aforementioned a solid chance, 30 mg of saffron (in two doses of 15 mg) can be added to the overall combo. 
+After months, if saffron proves to be insufficient, adding either 900 mg (300 mg 3 times per day) of St. John’s Wort or 500-1500 mg of curcumin (as per the curcumin section of this guide) could yield additional benefits. It is worth noting that St. John’s Wort, as far as we know, is potentially more effective but also interacts more potently with medications and supplements, whereas curcumin’s drug interactions are more mild (except for when taken with piperine, which has strong drug interactions). Taking multiple herbal extracts is inherently risky and should be discussed with a physician. 
+For people with self-diagnosed depression who currently do not take any medication or drug that affects the brain: 
+If at all possible, get diagnosed by a mental-health clinician or primary care doctor. Without a clinical diagnosis, it’s difficult to know specifically what might help, because it’s possible that the symptoms aren’t major depression and could be caused by any number of factors. For that reason, in addition to exploring other options and possibilities like exercise and psychotherapy, it’s important to think about why a person might be experiencing depression symptoms. If it’s related to another chronic health condition, life circumstances, or addictions, addressing those things may be the most important. 
+The core combo, with its focus on diet and essential nutrients, is probably the best place to start. 
+After that, adding saffron may be helpful. It is probably unwise to combine multiple herbs because they can potentially interact negatively with each other and pose a risk for adverse events. 
+For people who want to improve their mood and reduce stress: 
+Saffron and Rhodiola rosea both exhibit anti-stress/anxiety effects. Because saffron is so much more supported by evidence, it is the better option. 
+What has changed since the last time? 
+It should be noted that we changed the names of our ranking categories. “Core” (the highest) is now “primary”, “primary” is now “secondary”, and “secondary” is now “promising”. This nomenclature has already been implemented for some guides, but this is the first update to the Mood & Depression Guide that uses this new terminology. For example, if it was a core supplement in the previous issue and now it’s a secondary supplement in this issue, we’ll say that it was a primary supplement in the previous issue and is now a secondary supplement. 
+Added: 
+Saffron (primary) 
+13
+Rhodiola rosea (promising) 
+Magnesium (promising) 
+Chromium (unproven) 
+Ashwagandha (unproven) 
+Inositol (unproven) 
+Changed ranking: 
+Omega-3 fatty acids (formerly called EPA) 
+Increased from secondary to primary. Although EPA seems to be the main omega-3 fatty acid responsible for fish oil’s antidepressant effects — and higher doses of EPA than DHA make sense — most studies use both, and so focusing only on EPA doesn’t make sense. Although the effect size of omega-3 fatty acids is modest, they are also important nutrients to the body, and some small amount of depression can likely be blamed on an insufficiency. 
+Vitamin D 
+Downgraded from primary to secondary. Although the evidence from clinical studies supports a benefit, it is smaller than was previously thought. 
+SAMe 
+Downgraded from primary to promising. Although there has been a lot of research over the years, very little of it is of high quality, and the better studies are somewhat mixed on the efficacy of SAMe. 
+Zinc 
+Downgraded from primary to promising. There is insufficient evidence to call it a primary supplement, and much of the evidence was found in combination with antidepressant drugs, so we’re especially not sure how effective it is in other contexts. 
+Removed: 
+Adaptogens 
+We decided not to combine adaptogens in one entry and instead write separate, proper, entries for both ashwagandha and Rhodiola rosea. 
+14
+Primary Supplements 
+Omega-3 fatty acids 
+What makes omega-3 fatty acids a primary supplement 
+Omega-3 fatty acids, or specifically, the longer-chain family members docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), are of interest for depression and mood because observational studies have reported that the consumption of greater amounts of omega-3 fatty acids (e.g., from fish) is associated with a reduced risk of mood disorders,[43][44][45][46] and people with depression or bipolar disorder have lower levels of omega-3 fatty acids in red blood cells.[47][48] 
+The positive effects of omega-3 fatty acids on depression and mood are thought to occur as a result of their incorporation into the cell membrane, resulting in changes in structure and function that promote reductions in inflammation and oxidative stress[49] and the regulation of neurotransmitter pathways and cell signalling.[50] 
+Supplementation with omega-3 fatty acids has been reported to improve depression symptoms to a small degree in people with major depressive disorder,[50] regardless of whether the supplement was taken as an adjunctive therapy or monotherapy. Whether this improvement is clinically meaningful is questionable, but the effectiveness of omega-3 fatty acids seems to be comparable to that of some antidepressants.[50][51][52] Thus, further studies directly comparing omega-3 fatty acids to antidepressants are warranted. 
+Supplementation with omega-3 fatty acids as a monotherapy has a small-to-moderate beneficial effect in perinatal depression, with the greatest benefits reported during the postpartum period.[53][54] Also, omega-3 fatty acids may have a small beneficial effect in bipolar depression when used as an adjunctive therapy.[55][56] 
+Warnings about omega-3 fatty acids 
+Omega-3 fatty acids are known to cause gastrointestinal side effects, including abdominal pain and diarrhea, in some people.[57][58] Taking omega-3 fatty acids with food may help avoid these unwanted side effects.[59] 
+Although rare, some cases suggest that fish oil interacts with anticoagulants like 
+warfarin/Coumadin/Jantoven and antiplatelets like aspirin and can increase the risk of bleeding when used together.[60][61][62], especially at daily doses greater than 1 gram.[63] Taking fish oil alone does not appear to have this risk.[64][65] Consult with a prescriber or medical professional before taking fish oil with any of these medications. 
+15
+
+
+There is some evidence of omega-3 fatty acids increasing the risk of atrial fibrillation, as detailed elsewhere by Examine. The risk seems to be present even at dosages as low as 1 gram per day and may be greater with EPA-only supplements than with combined EPA and DHA supplements.[71] There are still many uncertainties, including the magnitude of risk and whether or not this risk is present in people without cardiovascular disease or who are not at a high risk of cardiovascular disease. 
+Although DHA is marginally better than EPA at reducing triglyceride levels, it can cause a modest increase in low-density lipoprotein (LDL-C, the “bad cholesterol”).[72] 
+How to take omega-3 fatty acids 
+For major depressive disorder (MDD), the dose of omega-3 fatty acids should contain at least 1 gram of EPA,[73] either in the form of pure EPA or a supplement containing a 2:1 ratio of EPA to DHA,[49] with the potential to increase the dosage to 2 grams per day, if well tolerated.[73] The optimal dose of omega-3 fatty acids for perinatal depression is unclear, but there’s also an absence of evidence to indicate that it should differ from the recommendation for MDD.[53] 
+More research is needed to determine the optimal dose of omega-3 fatty acids for bipolar depression. 16
+Trials that have reported a positive effect have used vastly different interventions, including one that had participants take 1–2 grams of EPA per day[74] and another that involved roughly 9.6 grams of omega-3 fatty acids (6.2 grams of EPA and 3.4 grams of DHA) per day.[75] 
+Saffron 
+What makes saffron a primary supplement 
+Saffron is derived from the Crocus sativus L. plant and has been traditionally used to flavor food. It is a rich source of bioactive compounds with potential neuroprotective effects, most notably crocins, crocetin, picrocrocin, and safranal. Preclinical evidence in animals indicates that saffron could be useful for improving mood and depression through its ability to reduce oxidative stress and inflammation, modulate neurotransmitter pathways and hypothalamic–pituitary–adrenal (HPA) axis activity, and increase brain derived neurotrophic factor (BDNF) levels.[76] 
+A number of meta-analyses have reported that saffron reduces depression symptoms in many users, ranging from people with subclinical depression to people with major depressive disorder.[77][78][79][80] The magnitude of effect reported in these studies is considerably greater than that of conventional treatments for depression,[51][52] but head-to-head comparisons between saffron and antidepressants have not found differences between groups.[77][78][80] Further research is warranted to determine whether saffron is as effective as antidepressants because the latter has a larger amount of scientific evidence and real-world data to support its use. 
+A potential limitation of this body of research is that the studies to date have been exclusively conducted in Iran, the world’s primary producer of saffron. This doesn’t invalidate the relatively consistent and impressive results; however, it highlights the need for replication from researchers in other geographical regions. 
+Warnings about saffron 
+There is mixed, weak evidence that saffron may modestly increase the risk of headaches, anxiety and anxiety-related symptoms, and gastrointestinal symptoms. It's still unclear how much saffron increases this risk, if it increases it at all.[78][81] However, GI effects tend to be more likely at doses greater than 1.2 grams of saffron.[82] 
+One study showed that daily supplementation with 60 mg of saffron for 26 weeks may reduce red and white blood cells and platelet levels. Also, daily supplementation with 60 mg of saffron for at least 8 weeks seemed to cause a drop in blood pressure along with sedation, overactive energy, and change in appetite. These effects increased as the duration of use increased.[83] 
+The natural chemicals in saffron can interfere with the activity of CYP2B, CYP2C11, and CYP3A enzymes, which could either reduce or increase the rate of metabolism for various drugs, potentially leading to negative interactions.[84] Saffron may reduce blood sugar, and the use of saffron along with diabetes medication could possibly lead to hypoglycemia.[85] Saffron may reduce blood pressure, and the use of saffron along with blood pressure medications could possibly lead to low blood pressure.[86][87] 
+The use of more than 10 grams of saffron by pregnant individuals has shown a potential abortive effect. However, this effect was reported in 1925 and could be due to the unwanted pollutants in saffron.[88] 
+17
+How to take saffron 
+The vast majority of studies have had participants supplement with 30 mg of saffron extract (typically derived from the stigma of the Crocus sativus L. plant) daily, often taken as two separate 15 mg doses. 
+18
+Secondary Supplements 
+St. John’s Wort 
+What makes St. John’s Wort a secondary supplement 
+St. John’s Wort (Hypericum perforatum) is a perennial herb that has been traditionally used to treat mood disorders. The main bioactive compounds in St. John’s Wort (to which the herb’s mood-enhancing properties have been attributed) are hyperforin (a lipophilic phloroglucinol) and hypericin (a naphthodianthrone). Although the exact mechanism of action is not fully understood, St. John’s Wort is thought to have a mechanism similar to selective serotonin reuptake inhibitors (SSRIs) — it increases the levels of brain chemicals that are known to play important roles in regulating mood.[89] 
+According to a fairly large body of scientific evidence, the effects of St. John’s Wort on symptoms of depression in individuals with mild or moderate depression are likely comparable to those of pharmaceutical antidepressants such as SSRIs.[90][91][92] Moreover, fewer side effects related to neurologic, psychiatric, and sexual functions have been reported with the use of St. John’s Wort compared to those of pharmaceutical antidepressants. 
+That said, most trials examining the antidepressant properties of St. John’s Wort are of questionable methodological quality. Also, one of the aforementioned meta-analyses rated the certainty of the evidence on the effect of St. John’s Wort on symptoms of depression as moderate or low.[91] For these reasons, St. John’s Wort can only rank as a secondary supplement. 
+Warnings about St. John’s Wort 
+St. John’s Wort is generally well tolerated.[93] Approximately 1% to 3% of patients experience some side effects associated with St. John’s Wort such as anxiety, dry mouth, dizziness, gastrointestinal symptoms, fatigue, headache, skin reactions, and sedation.[94] Taking St. John’s Wort with other antidepressant medications may cause serotonin syndrome.[95]If St. John’s Wort is taken in large doses or by people with chronic illnesses like hepatitis C, it may cause sensitivity to sunlight. Few instances of allergic skin reactions have been noted.[94] St. John’s Wort interacts with many medications. Therefore, individuals who are taking any medication should talk to a doctor before taking St. John’s Wort. St. John’s Wort is a CYP3A4 inducer. Thus, St. John’s Wort alters and decreases the concentration and the efficacy of drugs that are metabolized by CYP3A4 such as immunosuppressant medications (tacrolimus and cyclosporine), oral contraceptives, certain statins (atorvastatin and simvastatin), certain cancer medications (imatinib and irinotecan), anticonvulsants (mephenytoin), protease inhibitors, and omeprazole.[96] St. John’s Wort is also a CYP2C9 inducer. Thus, St. John’s Wort decreases the concentration and efficacy of drugs that are metabolized by CYP2C9 such as warfarin.[97][96] Another study showed that St. John’s Wort decreased digoxin levels by 25%. This decrease could be linked to P-glycoprotein transporter induction.[98] Additionally, St. John’s Wort can cause adverse neurological symptoms when combined with alcohol and alprazolam (Xanax). 
+19
+St. John’s wort — drug interactions 
+
+St. John’s Wort should be avoided by people with HIV and AIDS who are receiving protease inhibitors. St. John’s Wort should also be avoided during pregnancy and breastfeeding because there is not enough data to support its use during these stages and some evidence to suggest that it may cause problems.[99][100] Soil contamination is common with herbal medications. Nickel is the most common element in soil. Nickel contamination affects St. John’s Wort efficacy.[101] 
+How to take St. John’s Wort 
+The most commonly used daily dosage for St. John's Wort in trials examining its effects on symptoms of depression is 300 milligrams taken 3 times per day, for a total daily dose of 900 milligrams. 
+Most of the extracts used in clinical trials had been standardized to contain 2%–5% hyperforin and 0.3% hypericin. 
+Vitamin D 
+What makes vitamin D a secondary supplement 
+Vitamin D receptors are distributed throughout the body, including in the brain.[102] Through binding to these receptors, vitamin D influences the expression of numerous genes in a variety of pathways.[103] Relevant to depression and mood, vitamin D is involved in the synthesis of monoamine neurotransmitters, the regulation of several neurotrophic factors, and neuroprotection (via maintaining calcium homeostasis and exerting anti-inflammatory and antioxidant effects),[104][105] which may explain why observational evidence suggests that lower blood vitamin D levels are associated with an increased risk of depression.[106] 
+A number of meta-analyses have investigated the effect of supplementing with vitamin D on depression 20
+symptoms. Collectively, these studies generally indicate that supplemental vitamin D has a small-to moderate beneficial effect in people with depression,[106] particularly if they also have inadequate vitamin D levels.[107] Vitamin D also seems to be useful as an adjunct therapy to antidepressants.[108][109] 
+Supplemental vitamin D might be beneficial during the perinatal period, with evidence of an improvement in depression symptoms in studies of women without depression at baseline,[110] as well as in women with postpartum depression,[111] but more research is needed. 
+In contrast, vitamin D does not appear to have much of an effect in healthy people without depression.[107] Additionally, in what appears to be the only trial on this topic, supplemental vitamin D did not enhance the effects of psychotropic drugs on depression symptoms in people with bipolar depression.[112] Further research is needed on the effects of supplemental vitamin D in people with bipolar depression. 
+Warnings about vitamin D 
+Vitamin D is a fat-soluble vitamin that can accumulate to toxic levels with prolonged excessive intake. Vitamin D toxicity, also called hypervitaminosis D, results in hypercalcemia and a whole host of symptoms including nausea, muscle weakness, loss of appetite, thirst, and excessive urination, to give an incomplete list. It can lead to kidney stones, irregular heartbeat, and sometimes renal failure. The tolerable upper limits for vitamin D intake according to the NIH are listed below. 
+Tolerable Upper Intake Level (UL) for vitamin D (mg) 
+
+
+Exceeding these limits won’t necessarily lead to vitamin D toxicity, and higher doses have been shown to be safe in the short-term, without increasing calcium levels to a harmful degree.[113] However, in the long term, especially without frequent vitamin D testing, it is unwise to exceed the amount of vitamin D needed for healthy bodily functions, as it all ultimately comes down to vitamin D status, and people with already sufficient levels may be especially at risk of overdoing it. 
+There are some studies that suggest an increase in falls for elderly participants taking vitamin D supplements in doses greater than 1,000 IU/d.[114][115][116]It’s currently unclear why this happens or if it might be mitigated by other fat-soluble vitamins such as K and A, so caution is warranted. 
+How to take vitamin D 
+Because supplemental vitamin D seems to be most effective in people with inadequate blood vitamin D levels, it’s prudent to first determine whether a person’s vitamin D levels are adequate. If vitamin D levels are indeed inadequate, the first step should be to increase the intake of vitamin D via whole foods and/or 21
+increase exposure to sunlight. If these strategies are not feasible, supplementation may be considered. In case of outright deficiency, a medically supervised intervention will be needed. Do not begin any intervention without discussing it with a physician. 
+Virtually all studies have had the participants supplement with vitamin D3, specifically. The optimal dose of vitamin D is likely to differ between individuals, depending on their current vitamin D levels and body mass index (people with overweight or obesity seem to have an impaired response to vitamin D supplementation[117][118] and need higher amounts[119]), among other factors, so an intervention tailored and supervised by a medical professional is recommended. Nevertheless, the available evidence suggests that somewhere between 2,000 and 4,000 IU per day works best, on average.[107] 
+Such high doses are unlikely to be needed if simply maintaining sufficient vitamin D levels. Suboptimal levels of vitamin D are common, especially in people whose skin exposure to sunlight (meaning without protection from clothes or sunscreen) is limited. Moreover, the darker a person’s skin, the longer they need to expose themselves to sunlight to synthesize enough vitamin D, which is why people with darker skin are at an increased risk of suboptimal vitamin D levels.[120] 
+Average yearly sunlight exposure in the US 
+Adapted from Tatalovich et al. CaGIS. 2006. DOI:10.1559/152304006779077318 
+The situation doesn’t improve with age. The older a person gets, the less efficient their body becomes at synthesizing vitamin D, the less time they’re likely to spend outside, the less vitamin D they’re likely to get through food, and the more likely they are to carry extra fat (belly fat has been linked to vitamin D deficiency).[121][122] 
+22
+Serum 25(OH)D concentrations 
+
+Reference: Institute of Medicine. Overview of Vitamin D (chapter 3 in Dietary Reference Intakes for Calcium and Vitamin D. The National Academies Press. 2011. DOI:10.17226/13050 
+Vitamin D is commonly available in two forms. Ergocalciferol (vitamin D2) is available in a few plants and fungi whose vitamin D2 content can be increased dramatically when exposed to ultraviolet B (UVB) radiation,[123][124] whereas cholecalciferol (vitamin D3) is synthesized from the cholesterol in the skin when exposed to the sun’s UVB rays.[125][126][127] 
+Vitamin D3 is both more stable and more bioavailable than vitamin D2. As a supplement, it is usually derived from lanolin, a waxy substance secreted by the skin glands of wooly animals, but a vegan-friendly option (a lichen extract) is also available. 
+People without a deficiency/insufficiency, before turning to supplementation, should try incorporating some foods rich in vitamin D into their diet. Unfortunately, very few foods contain appreciable amounts of naturally occurring vitamin D, with fatty fish as a notable exception (cod liver oil, in particular). For that reason, milk is commonly fortified with either vitamin D2 or, more recently, vitamin D3. Why milk? Because milk is rich in calcium, which vitamin D helps the intestines absorb. For the same reason, yogurt, cheese, and breakfast cereal are also commonly fortified with vitamin D2 or D3. Other commonly fortified foods include bread, margarine, and fruit juice (orange juice, in particular). As usual, which foods get fortified, if any, varies by country, based on local laws and policies. 
+Recommended Dietary Allowance (RDAs) for vitamin D (IU*) 
+
+
+* 40 IU = 1 μg | ** Adequate intake (AI) Reference: Institute of Medicine. [https://www.nap.edu/read/13050/chapter/7](Dietary Reference Intakes for Adequacy: Calcium and Vitamin D) (chapter 5 in Dietary Reference Intakes for Calcium and Vitamin D. The National Academies Press. 2011. DOI:https://doi.org/10.17226/13050) 
+Because vitamin D is fat-soluble, it is better absorbed when taken with a fat-containing food or supplement 23
+(e.g., fish oil). 
+In case of high vitamin D levels (which can cause adverse effects), seek the help of a medical professional. Of course, stop taking any supplement containing vitamin D, unless otherwise instructed by a medical professional. 
+24
+Promising Supplements 
+Rhodiola rosea 
+What makes Rhodiola rosea L. a promising supplement 
+Rhodiola rosea L., or Rhodiola, is a well-known adaptogen with a long history of use in traditional and, more recently, alternative medicine. Rhodiola's roots and rhizome have been shown to contain approximately 140 potentially bioactive compounds, ranging from various glycosides, monoterpenes, flavonoids, and flavonlignans to proanthocyanidins and gallic acid derivatives.[128] 
+Rhodiola's mood-lifting and antidepressant effects are often ascribed to its salidroside content.[129][130] Accordingly, supplement manufacturers have sought to produce extracts with preferably high concentration of this tyrosol glucoside. 
+With only 6 studies, the evidence on Rhodiola's mood-improving and antidepressant effects is limited. However, the results are equivocally positive. All 6 mood- and depression-related studies published before September 2022 observed statistically significant improvements on the Hamilton Rating Scale for Depression (HAM-D),[131][132][133] the Profile of Mood States Inventory (POMS),[134] and the mood-related parameters in the Maslach Burnout Inventory (MBi-D).[135] Most of the 503 participants (476 completers) in 5 randomized controlled trials (all but one were double blinded) and a noncontrolled, open-label exploratory study from 2017[135] had mild to moderate depression. One study was conducted in participants with mood disorders or depression.[134] Two studies recruited participants with diagnosed fatigue syndrome or “burnout”.[136][135] The study durations ranged from 14 days (1 study) to 12 weeks (3 studies). The median treatment dosage was 680 mg per day, and the dosages ranged from 340 to 1360 mg per day. 
+As already hinted at, the results of the mostly publicly funded studies were promising, with significant or even highly significant improvements compared to placebo. Depression-related indices improved by 13%– 35%, and mood-related and fatigue-related indices improved by 6%–33%. One study that compared Rhodiola to placebo and to Sertraline (Zoloft) found similar, albeit somewhat less pronounced, effects for Rhodiola and the commonly prescribed SSRI.[133] Effects from study duration and dosage seem to exist. However, high-dose vs. low-dose (340 mg/day vs. 680 mg/day) regimens were compared in only 2 studies.[131] [132] 
+In view of the overall low number and high methodological heterogeneity of the input studies, it seems unwarranted to formulate evidence-based conclusions that go beyond very general qualitative assertions such as “longer treatment duration (>12 weeks) and higher dosages (640 mg/day vs. 340 mg/day) seem to yield better results”. Overall, the existing evidence warrants Rhodiola's classification as a “promising” and generally well-tolerated mood-elevating and antidepressant supplement. This conclusion is based on only 6 studies in a total of 503 participants, of whom all but the 80 participants in an industry-funded 2015 study [134] had preexisting depression and/or fatigue. Whether the average, healthy supplement user can derive statistically significant, let alone practically relevant, improvements in mood from Rhodiola supplements remains questionable. 
+25
+Warnings about Rhodiola rosea 
+Rhodiola may cause dizziness and dry mouth,[137] but it has been found to be well tolerated for the most part.[138] However, more evidence is needed to evaluate its safety of long-term use.[139] 
+Rhodiola may interact with losartan based on its ability to inhibit the metabolic effect of CYP2C9.[140] Rhodiola is mainly used for mental health, and Rhodiola has been shown to inhibit CYP2C9 activity. This interaction could lead to a decrease in the metabolism of antidepressant medications that are metabolized by CYP2C9, such as amitriptyline and fluoxetine, and an increase in their risk of toxicity.[141] A 68-year-old woman developed a serotonin syndrome after taking Rhodiola in combination with paroxetine.[142] Rhodiola may interact with antidiabetic medications, causing lower sugar levels in animals, though the extent hasn’t been evaluated in humans.[143] 
+Although Rhodiola is generally safe, there is a theoretical toxicity concern based on the chemicals in Rhodiola rosea plants. Rhodiola rosea plants contain highly toxic cyanogenic compounds such as rhodiocyanosides and lotaustralin.These compounds release nitrile, which could lead to theoretical toxicity.[144] 
+There is limited evidence on the effect of Rhodiola on specific conditions. 
+How to take Rhodiola rosea 
+Take 340 mg doses of a standardized Rhodiola extract per day for 6–12 weeks. Choose products that are standardized for a high salidroside content of 2.5% or more. A note on proprietary extracts: Four of the studies under review used products based on SHR-5.[145][146] Vitano® (Rosalin WS® 1375) was used in 2 exploratory studies that support its effect on mood improvement and relief from burnout.[134][135] As of fall 2022, reliable evidence on the efficacy of other alternative proprietary blends found on the market is not available. 
+N-Acetylcysteine 
+What makes NAC a promising supplement 
+N-acetylcysteine (NAC) is probably best known by the general public for its mucus-dissolving effects. However, scientists and supplement enthusiasts are more excited over NAC's ability to promote the levels of the master antioxidant glutathione (GSH) in our cells, its ability to scavenge free radicals, and its proven ability to soothe inflammation in various organs and disease states. Unlike supplemental GSH and its precursor (the nonacetylated semi-essential amino acid L-cysteine), NAC effectively crosses the blood– brain barrier. Once in the brain, NAC has been shown to strengthen the brain's antioxidant defenses, lower inflammation, and modulate essential neurotransmitter systems.[147][148] Pertinent studies have investigated and still are investigating NAC's effects in various neurodegenerative diseases and, more recently, psychiatric illnesses — including several forms of (pre)clinical depression.[148] 
+Psychologists and neuroscientists are still debating the physiological processes that are responsible for the 26
+onset, progression, and persistence of depression and related pathological mood disorders. However, most researchers agree that many of the various forms of depression can be traced back to abnormal mitochondrial activity in the brain that is triggered by oxidative stress and chronic inflammation.[149][150]In in vitro, animal, and even clinical trials, NAC has been shown to ameliorate similar states of neuroinflammation and has thus emerged as a promising agent for the treatment of various neurodegenerative and neuropsychiatric diseases ranging from autism to Alzheimer's disease and multiple sclerosis, to bipolar disorder, substance addiction, and depression.[151][152][153] 
+Thus far, research on NAC's potential role in depression and mood enhancement has largely focused on people with bipolar disorder with moderate or severe depression. The 4 contemporarily available meta analyses draw on a largely overlapping pool of randomized clinical trials that lasted for 8–24 weeks and compared the participants’ response to 1–3 grams per day of NAC, taken either alone or in combination with previously prescribed medication, to placebo treatments.[154][155][156][157]In regards to NAC's antidepressant effects, the meta-analyses that were published between 2016 and 2022 yielded mixed results. In Kishi et al. (2020) and Pittas et al. (2021), 2 meta-analyses were unable to confirm consistent, statistically significant effects on symptoms, functioning, and quality-of-life scales in moderate-to-severely depressed participants.[155] [157]In contrast, other meta-analyses that report favorable effects of NAC, Fernandes et al. (2016) and Nery et al. (2020), noted small-to-moderate effects (SMD) of 0.37 (95% C.I.: 0.19–0.55) on the MADRS and HDRS and 0.45 (95% C.I.: 0.06–0.84) based on the HAMD and MADRS scales, respectively.[154] [156] 
+What all of the meta-analyses share is that they rely on data from the same small and largely overlapping pool of studies. Against that background, the inconsistent effect sizes and difference in statistical significance of the meta-analyses’ results may come as a surprise — a surprise that can be explained by the small number of input studies. As a consequence, both the weighting and the inclusion/exclusion of a single study can have a relevant effect on the final outcome of the meta-analyses. Let’s take the meta-analysis by Pittas et al. as an example. It is the only one to include a small-scale (17 participants) study by Magalhães et al.,[157] which reported an almost incredible effect size of 2.33 (p = 0.008) and an average reduction of the MADRS score of 10 participants with bipolar disorder who were treated with 2x1 grams of NAC per day, from clearly pathologic 27.80 ± 10.00 points to 9.60 ± 5.50 points (note: levels below 7 points indicate remission and were achieved by 40% of the participants in the treatment group). That result is in stark contrast to the rather mediocre if not insignificant benefits that were observed in the other studies that were included in Pittas et al. and contributes decisively to the substantial heterogeneity (I²=83%) of the meta-analysis, which drops to I²=0% for the primary outcome when the Magalhães study is removed. 
+The previously discussed example may be considered extreme; nevertheless, it must be noted that all available meta-analyses are plagued by a high heterogeneity with respect to their primary outcomes (I² = 49%-93%). This makes it impossible to label N-acetylcysteine supplements as anything more than a "promising supplement" among the over-the-counter supplements with purported antidepressant effects, specifically a "promising supplement" for the rather small group of individuals (ca. 2.4% of the population) [158] with bipolar disorder. Future clinical studies will hopefully help us identify whether other groups of people with depression can benefit as well. Pertinent clinical evidence may also enable us to determine for whom NAC supplements are most useful and whether practical relevant effects can also be observed in healthy, nonclinically depressed individuals looking for improvements in mood during particularly stressful chapters of their lives. 
+Warnings about NAC 
+N-Acetylcysteine has been found to be well tolerated. N-Acetylcysteine does not cause adverse reactions 27
+with daily doses up to 800 mg (by mouth). Mild adverse effects such as nausea, vomiting, and heartburn and musculoskeletal complaints such as back and joint pain are possible.[159][154] 
+N-Acetylcysteine currently does not have any known drug interactions.[159]. Some studies have shown that N-acetylcysteine may interact with nitroglycerin. Nitroglycerin can dilate blood vessels and increase blood flow. N-Acetylcysteine enhances the pharmacological effect of nitroglycerin, causing low blood pressure. In conclusion, avoid this combination or use it with caution.[160][161] 
+N-Acetylcysteine has an anticoagulant and platelet-inhibiting effect. People with bleeding disorders, who are undergoing surgery, or who are taking blood thinning medications may want to avoid N-acetylcysteine because it could increase the risk of bleeding.[162][163] 
+In instances of acetaminophen poisoning, N-acetylcysteine should be avoided in the presence of coma or vomiting or if activated charcoal has been given by mouth.[164] 
+How to take NAC 
+Take 1–3 grams of plain N-acetylcysteine per day for 8–24 weeks. To avoid gastrointestinal side effects, split the dose into 2 or 3 smaller servings. 
+Curcumin 
+What makes curcumin a promising supplement 
+Curcumin is a component of turmeric (Curcuma longa). By regulating monoamine neurotransmission, reducing oxidative stress in the brain, modulating hypothalamic–pituitary–adrenal (HPA) axis function, and attenuating neuroinflammation, supplementation with curcumin may reduce symptoms of depression.[165] 
+Indeed, meta-analyses that examined the effect of supplementation with curcumin on symptoms of depression have generally reported positive results.[166][167] That said, the size of the effect was small to moderate and was statistically significant only in subgroups of participants with major depressive disorder (MDD). It’s also worth noting that, in one of the meta-analyses, the effect of curcumin on symptoms of depression was statistically insignificant when only trials of high methodological quality were considered.[167] 
+For the reasons above, curcumin can only rank as a promising supplement. 
+Warnings about curcumin 
+Curcumin seems to be well tolerated. Some studies have reported a small amount of gastrointestinal related side effects.[168][169] Rare, individual reports of hepatitis associated with taking turmeric have also occurred.[170][171] The reason for this effect is unclear, but it is possible that it involves contamination (e.g., formulations with a high heavy metal content). It is unclear whether the same concerns apply to curcumin extract, but regardless, it is important to only buy from companies whose products have been tested independently. 
+Piperine is a potent inhibitor of a variety of cytochrome P450 enzymes, which is one part of what makes it a curcumin enhancer and of potential use for augmenting the effects of other drugs; in other words, it can 28
+reduce the rate of drug metabolism.[172][173][174] However, this property may make some medications more potent and lead to excessive effects. As such, it may be prudent to talk to a doctor or pharmacist before combining piperine and medications. 
+The same goes for curcumin itself, which has the ability to inhibit a variety of cytochrome P450 enzymes, albeit to a lesser extent.[172][175] 
+Curcumin may increase the risk of bleeding by interacting with anticoagulants such as warfarin and with antiplatelets such as aspirin.[176][177] Taking curcumin with diabetes medication such as glyburide may increase the risk of low blood sugar.[178] 
+Some athletes use curcumin to fight muscle inflammation. In theory, curcumin should have effects similar in nature and potency to those of aspirin, and rodent studies on this aspect are promising, but human studies are needed for confirmation. 
+How to take curcumin 
+By itself, curcumin is poorly absorbed. Among the methods devised to address the absorption issue, the two most common (and most often tested) methods are to pair curcumin with piperine (a black pepper extract) or to combine it with lipids (such as in BCM-95®). For either of these, most trials have examined daily doses of 500–1,500 milligrams. 
+To supplement with curcumin + piperine, take 500 mg of curcumin with 20 mg of piperine three times per day (i.e., a total of 1,500 mg of curcumin and 60 mg of piperine per day). 
+To supplement with BCM-95®, a patented combination of curcumin and essential oils, take 500 mg twice per day (i.e., a total of 1,000 mg/day). 
+To supplement with Meriva®, a patented combination of curcumin and soy lecithin, take 200–500 mg twice per day (i.e., a total of 400–1,000 mg/day). 
+Curcumin is usually taken together with food. 
+Zinc 
+What makes zinc a promising supplement for medically treated clinical depression only 
+Zinc is an essential mineral in the human diet and is an indispensable constituent of hundreds of vital enzymes and proteins. Thus, zinc is essential for the proper function of over 300 biological processes in the human body, including fundamental cellular processes such as DNA replication, transcription, protein synthesis, maintenance of cell membranes, cellular transport, as well as in the endocrine, immunological, and neuronal systems.[179] [180] [181] 
+Recently, there has been increasing scientific interest in the role of zinc in central neuronal function and signaling.[182][183] With the emerging consensus that depression is characterized by a severe imbalance 
+29
+between the main excitatory (glutamatergic) and inhibitory (GABAergic) systems in the brain, researchers generally seem to agree that zinc's inhibitive effect on the NMDA receptors in our brains could explain the antidepressant effects of this essential trace mineral in preclinical and clinical studies.[184][183] Because the majority of these trials were conducted with zinc as an adjunct to conventional therapy with antidepressants, scientists can only speculate that the provision of zinc alone may have mood-enhancing and antidepressant effects as a standalone treatment and/or in nonclinically depressed individuals.[185] 
+The results of 2 recent meta-analyses, in the previously mentioned group of medically treated individuals with moderate to severe depression, are generally promising.[186][187] However, because their authors rely on the same, very limited evidence base, even the usefulness of coadministering zinc with antidepressant drugs must still be considered preliminary. Moreover, the additional effect of zinc supplements seems to be rather small. 
+In a methodologically solid (preregistered, followed PRISMA and PICOS standards) 2021 meta-analysis of 5 randomized clinical trials with durations ranging from 10 to 24 weeks, da Silva et al. reported a small beneficial effect of zinc supplements, as evidenced by a standard mean difference of −0.36 (95%CI, -0.67 to -0.04), indicative of a small effect, on the Beck Depression Inventory in 182 adults with clinically diagnosed major depression. That doesn’t sound like much, but in 3 of 5 studies, this effect reflected an absolute reduction of the mean BDI score from values of 30 points or more, indicative of severe depression, to scores below 18 which signify a practically relevant alleviation of mild-to-moderate depression that was not observed in the control groups.[188][189][190] 
+In further subgroup analyses, da Silva et al. were able to show that the effect sizes increased with the average age of the subjects. from nonsignificant, small effects (standardized mean difference/SMD)] of −0.20; p=0.086) in participants below the age of 40 to statistically significant, moderately sized effects in those aged 40 or older (SMD of −0.61; p = 0.010). Whether that result is due to a higher prevalence of zinc deficiency in older individuals remains speculative and will have to be elucidated in future trials. Da Silva et al.'s overall positive results are in line with the observations of the other previously cited meta-analysis, by Donig and Hautzinger,[187] that used the Hamilton Depression Rating Scale instead of the BDI as the primary outcome and included only 3 out of 5 of the papers in da Silva's previously discussed meta-analysis. Their analysis of the data revealed a moderate effect size of g = −0.67 (p = 0.03) in response to supplements that provided 25 mg of elemental zinc per day. With a total study population of 124 participants in 3 clinical trials, the significance of the data remains questionable. 
+With the existing evidence in favor of mood-enhancing effects of zinc supplements — coming from clinical trials in participants with moderate to severe clinical depression who received the zinc supplements as an adjunct to conventional antidepressant therapy — zinc can be classified as a "promising" supplement only for this rather small group of individuals. Evidence of mood-enhancing effects in the absence of medically treated clinical depression, on the other hand, is lacking. 
+Warnings about zinc 
+Zinc is considered safe for adults in amounts less than 40 mg per day.[191] When this level of intake is exceeded, nausea, vomiting, stomach cramps, and even diarrhea can occur.[191] 
+30
+Effects of low, adequate, and high zinc intake 
+
+At the same time, insufficient zinc intake can also cause gastrointestinal issues; it’s all about balance. If too much zinc is taken — generally, more than 100 mg — for a long time, it can also decrease levels of copper, an important mineral needed for iron absorption and red blood cell formation.[192] Chronic zinc consumption or very high doses over a short period may also decrease the immune response[193] and reduce levels of 
+HDL-C.[191] Zinc can also interact with quinolone and tetracycline antibiotics such as ciprofloxacin and doxycycline.[194][195] Taking zinc along with these antibiotics can reduce the amount of each that is absorbed. To reduce this effect, the antibiotic should be taken at least 2 hours before or 4–6 hours after zinc.[196][197] Other medicines, such as chlorthalidone and hydrochlorothiazide, can increase zinc in urine, so taking these thiazide diuretics could decrease the amount of zinc in the body.[198] Knowing what dietary supplements a person takes is important for doctors and pharmacists so that they can check for any interactions. 
+Tolerable Upper Intake Levels (ULs) of zinc in milligrams 
+
+
+Reference: Zinc[191] 
+How to take zinc 
+31
+To support the medical treatment of clinical depression, take a supplement that provides 25 mg of elemental zinc per day for at least 10 weeks. Although dietary protein enhances the absorption of zinc, avoid taking zinc with foods that are high in phytate, such as nuts, seeds, legumes, (whole) grains, and cereals.[199] Due to their improved bioavailability, water-soluble zinc salts such as zinc sulfate, zinc citrate, or zinc gluconate are preferred over common zinc oxide supplements.[200] Soluble complexes of zinc with amino acids or zinc-chelating peptides from protein hydrolysates, such as zinc histidine or zinc bisglycinate, seem to be even better tolerated,[201][202] but whether this makes a practically relevant difference with respect to zinc's putative beneficial effect on medically treated clinical depression has yet not been evaluated in clinical trials. 
+Warning: Avoid taking supplements containing significantly more than the previously recommended 25 mg of elemental zinc because high doses of supplemental zinc (> 50 mg/day) have been linked to copper and/or iron deficiency.[203] [204] 
+In view of zinc’s (literally) vital role for human health, it is truly disconcerting that researchers estimate the risk and prevalence of zinc deficiency worldwide at 17%–30%, with higher deficiency rates in lower-income countries and lower rates in higher-income countries such as the U.S., for which scientists estimate that roughly 10% of the population is at risk of zinc deficiency due to zinc intakes that are 50% or more below the recommended dietary allowance (RDA) — 11 mg per day for men and 8 mg per day for women.[205][206][207] Foods that are high in zinc include meat, fish, and seafood. Much smaller quantities of zinc can be found in eggs and dairy products, as well as seeds, nuts, legumes, and whole grains; the high phytate content of grains has yet been suggested to impair the bioavailability (absorption and use) of this essential trace element.[208][209] 
+SAMe 
+What makes SAMe a promising supplement 
+S-Adenosylmethionine (SAMe) works with enzymes in a process called methylation — when a molecule in the body needs a methyl group to undergo a chemical reaction, SAMe can provide that group.[210] This affects the function of numerous neurotransmitters, and insufficient methylation has been mechanistically implicated in various neurological disorders, including depression. 
+Although preliminary trials have suggested meaningful benefits for participants with major depressive disorder,[211][212][213][214] their different methods make it difficult to be confident in these findings. More recent studies have found mixed results, and while one trial found comparable effects with a common antidepressant[215] and two found an augmentation effect when combined with antidepressants,[216][217] other trials haven’t found evidence of a significant benefit for the purpose of augmentation or on its own.[218][219] Therefore, although it’s entirely possible that SAMe could yield meaningful benefits in some contexts, it is unclear whether it’s worthwhile for most people, especially compared with other options within this guide, and more research is needed — particularly, more trials with highly rigorous methodologies. 
+For these reasons SAMe is only a promising supplement. 
+Warnings about SAMe 
+32
+SAMe is well tolerated and has adverse effects similar to those of a placebo.[220]. Instances of mania, pruritus, and headache have been reported with the use of 1,600 mg of SAMe.[211]. Mild adverse effects such as headache, anxiety, nausea, and diarrhea are possible.[221][222] 
+SAMe has been shown to be safe in treating intrahepatic cholestasis during pregnancy.[223] Despite the mild evidence that it could be safe during pregnancy, longer-term information isn’t available, so caution during pregnancy is still advisable. SAMe did not cause any adverse events in breastfed infants over 2 months old, which provides limited evidence that it could be safe during breastfeeding, but there isn’t enough data to support using it during this stage, so avoid using it during breastfeeding.[224] SAMe should be avoided by individuals with bipolar disease because it appears to increase mania and anxiety.[225][226] SAMe should also be avoided by individuals with Parkinson’s disease because it decreases the effect of levodopa.[227] 
+How to take SAMe 
+Before using any supplements, consult with a physician — especially if taking pharmaceuticals that mediate serotonin. 
+Take 800 mg of SAMe twice per day* (i.e., 1,600 mg/day), with or without food. Starting with a small dose (200 or 400 mg) and gradually increasing it over the course of weeks may reduce the likelihood of side effects. 
+Magnesium 
+What makes magnesium a promising supplement 
+Magnesium is an essential dietary mineral that acts as a coenzyme (an activator) for several hundred different enzymatic reactions, many of which are critical for proper functioning of the central nervous system.[228]Interest in magnesium for mood disorders stems from evidence from observational studies that people with depression have lower serum magnesium levels,[229] and diets with higher (adequate) magnesium intake are associated with a reduced risk of depression.[230] 
+Preclinical evidence in animals indicates that magnesium may have beneficial effects on mood and depression through several mechanisms, such as inhibiting NMDA receptors in the brain (thus modifying glutamatergic neurotransmission), increasing brain-derived neurotrophic factor (BDNF) levels, regulating hypothalamic–pituitary–adrenal (HPA) axis activity, and modulating monoaminergic neurotransmission.[231][229] Also, because magnesium deficiency is linked to increased levels of inflammation and oxidative stress,[228][232] magnesium may have protective effects against depression by keeping inflammation and oxidative stress at bay. 
+Only a few studies have investigated the effect of supplemental oral magnesium on mood and depression, and this small group of studies have used heterogeneous study designs. Two studies in participants with depression reported that supplementing with magnesium improved depression symptoms and increased serum magnesium levels, compared to a placebo.[233][234]In addition, a study in older adults with type 2 diabetes and newly diagnosed depression found that supplemental magnesium was as effective as imipramine for improving depression symptoms.[235] 
+33
+Similarly, the results of a study in women with obesity and mild-to-moderate depression also suggested that supplementing with magnesium reduced depression symptoms to a slightly greater extent than a placebo.[236] However, there are a couple of limitations worth noting, namely, that the participants were vitamin D deficient and that the trial was not statistically powered to detect differences in depression symptoms between groups. 
+Supplemental magnesium may also have beneficial effects on mood outside of people with depression, as evidenced by improvements in negative affect in women with premenstrual syndrome.[237]In contrast, a study in postpartum women without depression reported that supplemental magnesium did not affect depression symptoms.[238] 
+Concerning the effectiveness of supplemental magnesium as an adjunct therapy to antidepressants, one study reported that supplemental magnesium did not enhance the effectiveness of antidepressant therapy.[239] However, a potential limitation of this trial was that there were no differences between groups for changes in serum magnesium levels. 
+The limited evidence available suggests that supplemental magnesium has a beneficial effect on depression symptoms in people with depression, particularly when serum magnesium levels are low. However, more studies are needed to strengthen confidence in these findings. As a result, magnesium is ranked as a promising supplement as of 2023. 
+Warnings about magnesium 
+High doses of supplemental magnesium can cause diarrhea and general intestinal discomfort;[240] fortunately, magnesium obtained via food has not been seen to cause such problems.[240] Magnesium is excreted through the kidneys, and therefore, excess magnesium that is present in food and beverages is usually removed via urine. However, magnesium in dietary supplements and medications should not be consumed in amounts greater than 350 mg daily for adults. Excessive intake of magnesium has primarily been shown to cause diarrhea; however, other mild gastrointestinal effects such as nausea and abdominal cramping have been reported as well. Similar to other supplements, magnesium can also interact with other medications. For example, diuretics (e.g., hydrochlorothiazide can also increase or decrease magnesium.[241] Medications used to treat osteoporosis (e.g., bisphosphonates)[242] and also antibiotics (e.g., quinolones[243] and tetracyclines[244]) are not well absorbed when high amounts of magnesium are consumed, and thus their doses should be separated. High doses of zinc may also interfere with the absorption abilities of magnesium and should be separated as well.[245] Therefore, it is important that doctors and pharmacists should be informed about all dietary supplements, for safety. 
+Tolerable Upper Intake Level (UL) for supplemental magnesium (mg) 
+
+
+Reference: Institute of Medicine. Magnesium (chapter 6 in Dietary Reference Intakes for Calcium, Phosphorus, Magnesium, Vitamin D, and Fluoride.) The National Academies Press. 1997.[240] 
+34
+How to take magnesium 
+Before considering a magnesium supplement, it’s prudent to determine whether it is actually needed, which involves checking total serum magnesium or red blood cell magnesium levels. If magnesium levels are inadequate, then diet should be assessed to determine whether it’s feasible to increase the intake of magnesium from whole foods. If this approach isn’t possible, a magnesium supplement is worthy of consideration. 
+In studies that have reported positive effects of supplemental magnesium in participants with depression, a dosage of 250 mg of magnesium oxide taken twice per day with meals was most commonly used.[233][234] Further research is warranted to determine whether other forms of magnesium or other dosage strategies produce superior effects. This dosage exceeds the tolerable upper intake of magnesium, and so it is likely not sustainable, and any long-term use should probably be guided by testing of magnesium levels. Long term magnesium supplementation shouldn’t exceed 350 mg per day for people older than 9 years, based on the tolerable upper intake. 
+Who is more likely to have low magnesium levels? 
+Older people, because they tend to have relatively low magnesium intakes[246] and may absorb less during digestion.[247]. 
+People who sweat a lot, because magnesium is lost through sweat. Athletes participating in sports requiring weight control may be especially vulnerable. 
+Type 2 diabetics,because it has been estimated that in all adult ages in developed countries, hypomagnesemia affects less than 15% of healthy people but up to 50% of people with type 2 diabetes.[248] 
+There is no single agreed on and satisfactory method for assessing magnesium status.[249] To get a better sense of typical magnesium intake, an individual should track what they eat for a week. If, on average, a person is getting less than 80% of the Recommended Dietary Allowance (RDA), supplementation becomes an option, but a first step should be eating more foods rich in magnesium. 
+Recommended Dietary Allowance (RDA) for magnesium (mg) 
+
+
+* Adequate intake (AI) 
+Reference: Institute of Medicine. Magnesium (chapter 6 of Dietary Reference Intakes for Calcium, Phosphorus, Magnesium, Vitamin D, and Fluoride. The National Academies Press. 1997. DOI:10.17226/5776) 
+35
+Magnesium content of seeds and nuts (mg) 
+Reference: USDA FoodData Central Database. 
+36
+Unproven Supplements 
+Chromium 
+What makes chromium an unproven 
+supplement 
+Chromium is an essential micronutrient with particular relevance for metabolic health,[250][251][252]In individuals with diabetes, chromium supplements have shown significant insulin-sensitizing effects.[253] Due to an existing relationship between central serotonergic activity and insulin sensitivity,[254] researchers have speculated that chromium supplements may normalize the levels of serotonin and thus trigger significant improvements in mood and alleviate symptoms of depression in both generally healthy and chronically depressed individuals.[255] 
+Evidence that the previously outlined “chromium-insulin-serotonin” connection holds is still scarce, to say the least. Very few industry-funded studies have reported improvements on various indices for within group comparisons, but all have failed to detect statistically significant differences in inter-group comparisons. In fact, none of the studies that had a proper control group found statistically significant between-group differences in mood-related and depression-related indices such as the 29-item Hamilton Depression Rating Scale (HAM-D-29) or the Clinical Global Impressions Improvement Scale (CGI-I) in participants with atypical depression or premenstrual dysphoric disorder.[256][257][258] Additionally, evidence of chromium's putative mood-lifting effects in healthy individuals simply does not exist. 
+As convincing as the chromium-insulin-serotonin connection may sound, scientific evidence that the mere provision of 400–600 µg per day of chromium picolinate can significantly alleviate symptoms of depression — let alone lift the mood of otherwise healthy supplement users — simply doesn't exist. As of fall 2022, the use of chromium picolinate supplements as mood enhancers is thus clearly unproven. 
+Uridine 
+What makes uridine an unproven supplement 
+Uridine is required to create neuronal membranes. It can also increase the rate of neuronal growth and turnover. There is little uridine in food. Although the body can synthesize enough to satisfy its basic needs, supplemental uridine can bring additional benefits. 
+Rodent studies suggest that uridine interacts with many neurotransmitters and pharmaceuticals. Although uridine on its own might help with symptoms of depression — as evidenced by one small-scale noncontrolled study[259] — it is more likely to support the action of those antidepressants, mood enhancers, and cognitive boosters that rely on growth factors, such as blueberries and Bacopa monnieri. 
+Overall, a lack of human studies and long-term safety data means that, as a mood enhancer, uridine is at best an unproven supplement. 
+37
+Ashwagandha 
+What makes ashwagandha an unproven supplement 
+Ashwagandha (Withanian somnifera) is the most prominent herb used in Ayurvedic medicine.[260]It is considered an adaptogen, meaning that it purportedly enhances the body’s resilience to stress. The health benefits of ashwagandha are attributed to the density of bioactive compounds in the plant (predominantly in the roots), most notably a group of steroidal lactones known as withanolides.[261] 
+Ashwagandha may have positive effects on mood and depression through its antistress effects because stress can cause changes in the brain that have been implicated in the development of many mental health conditions.[262][263] The proposed mechanisms of action for these effects include reductions in inflammation and oxidative stress in the brain and modulation of hypothalamic–pituitary–adrenal (HPA) axis function and GABAergic neurotransmission.[264] 
+Only a few studies have examined the effects of ashwagandha on depression symptoms, and each of these studies focused on a different population. In participants with reportedly elevated levels of stress, supplementing with ashwagandha meaningfully improved depression symptoms.[265]In contrast, ashwagandha was not found to benefit depression symptoms in people with bipolar disorder.[266] However, depression symptoms (assessed using the Montgomery-Åsberg Depression Rating Scale) were either absent or mild at baseline, greatly limiting the potential for improvement via supplementation. 
+Ashwagandha might be a useful adjunct to antipsychotics in the treatment of schizophrenia, as evidenced by a moderate improvement in depression symptoms in one study.[267] However, the study was not designed to detect changes in depression symptoms, so the results should be interpreted with caution. 
+Due to the limited number of studies, as well as heterogeneity in the populations studied, ashwagandha is ranked as an unproven supplement at this time. 
+Inositol 
+What makes inositol an unproven supplement 
+Inositol refers to a group of molecules that are structurally similar to glucose. Myo-inositol is the most notable molecule of the bunch, and herefafter, “inositol” will primarily refer to “myo-inositol”. 
+Inositol is naturally present in the body — including in the brain, where levels are much higher than that in plasma[268] — and is obtained through the diet, mostly via consumption of fruits, beans, grains, and nuts.[269] Inositol is mainly of interest for mood and depression because these molecules act as second messengers 
+for several neurotransmitter systems,[270] and some evidence suggests that inositol levels in cerebrospinal fluid and the brain are reduced in people with mood disorders.[271][272][273]Inositol may also provide benefits through its antioxidant properties.[274] 
+Evidence for the beneficial effects of inositol in improving depression symptoms in people with major depressive disorder is extremely limited.[275] Furthermore, inositol does not appear to be useful as adjunct 38
+therapy to antidepressants in this population.[276][277] 
+With respect to bipolar depression, inositol has been primarily examined as an adjunct therapy. One study reported no effect of inositol on average depression symptom scores, compared to placebo; however, there was a nonsignificant difference between groups in the number of participants who achieved a 50% or greater improvement in depression symptom scores in favor of the inositol group (50%–67% vs. 30%–33%, depending on the rating scale used).[278] Similarly, a separate study reported that inositol did not affect average depression symptom scores, compared to placebo, but 44% of participants in the inositol group experienced a 50% or greater improvement in depression symptom scores, whereas 0% achieved this feat in the placebo group.[279] 
+In a study that had participants with treatment-resistant bipolar depression take inositol, lamotrigine (mood-stabilizing drug), or risperidone (antipsychotic drug) as an adjunct therapy, the rate of recovery (defined as no more than 2 symptoms that met the criteria for a mood episode and no significant symptoms for 8 weeks) was similar between groups.[280] 
+Mixed results have also been reported in women with premenstrual dysphoric disorder, with 1 study reporting that supplemental inositol improved depression symptoms[281] and 1 study reporting no effect.[282] 
+As of this writing, the available evidence is simply too limited and conflicting to rank inositol beyond an unproven supplement. 
+39
+Inadvisable Supplements 
+Psychostimulants 
+What makes psychostimulants an unproven supplement 
+Psychostimulants are supplements or pharmaceuticals, such as methylphenidate (Ritalin) and dextroamphetamine (Dexampex, Ferndex), that temporarily benefit cognition and mood. Psychostimulants may even induce euphoria. However, if used too frequently, they are likely to cause the original depressive symptoms to worsen. This warning applies to supplements as well as pharmaceuticals. 
+Mechanisms of action for Ritalin (methylphenidate) 
+Reference: Wilens. J Clin Psychiatry. 2006.[283] 
+40
+FAQ 
+Q. What about the supplements not covered in this guide? 
+Our guides are regularly updated, often with new supplements. We prioritize assessing (and reassessing) the most popular of them and those most likely to work. However, if there is a specific supplement you’d like to see covered in a future update, please let us know by filling out this survey. 
+Q. Can I add a supplement not covered in this guide to my combo? 
+Supplement with your current combo for a few weeks before attempting any change. Talk to your physician and research each potential addition. Check for known negative interactions with other supplements and pharmaceuticals in your current combo and also for synergies. If two supplements are synergistic or additive in their effects, you might want to use lower doses of each. 
+Q. Can I modify the recommended doses? 
+If a supplement has a recommended dose range, stay within that range. If a supplement has a precise recommended dose, stay within 10% of that dose. Taking more than recommended could be counterproductive or even dangerous. Taking less could render the supplement ineffective, yet starting with half the regular dose could be prudent — especially if you know you tend to react strongly to supplements or pharmaceuticals. 
+Q. At what time should I take my supplements? 
+The answer is provided in the “How to take” section of a supplement entry whenever the evidence permits. Too often, however, the evidence is either mixed or absent. Starting with half the regular dose can help minimize the harm a supplement may cause when taken during the day (e.g., fatigue) or in the evening (e.g., insomnia). 
+Q. Should I take my supplements with or without food? 
+The answer is provided in the “How to take” section of a supplement entry whenever the evidence permits. Too often, however, the evidence is either mixed or absent. Besides, a supplement’s digestion, absorption, and metabolism can be affected differently by different foods. Fat-soluble vitamins (A, D, E, K), for instance, are better absorbed with a small meal containing fat than with a large meal containing little to no fat. 
+41
+Q. What are DRI, RDA, AI, and UL? 
+The Dietary Reference Intakes (DRIs) is a system of nutrition recommendations designed by the Institute of Medicine (a US institution now known as the Health and Medicine Division). RDA, AI, and UL are part of this system. 
+Contrary to what the name suggests, a Recommended Dietary Allowance (RDA) doesn’t represent an ideal amount; it represents the minimum you need in order to avoid deficiency-related health issues. More precisely, it represents an amount just large enough to meet the minimum requirements of 97.5% of healthy males and females over all ages — which implies that the RDA is too low for 2.5% of healthy people. 
+The Adequate Intake (AI) is like the RDA, except that the number is more uncertain. 
+The Tolerable Upper Intake Level (UL) is the maximum safe amount. More precisely, it is the maximum daily amount deemed to be safe for 97.5% of healthy males and females over all ages — which implies that the UL is too high for 2.5% of healthy people. 
+As a general rule, a healthy diet should include at least the RDA of each nutrient — but less than this nutrient’s UL. This rule has many exceptions, though. For instance, people who sweat more need more salt (i.e., sodium), whereas people who take metformin (a diabetes medicine) need more vitamin B12. 
+Moreover, the DRIs are based on the median weight of adults and children in the United States. Everything else being equal (notably age, sex, and percentage of body fat), you likely need a lesser amount of nutrients if you weigh less and vice versa if you weigh more. The numbers, however, are not proportional — if only because the brains of two people of very different weights have very similar needs. So you can’t just double your RDIs for each nutrient if you weigh twice as much as the median adult of your age and sex (even if we overlook that people weighing the same can differ in many respects, notably body fat). 
+Q. What’s the difference between elemental zinc and other kinds of zinc? 
+“Elemental” refers to the weight of the mineral by itself, separately from the compound bound to it. For instance, consuming 50 mg of zinc gluconate means consuming 7 mg of elemental zinc. Product labels display the elemental dosage. On a label, “7 mg of zinc (as zinc gluconate)” means 7 mg of elemental zinc (and 43 mg of gluconic acid). 
+Q. Can I combine creatine and TMG? 
+Those two methylation agents work through the same channel. With regard to mood and cognition, combining them will not provide additional benefits. 
+Q. Will supplementing or consuming turmeric yield the same benefits as curcumin 
+supplementation? 
+42
+Curcumin is the active ingredient in turmeric that yields many of the benefits currently seen, but both are poorly absorbed in the gastrointestinal tract and usually require some enhancement to increase bioavailability.[284] Typically, a compound found in black pepper, known as piperine, is supplemented alongside curcumin to increase this bioavailability.[285] Other products increase bioavailability by using specialized formulations, such as the use of nanotechnology or a blend of essential oils. 
+It is unlikely, however, that simply consuming turmeric in small amounts through the diet will yield the same benefits as supplementing large doses of curcumin, due to the small dosage and poor bioavailability. It is also worth noting that turmeric has been found in some studies to be contaminated with heavy metals like lead.[286] 
+Q. Are curcumin’s anti-inflammatory effects responsible for its beneficial effects on depression and anxiety? 
+Although it is possible that the general anti-inflammatory effects may be at play, it is hard to pin down curcumin’s exact mechanism of action because it is a compound that can often result in false positives in mechanistic studies[287] and therefore may mislead researchers into producing false hypotheses. 
+Q. Is there a best diet for depression? 
+The best way to answer this question would be through head-to-head trials or a network meta-analysis. Unfortunately, this information isn’t available yet. However, dietary trends appear to emerge across dietary intervention trials investigating changes in depressive symptoms and several align with a Mediterranean type diet pattern. 
+Increases in fruit and vegetables, nuts and seeds, and fish intake appear to be beneficial.[288]In addition, decreases in processed meats, refined carbohydrates, and other highly processed foods have previously been found to be associated with greater mental well-being.[289] 
+Even though the state of the evidence isn’t ideal, there is some evidence that certain food groups, summarized below, may impact the risk of depression. 
+43
+Foods that are associated with depressive risk 
+Reference: Opie et al. Nutr Neurosci. 2017.[290] ● Phillips et al. Clin Nutr. 2018.[289] 
+Q. How does exercise compare to 
+antidepressant medication or psychotherapy for treating depression? 
+Exercise seems to compare at least comparably with the current medical standard of care for depression.[291][292]In one clinical trial, researchers randomly assigned 156 moderately depressed men and women to an exercise intervention, medication, or a combined exercise and medication group.[293] 
+The exercise group walked or jogged on a treadmill for 30 minutes, 3 times per week for 16 weeks. 44
+The medication group received the common selective serotonin reuptake inhibitor (SSRI) sertraline (Zoloft) The combination group received the medication and performed the exercise program concurrently. 
+Results showed that the medication worked more quickly to reduce symptoms of depression, but exercise was equally effective at the end of the 16-week program and created more lasting alleviation of depression at a 10-month follow-up.[294] 
+Q. Is there a best type of exercise to protect against depression? 
+A large-scale observational study of nearly 18,000 individuals compared self-reported moderate to vigorous-intensity aerobic physical activity, muscle-strengthening exercise, and a combination of the two.[295] The researchers observed that individuals who met Centers for Disease Control and Prevention (CDC) guidelines for both aerobic and muscle-strengthening exercise[296] had the lowest prevalence ratios for depressive symptom severity. The results can be seen below, which are sorted by depression severity. 
+Impact of meeting CDC activity guidelines on depression Reference: Bennie et al. Prev Med. 2019.[295] 
+Despite the considerable number of individual studies on this topic, further work is needed to refine potential recommendations to account for the following: 
+Aerobic versus non-aerobic physical activity versus a combination of the two 
+Type(s) of physical activity that may confer the greatest benefit 
+Differences between men and women 
+45
+Differences across age groups 
+Severity of the depression 
+Comorbidities 
+Furthermore, it would be helpful to know the minimum duration and intensity of physical activity that still exerts a meaningful level of protection from depression. 
+46
+References 
+1. Sinyor M, Rezmovitz J, Zaretsky A Screen all for depression. BMJ. (2016 Mar 29) 
+2. Ferrari AJ, Charlson FJ, Norman RE, Patten SB, Freedman G, Murray CJ, Vos T, Whiteford HA Burden of depressive disorders by country, sex, age, and year: findings from the global burden of disease study 2010. PLoS Med. (2013 Nov) 
+3. GBD 2015 Disease and Injury Incidence and Prevalence Collaborators Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990-2015: a systematic analysis for the Global Burden of Disease Study 2015. Lancet. (2016 Oct 8) 
+4. Rössler W The stigma of mental disorders: A millennia-long history of social exclusion and prejudices. EMBO Rep. (2016 Sep) 
+5. Fried EI The 52 symptoms of major depression: Lack of content overlap among seven common depression scales. J Affect Disord. (2017 Jan 15) 
+6. Fried EI, Nesse RM Depression sum-scores don't add up: why analyzing specific depression symptoms is essential. BMC Med. (2015 Apr 6) 
+7. Zimmerman M, Ellison W, Young D, Chelminski I, Dalrymple K How many different ways do patients meet the diagnostic criteria for major depressive disorder?. Compr Psychiatry. (2015 Jan) 
+8. Leoutsakos JM, Zandi PP, Bandeen-Roche K, Lyketsos CG Searching for valid psychiatric phenotypes: discrete latent variable models. Int J Methods Psychiatr Res. (2010 Jun) 
+9. Beck AT, Steer RA, Carbin MG https://doi.org/10.1016/0272-7358(88)90050-5title=Psychometric properties of the Beck Depression Inventory: Twenty-five years of evaluation. Clin. Psychol. Rev.. (1988) 
+10. Rush AJ, Gullion CM, Basco MR, Jarrett RB, Trivedi MH The Inventory of Depressive Symptomatology (IDS): psychometric properties. Psychol Med. (1996 May) 
+11. HAMILTON M A rating scale for depression. J Neurol Neurosurg Psychiatry. (1960 Feb) 
+12. Montgomery SA, Asberg M A new depression scale designed to be sensitive to change. Br J Psychiatry. (1979 Apr) 13. Hirschfeld RM History and evolution of the monoamine hypothesis of depression. J Clin Psychiatry. (2000) 14. Richelson E Pharmacology of antidepressants. Mayo Clin Proc. (2001 May) 
+15. Krishnan V, Nestler EJ The molecular neurobiology of depression. Nature. (2008 Oct 16) 
+16. Andrews PW, Bharwani A, Lee KR, Fox M, Thomson JA Jr Is serotonin an upper or a downer? The evolution of the serotonergic system and its role in depression and the antidepressant response. Neurosci Biobehav Rev. (2015 Apr) 
+17. van der Veen FM, Evers EA, Deutz NE, Schmitt JA Effects of acute tryptophan depletion on mood and facial emotion perception related brain activation and performance in healthy women with and without a family history of depression. Neuropsychopharmacology. (2007 Jan) 
+18. Malberg JE, Eisch AJ, Nestler EJ, Duman RS Chronic antidepressant treatment increases neurogenesis in adult rat hippocampus. J Neurosci. (2000 Dec 15) 
+19. Arumugam V, John VS, Augustine N, Jacob T, Joy SM, Sen S, Sen T The impact of antidepressant treatment on brain-derived neurotrophic factor level: An evidence-based approach through systematic review and meta-analysis. Indian J Pharmacol. (2017 May-Jun) 
+20. Brites D, Fernandes A Neuroinflammation and Depression: Microglia Activation, Extracellular Microvesicles and microRNA Dysregulation. Front Cell Neurosci. (2015 Dec 17) 
+21. Sanacora G, Treccani G, Popoli M Towards a glutamate hypothesis of depression: an emerging frontier of neuropsychopharmacology for mood disorders. Neuropharmacology. (2012 Jan) 
+22. Anacker C, Zunszain PA, Carvalho LA, Pariante CM The glucocorticoid receptor: pivot of depression and of antidepressant treatment?. Psychoneuroendocrinology. (2011 Apr) 
+23. McClung CA Circadian genes, rhythms and the biology of mood disorders. Pharmacol Ther. (2007 May) 
+24. Miller AH, Raison CL The role of inflammation in depression: from evolutionary imperative to modern treatment target. Nat Rev Immunol. (2016 Jan) 
+25. Delgado PL Depression: the case for a monoamine deficiency. J Clin Psychiatry. (2000) 
+26. Delgado PL, Moreno FA Role of norepinephrine in depression. J Clin Psychiatry. (2000) 
+27. Psaltopoulou T, Sergentanis TN, Panagiotakos DB, Sergentanis IN, Kosti R, Scarmeas N Mediterranean diet, stroke, cognitive impairment, and depression: A meta-analysis. Ann Neurol. (2013 Oct) 
+28. Lee H, Kim S, Kim D Effects of exercise with or without light exposure on sleep quality and hormone reponses. J Exerc Nutrition Biochem. (2014 Sep) 
+29. Leone M, Lalande D, Thériault L, Kalinova É, Fortin A Effects of an exercise program on the physiological, biological and psychological profiles in patients with mood disorders: a pilot study. Int J Psychiatry Clin Pract. (2018 Nov) 
+30. Lo JC, Ong JL, Leong RL, Gooley JJ, Chee MW Cognitive Performance, Sleepiness, and Mood in Partially Sleep Deprived 47
+Adolescents: The Need for Sleep Study. Sleep. (2016 Mar 1) 
+31. Lastella M, Lovell GP, Sargent C Athletes' precompetitive sleep behaviour and its relationship with subsequent precompetitive mood and performance. Eur J Sport Sci. (2014) 
+32. McClung CA How might circadian rhythms control mood? Let me count the ways. Biol Psychiatry. (2013 Aug 15) 
+33. Ioannidis JPA Therapy and prevention for mental health: What if mental diseases are mostly not brain disorders?. Behav Brain Sci. (2019 Jan) 
+34. Kirsch I, Deacon BJ, Huedo-Medina TB, Scoboria A, Moore TJ, Johnson BT Initial severity and antidepressant benefits: a meta analysis of data submitted to the Food and Drug Administration. PLoS Med. (2008 Feb) 
+35. Cipriani A, Furukawa TA, Salanti G, Chaimani A, Atkinson LZ, Ogawa Y, Leucht S, Ruhe HG, Turner EH, Higgins JPT, Egger M, Takeshima N, Hayasaka Y, Imai H, Shinohara K, Tajika A, Ioannidis JPA, Geddes JR Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis. Lancet. (2018 Apr 7) 
+36. Munkholm K, Paludan-Müller AS, Boesen K Considering the methodological limitations in the evidence base of antidepressants for depression: a reanalysis of a network meta-analysis. BMJ Open. (2019 Jun 27) 
+37. Wang SM, Han C, Lee SJ, Jun TY, Patkar AA, Masand PS, Pae CU Efficacy of antidepressants: bias in randomized clinical trials and related issues. Expert Rev Clin Pharmacol. (2018 Jan) 
+38. Drysdale AT, Grosenick L, Downar J, Dunlop K, Mansouri F, Meng Y, Fetcho RN, Zebley B, Oathes DJ, Etkin A, Schatzberg AF, Sudheimer K, Keller J, Mayberg HS, Gunning FM, Alexopoulos GS, Fox MD, Pascual-Leone A, Voss HU, Casey BJ, Dubin MJ, Liston C Resting-state connectivity biomarkers define neurophysiological subtypes of depression. Nat Med. (2017 Jan) 
+39. Senn S Statistical pitfalls of personalized medicine. Nature. (2018 Nov) 
+40. Chand SP, Kuckel DP, Huecker MR Cognitive Behavior Therapy (CBT). 
+41. Cuijpers P, Cristea IA, Karyotaki E, Reijnders M, Huibers MJ How effective are cognitive behavior therapies for major depression and anxiety disorders? A meta-analytic update of the evidence. World Psychiatry. (2016 Oct) 
+42. Beck A, Nadkarni A, Calam R, Naeem F, Husain N Increasing access to Cognitive Behaviour Therapy in Low and Middle Income Countries: A strategic framework. Asian J Psychiatr. (2016 Aug) 
+43. Li F, Liu X, Zhang D Fish consumption and risk of depression: a meta-analysis.. J Epidemiol Community Health. (2016-Mar) 44. J R Hibbeln Fish consumption and major depression. Lancet. (1998 Apr 18) 
+45. Simona Noaghiul, Joseph R Hibbeln Cross-national comparisons of seafood consumption and rates of bipolar disorders. Am J Psychiatry. (2003 Dec) 
+46. Malcolm Peet International variations in the outcome of schizophrenia and the prevalence of depression in relation to national dietary practices: an ecological analysis. Br J Psychiatry. (2004 May) 
+47. Pao-Yen Lin, Shih-Yi Huang, Kuan-Pin Su A meta-analytic review of polyunsaturated fatty acid compositions in patients with depression. Biol Psychiatry. (2010 Jul 15) 
+48. McNamara RK, Welge JA Meta-analysis of erythrocyte polyunsaturated fatty acid biostatus in bipolar disorder.. Bipolar Disord. (2016-May) 
+49. Hans O Kalkman, Martin Hersberger, Suzanne Walitza, Gregor E Berger Disentangling the Molecular Mechanisms of the Antidepressant Activity of Omega-3 Polyunsaturated Fatty Acid: A Comprehensive Review of the Literature. Int J Mol Sci. (2021 Apr 22) 
+50. Katherine M Appleton, Philip D Voyias, Hannah M Sallis, Sarah Dawson, Andrew R Ness, Rachel Churchill, Rachel Perry Omega 3 fatty acids for depression in adults. Cochrane Database Syst Rev. (2021 Nov 24) 
+51. Turner EH, Matthews AM, Linardatos E, Tell RA, Rosenthal R Selective publication of antidepressant trials and its influence on apparent efficacy.. N Engl J Med. (2008-Jan-17) 
+52. Fountoulakis KN, Veroniki AA, Siamouli M, Möller HJ No role for initial severity on the efficacy of antidepressants: results of a multi-meta-analysis.. Ann Gen Psychiatry. (2013-Aug-13) 
+53. Mocking RJT, Steijn K, Roos C, Assies J, Bergink V, Ruhé HG, Schene AH Omega-3 Fatty Acid Supplementation for Perinatal Depression: A Meta-Analysis.. J Clin Psychiatry. (2020-Sep-01) 
+54. Mi-Mi Zhang, Yan Zou, Su-Min Li, Li Wang, Yu-Hui Sun, Le Shi, Lin Lu, Yan-Ping Bao, Su-Xia Li The efficacy and safety of omega-3 fatty acids on depressive symptoms in perinatal women: a meta-analysis of randomized placebo-controlled trials. Transl Psychiatry. (2020 Jun 17) 
+55. Sarris J, Mischoulon D, Schweitzer I Omega-3 for bipolar disorder: meta-analyses of use in mania and bipolar depression. J Clin Psychiatry. (2012 Jan) 
+56. Rosenblat JD, Kakar R, Berk M, Kessing LV, Vinberg M, Baune BT, Mansur RB, Brietzke E, Goldstein BI, McIntyre RS Anti inflammatory agents in the treatment of bipolar depression: a systematic review and meta-analysis.. Bipolar Disord. (2016-Mar) 
+57. Stephen J Nicholls, A Michael Lincoff, Michelle Garcia, Dianna Bash, Christie M Ballantyne, Philip J Barter, Michael H Davidson, John J P Kastelein, Wolfgang Koenig, Darren K McGuire, Dariush Mozaffarian, Paul M Ridker, Kausik K Ray, Brian G Katona, Anders Himmelmann, Larrye E Loss, Martin Rensfeldt, Torbjörn Lundström, Rahul Agrawal, Venu Menon, Kathy Wolski, Steven E Nissen Effect of High-Dose Omega-3 Fatty Acids vs Corn Oil on Major Adverse Cardiovascular Events in Patients at High 
+48
+Cardiovascular Risk: The STRENGTH Randomized Clinical Trial. JAMA. (2020 Dec 8) 
+58. Wang C, Chung M, Lichtenstein A, Balk E, Kupelnick B, DeVine D, Lawrence A, Lau J Effects of omega-3 fatty acids on cardiovascular disease.. Evid Rep Technol Assess (Summ). (2004-Mar) 
+59. Cleland LG, James MJ, Proudman SM Fish oil: what the prescriber needs to know.. Arthritis Res Ther. (2006) 60. Buckley MS, Goff AD, Knapp WE Fish oil interaction with warfarin.. Ann Pharmacother. (2004-Jan) 
+61. Elizabeth M McClaskey, Elizabeth Landrum Michalets Subdural hematoma after a fall in an elderly patient taking high-dose omega-3 fatty acids with warfarin and aspirin: case report and review of the literature. Pharmacotherapy. (2007 Jan) 
+62. Kristof Vanschoonbeek, Marion A H Feijge, Martine Paquay, Jan Rosing, Wim Saris, Cornelis Kluft, Peter L A Giesen, Moniek P M de Maat, Johan W M Heemskerk Variable hypocoagulant effect of fish oil intake in humans: modulation of fibrinogen level and thrombin generation. Arterioscler Thromb Vasc Biol. (2004 Sep) 
+63. Burke BE, Neuenschwander R, Olson RD Randomized, double-blind, placebo-controlled trial of coenzyme Q10 in isolated systolic hypertension. South Med J. (2001 Nov) 
+64. John Alfred Carr Role of Fish Oil in Post-Cardiotomy Bleeding: A Summary of the Basic Science and Clinical Trials. Ann Thorac Surg. (2018 May) 
+65. Begtrup KM, Krag AE, Hvas AM No impact of fish oil supplements on bleeding risk: a systematic review. Dan Med J. (2017 May) 
+66. Albert BB, Derraik JG, Cameron-Smith D, Hofman PL, Tumanov S, Villas-Boas SG, Garg ML, Cutfield WS Fish oil supplements in New Zealand are highly oxidised and do not meet label content of n-3 PUFA. Sci Rep. (2015 Jan 21) 
+67. Bannenberg G, Mallon C, Edwards H, Yeadon D, Yan K, Johnson H, Ismail A Omega-3 Long-Chain Polyunsaturated Fatty Acid Content and Oxidation State of Fish Oil Supplements in New Zealand. Sci Rep. (2017 May 3) 
+68. Bengtson Nash SM, Schlabach M, Nichols PD A nutritional-toxicological assessment of Antarctic krill oil versus fish oil dietary supplements. Nutrients. (2014 Aug 28) 
+69. Ottestad I, Retterstøl K, Myhrstad MC, Andersen LF, Vogt G, Nilsson A, Borge GI, Nordvi B, Brønner KW, Ulven SM, Holven KB Intake of oxidised fish oil does not affect circulating levels of oxidised LDL or inflammatory markers in healthy subjects. Nutr Metab Cardiovasc Dis. (2013 Jan) 
+70. García-Hernández VM, Gallar M, Sánchez-Soriano J, Micol V, Roche E, García-García E Effect of omega-3 dietary supplements with different oxidation levels in the lipidic profile of women: a randomized controlled trial. Int J Food Sci Nutr. (2013 Dec) 
+71. Safi U Khan, Ahmad N Lone, Muhammad Shahzeb Khan, Salim S Virani, Roger S Blumenthal, Khurram Nasir, Michael Miller, Erin D Michos, Christie M Ballantyne, William E Boden, Deepak L Bhatt Effect of omega-3 fatty acids on cardiovascular outcomes: A systematic review and meta-analysis. EClinicalMedicine. (2021 Jul 8) 
+72. Bernstein AM, Ding EL, Willett WC, Rimm EB A meta-analysis shows that docosahexaenoic acid from algal oil reduces serum triglycerides and increases HDL-cholesterol and LDL-cholesterol in persons without coronary heart disease. J Nutr. (2012 Jan) 
+73. Ta-Wei Guu, David Mischoulon, Jerome Sarris, Joseph Hibbeln, Robert K McNamara, Kei Hamazaki, Marlene P Freeman, Michael Maes, Yutaka J Matsuoka, R H Belmaker, Felice Jacka, Carmine Pariante, Michael Berk, Wolfgang Marx, Kuan-Pin Su International Society for Nutritional Psychiatry Research Practice Guidelines for Omega-3 Fatty Acids in the Treatment of Major Depressive Disorder. Psychother Psychosom. (2019) 
+74. Frangou S, Lewis M, McCrone P Efficacy of ethyl-eicosapentaenoic acid in bipolar depression: randomised double-blind placebo-controlled study. Br J Psychiatry. (2006 Jan) 
+75. Stoll AL, Severus WE, Freeman MP, Rueter S, Zboyan HA, Diamond E, Cress KK, Marangell LB Omega 3 fatty acids in bipolar disorder: a preliminary double-blind, placebo-controlled trial. Arch Gen Psychiatry. (1999 May) 
+76. Lopresti AL, Drummond PD Saffron (Crocus sativus) for depression: a systematic review of clinical studies and examination of underlying antidepressant mechanisms of action.. Hum Psychopharmacol. (2014-Nov) 
+77. Wolfgang Marx, Melissa Lane, Tetyana Rocks, Anu Ruusunen, Amy Loughman, Adrian Lopresti, Skye Marshall, Michael Berk, Felice Jacka, Olivia M Dean Effect of saffron supplementation on symptoms of depression and anxiety: a systematic review and meta-analysis. Nutr Rev. (2019 May 28) 
+78. Barbara Tóth, Péter Hegyi, Tamás Lantos, Zsolt Szakács, Beáta Kerémi, Gábor Varga, Judit Tenk, Erika Pétervári, Márta Balaskó, Zoltán Rumbus, Zoltán Rakonczay, Emese Réka Bálint, Tivadar Kiss, Dezső Csupor The Efficacy of Saffron in the Treatment of Mild to Moderate Depression: A Meta-analysis. Planta Med. (2019 Jan) 
+79. Amir Ghaderi, Omid Asbaghi, Željko Reiner, Fariba Kolahdooz, Elaheh Amirani, Hamed Mirzaei, Hamid Reza Banafshe, Parisa Maleki Dana, Zatollah Asemi The effects of saffron (Crocus sativus L.) on mental health parameters and C-reactive protein: A meta-analysis of randomized clinical trials. Complement Ther Med. (2020 Jan) 
+80. Lili Dai, Lingyan Chen, Wenjing Wang Safety and Efficacy of Saffron (Crocus sativus L.) for Treating Mild to Moderate Depression: A Systematic Review and Meta-analysis. J Nerv Ment Dis. (2020 Apr) 
+81. Jamal Rahmani, Nicla Manzari, Jacqueline Thompson, Cain C T Clark, Gemma Villanueva, Hamed Kord Varkaneh, Parvin Mirmiran The effect of saffron on weight and lipid profile: A systematic review, meta-analysis, and dose-response of randomized clinical trials. Phytother Res. (2019 Sep) 
+82. Melnyk J, Wang S, Marcone M Chemical and biological properties of the world's most expensive spice: Saffron. Food Res Int. (2010 Oct) 
+49
+83. Safarinejad MR, Shafiei N, Safarinejad S A prospective double-blind randomized placebo-controlled study of the effect of saffron (Crocus sativus Linn.) on semen parameters and seminal plasma antioxidant capacity in infertile men with idiopathic oligoasthenoteratozoospermia. Phytother Res. (2011 Apr) 
+84. G Dovrtělová, K Nosková, J Juřica, M Turjap, O Zendulka Can bioactive compounds of Crocus sativus L. influence the metabolic activity of selected CYP enzymes in the rat?. Physiol Res. (2015) 
+85. Sani A, Tajik A, Seiiedi SS, Khadem R, Tootooni H, Taherynejad M, Sabet Eqlidi N, Alavi Dana SMM, Deravi N A review of the anti-diabetic potential of saffron.. Nutr Metab Insights. (2022) 
+86. Leila Setayesh, Damoon Ashtary-Larky, Cain C T Clark, Mahnaz Rezaei Kelishadi, Pardis Khalili, Reza Bagheri, Omid Asbaghi, Katsuhiko Suzuki The Effect of Saffron Supplementation on Blood Pressure in Adults: A Systematic Review and Dose-Response Meta-Analysis of Randomized Controlled Trials. Nutrients. (2021 Aug 9) 
+87. Hooshmand-Moghadam B, Eskandari M, Shabkhiz F, Mojtahedi S, Mahmoudi N Saffron (Crocus sativus L.) in combination with resistance training reduced blood pressure in the elderly hypertensive men: A randomized controlled trial.. Br J Clin Pharmacol. (2021-Aug) 
+88. Schmidt M, Betti G, Hensel A Saffron in phytotherapy: pharmacology and clinical uses.. Wien Med Wochenschr. (2007) 89. Butterweck V Mechanism of action of St John's wort in depression : what is known?. CNS Drugs. (2003) 90. Linde K, Berner MM, Kriston L St John's wort for major depression.. Cochrane Database Syst Rev. (2008-Oct-08) 
+91. Apaydin EA, Maher AR, Shanman R, Booth MS, Miles JN, Sorbero ME, Hempel S A systematic review of St. John's wort for major depressive disorder. Syst Rev. (2016 Sep 2) 
+92. Ng QX, Venkatanarayanan N, Ho CY Clinical use of Hypericum perforatum (St John's wort) in depression: A meta-analysis.. J Affect Disord. (2017-Mar-01) 
+93. Knüppel L, Linde K Adverse effects of St. John's Wort: a systematic review.. J Clin Psychiatry. (2004-Nov) 
+94. Hammerness P, Basch E, Ulbricht C, Barrette EP, Foppa I, Basch S, Bent S, Boon H, Ernst E, Natural Standard Research Collaboration St John's wort: a systematic review of adverse effects and drug interactions for the consultation psychiatrist. Psychosomatics. (2003 Jul-Aug) 
+95. Peterson B, Nguyen H St John's Wort. StatPearls. (2023-05) 
+96. Gurley BJ, Fifer EK, Gardner Z Pharmacokinetic herb-drug interactions (part 2): drug interactions involving popular botanical dietary supplements and their clinical relevance.. Planta Med. (2012-Sep) 
+97. Woelk H, Burkard G, Grünwald J Benefits and risks of the hypericum extract LI 160: drug monitoring study with 3250 patients.. J Geriatr Psychiatry Neurol. (1994-Oct) 
+98. Johne A, Brockmöller J, Bauer S, Maurer A, Langheinrich M, Roots I Pharmacokinetic interaction of digoxin with an herbal extract from St John's wort (Hypericum perforatum).. Clin Pharmacol Ther. (1999-Oct) 
+99. Schäfer W, Wentzell N, Schink T, Haug U Characterization of pregnancies exposed to St. John's wort and their outcomes: A claims data analysis.. Reprod Toxicol. (2021-Jun) 
+100. Dugoua JJ, Mills E, Perri D, Koren G Safety and efficacy of St. John's wort (hypericum) during pregnancy and lactation.. Can J Clin Pharmacol. (2006) 
+101. Susan J. Murch et al . 
+102. Eyles DW, Smith S, Kinobe R, Hewison M, McGrath JJ Distribution of the vitamin D receptor and 1 alpha-hydroxylase in human brain. J Chem Neuroanat. (2005 Jan) 
+103. Eyles DW, Burne TH, McGrath JJ Vitamin D, effects on brain development, adult brain function and the links between low levels of vitamin D and neuropsychiatric disease.. Front Neuroendocrinol. (2013-Jan) 
+104. Humble MB Vitamin D, light and mental health.. J Photochem Photobiol B. (2010-Nov-03) 
+105. Bivona G, Gambino CM, Iacolino G, Ciaccio M Vitamin D and the nervous system.. Neurol Res. (2019-Sep) 
+106. Musazadeh V, Keramati M, Ghalichi F, Kavyani Z, Ghoreishi Z, Alras KA, Albadawi N, Salem A, Albadawi MI, Salem R, Abu-Zaid A, Zarezadeh M, Mekary RA Vitamin D protects against depression: Evidence from an umbrella meta-analysis on interventional and observational meta-analyses.. Pharmacol Res. (2023-Jan) 
+107. Ying-Chih Cheng, Yu-Chen Huang, Wei-Lieh Huang The Effect of Vitamin D Supplement on Negative Emotions: A Systematic Review and Meta-Analysis. Depress Anxiety. (2020 Jun) 
+108. Nayereh Khoraminya, Mehdi Tehrani-Doost, Shima Jazayeri, Aghafateme Hosseini, Abolghassem Djazayery Therapeutic effects of vitamin D as adjunctive therapy to fluoxetine in patients with major depressive disorder. Aust N Z J Psychiatry. (2013 Mar) 
+109. Negin Masoudi Alavi, Saeed Khademalhoseini, Zarichehr Vakili, Fatemeh Assarian Effect of vitamin D supplementation on depression in elderly patients: A randomized clinical trial. Clin Nutr. (2019 Oct) 
+110. Vaziri F, Nasiri S, Tavana Z, Dabbaghmanesh MH, Sharif F, Jafari P A randomized controlled trial of vitamin D supplementation on perinatal depression: in Iranian pregnant mothers. BMC Pregnancy Childbirth. (2016 Aug 20) 
+111. Amini S, Amani R, Jafarirad S, Cheraghian B, Sayyah M, Hemmati AA The effect of vitamin D and calcium supplementation on inflammatory biomarkers, estradiol levels and severity of symptoms in women with postpartum depression: a randomized double-blind clinical trial.. Nutr Neurosci. (2022-Jan) 
+50
+112. Marsh WK, Penny JL, Rothschild AJ Vitamin D supplementation in bipolar depression: A double blind placebo controlled trial.. J Psychiatr Res. (2017-Dec) 
+113. Hathcock JN, Shao A, Vieth R, Heaney R Risk assessment for vitamin D. Am J Clin Nutr. (2007 Jan) 
+114. Bischoff-Ferrari HA, Dawson-Hughes B, Orav EJ, Staehelin HB, Meyer OW, Theiler R, Dick W, Willett WC, Egli A Monthly High Dose Vitamin D Treatment for the Prevention of Functional Decline: A Randomized Clinical Trial. JAMA Intern Med. (2016 Feb) 
+115. Lawrence J Appel, Erin D Michos, Christine M Mitchell, Amanda L Blackford, Alice L Sternberg, Edgar R Miller 3rd, Stephen P Juraschek, Jennifer A Schrack, Sarah L Szanton, Jeanne Charleston, Melissa Minotti, Sheriza N Baksh, Robert H Christenson, Josef Coresh, Lea T Drye, Jack M Guralnik, Rita R Kalyani, Timothy B Plante, David M Shade, David L Roth, James Tonascia, STURDY Collaborative Research Group The Effects of Four Doses of Vitamin D Supplements on Falls in Older Adults : A Response-Adaptive, Randomized Clinical Trial. Ann Intern Med. (2021 Feb) 
+116. Wanigatunga AA, Sternberg AL, Blackford AL, Cai Y, Mitchell CM, Roth DL, Miller ER, Szanton SL, Juraschek SP, Michos ED, Schrack JA, Appel LJ, The effects of vitamin D supplementation on types of falls.. J Am Geriatr Soc. (2021-Oct) 
+117. Ekwaru JP, Zwicker JD, Holick MF, Giovannucci E, Veugelers PJ The importance of body weight for the dose response relationship of oral vitamin D supplementation and serum 25-hydroxyvitamin D in healthy volunteers.. PLoS One. (2014) 
+118. de Oliveira LF, de Azevedo LG, da Mota Santana J, de Sales LPC, Pereira-Santos M Obesity and overweight decreases the effect of vitamin D supplementation in adults: systematic review and meta-analysis of randomized controlled trials.. Rev Endocr Metab Disord. (2020-Mar) 
+119. Holick MF, Binkley NC, Bischoff-Ferrari HA, Gordon CM, Hanley DA, Heaney RP, Murad MH, Weaver CM, Endocrine Society Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. (2011 Jul) 
+120. Xiang F, Lucas R, de Gruijl F, Norval M A systematic review of the influence of skin pigmentation on changes in the concentrations of vitamin D and 25-hydroxyvitamin D in plasma/serum following experimental UV irradiation. Photochem Photobiol Sci. (2015 Dec) 
+121. Meehan M, Penckofer S The Role of Vitamin D in the Aging Adult. J Aging Gerontol. (2014 Dec) 122. Wacker M, Holick MF Sunlight and Vitamin D: A global perspective for health. Dermatoendocrinol. (2013 Jan 1) 
+123. Ko JA, Lee BH, Lee JS, Park HJ Effect of UV-B exposure on the concentration of vitamin D2 in sliced shiitake mushroom (Lentinus edodes) and white button mushroom (Agaricus bisporus). J Agric Food Chem. (2008 May 28) 
+124. Jasinghe VJ, Perera CO, Barlow PJ Bioavailability of vitamin D2 from irradiated mushrooms: an in vivo study. Br J Nutr. (2005 Jun) 
+125. Lehmann B, Genehr T, Knuschke P, Pietzsch J, Meurer M UVB-induced conversion of 7-dehydrocholesterol to 1alpha,25- dihydroxyvitamin D3 in an in vitro human skin equivalent model. J Invest Dermatol. (2001 Nov) 
+126. Holick MF, MacLaughlin JA, Clark MB, Holick SA, Potts JT Jr, Anderson RR, Blank IH, Parrish JA, Elias P Photosynthesis of previtamin D3 in human skin and the physiologic consequences. Science. (1980 Oct 10) 
+127. Bikle DD Vitamin D metabolism and function in the skin. Mol Cell Endocrinol. (2011 Dec 5) 
+128. A Panossian, G Wikman, J Sarris Rosenroot (Rhodiola rosea): traditional use, chemical composition, pharmacology and clinical efficacy. Phytomedicine. (2010 Jun) 
+129. Jay D Amsterdam, Alexander G Panossian Rhodiola rosea L. as a putative botanical antidepressant. Phytomedicine. (2016 Jun 15) 
+130. Chai Y, Cai Y, Fu Y, Wang Y, Zhang Y, Zhang X, Zhu L, Miao M, Yan T Salidroside Ameliorates Depression by Suppressing NLRP3-Mediated Pyroptosis P2X7/NF-κB/NLRP3 Signaling Pathway.. Front Pharmacol. (2022) 
+131. Gao L, Wu C, Liao Y, Wang J Antidepressants effects of Rhodiola capsule combined with sertraline for major depressive disorder: A randomized double-blind placebo-controlled clinical trial.. J Affect Disord. (2020-03-15) 
+132. Darbinyan V, Aslanyan G, Amroyan E, Gabrielyan E, Malmström C, Panossian A Clinical trial of Rhodiola rosea L. extract SHR-5 in the treatment of mild to moderate depression. Nord J Psychiatry. (2007) 
+133. Mao JJ, Xie SX, Zee J, Soeller I, Li QS, Rockwell K, Amsterdam JD Rhodiola rosea versus sertraline for major depressive disorder: A randomized placebo-controlled trial. Phytomedicine. (2015 Mar 15) 
+134. Cropley M, Banks AP, Boyle J The Effects of Rhodiola rosea L. Extract on Anxiety, Stress, Cognition and Other Mood Symptoms. Phytother Res. (2015 Dec) 
+135. Siegfried Kasper, Angelika Dienel Multicenter, open-label, exploratory clinical trial with Rhodiola rosea extract in patients suffering from burnout symptoms. Neuropsychiatr Dis Treat. (2017 Mar 22) 
+136. Olsson EM, von Schéele B, Panossian AG A randomised, double-blind, placebo-controlled, parallel-group study of the standardised extract shr-5 of the roots of Rhodiola rosea in the treatment of subjects with stress-related fatigue. Planta Med. (2009 Feb) 
+137. Tejedor MC, Delgado C, Luque J Solubility behaviour of phosphofructokinase from haemolysate of erythrocytes, reticulocytes and bone marrow cells in poly (ethylene glycol) solutions.. Biochem Int. (1991-Jan) 
+138. Yao Lu, Bin Deng, Luhua Xu, Hanjiao Liu, Yinzhi Song, Fengxia Lin Effects of Rhodiola Rosea Supplementation on Exercise and Sport: A Systematic Review. Front Nutr. (2022 Apr 7) 
+51
+139. Hung SK, Perry R, Ernst E The effectiveness and efficacy of Rhodiola rosea L.: a systematic review of randomized clinical trials.. Phytomedicine. (2011-Feb-15) 
+140. Thu OK, Spigset O, Nilsen OG, Hellum B Effect of commercial Rhodiola rosea on CYP enzyme activity in humans.. Eur J Clin Pharmacol. (2016-Mar) 
+141. Miners JO, Birkett DJ Cytochrome P4502C9: an enzyme of major importance in human drug metabolism.. Br J Clin Pharmacol. (1998-Jun) 
+142. Maniscalco I, Toffol E, Giupponi G, Conca A The interaction of Rhodiola rosea and antidepressants. A case report.. Neuropsychiatr. (2015) 
+143. Jafari M, Juanson Arabit JG, Courville R, Kiani D, Chaston JM, Nguyen CD, Jena N, Liu ZY, Tata P, Van Etten RA The impact of Rhodiola rosea on biomarkers of diabetes, inflammation, and microbiota in a leptin receptor-knockout mouse model.. Sci Rep. (2022-Jun-22) 
+144. Tao H, Wu X, Cao J, Peng Y, Wang A, Pei J, Xiao J, Wang S, Wang Y Rhodiola species: A comprehensive review of traditional use, phytochemistry, pharmacology, toxicity, and clinical study.. Med Res Rev. (2019-Sep) 
+145. Ross SM Rhodiola rosea (SHR-5), Part I: a proprietary root extract of Rhodiola rosea is found to be effective in the treatment of stress-related fatigue. Holist Nurs Pract. (2014 Mar-Apr) 
+146. Ross SM Rhodiola rosea (SHR-5), Part 2: A standardized extract of Rhodiola rosea is shown to be effective in the treatment of mild to moderate depression. Holist Nurs Pract. (2014 May-Jun) 
+147. Sansone RA, Sansone LA Getting a Knack for NAC: N-Acetyl-Cysteine.. Innov Clin Neurosci. (2011-Jan) 
+148. Micaely Cristina Dos Santos Tenório, Nayara Gomes Graciliano, Fabiana Andréa Moura, Alane Cabral Menezes de Oliveira, Marília Oliveira Fonseca Goulart N-Acetylcysteine (NAC): Impacts on Human Health. Antioxidants (Basel). (2021 Jun 16) 
+149. Bansal Y, Kuhad A Mitochondrial Dysfunction in Depression.. Curr Neuropharmacol. (2016) 
+150. Caruso G, Benatti C, Blom JMC, Caraci F, Tascedda F The Many Faces of Mitochondrial Dysfunction in Depression: From Pathology to Treatment.. Front Pharmacol. (2019) 
+151. Berk M, Malhi GS, Gray LJ, Dean OM The promise of N-acetylcysteine in neuropsychiatry.. Trends Pharmacol Sci. (2013-Mar) 
+152. Deepmala , Slattery J, Kumar N, Delhey L, Berk M, Dean O, Spielholz C, Frye R Clinical trials of N-acetylcysteine in psychiatry and neurology: A systematic review.. Neurosci Biobehav Rev. (2015-Aug) 
+153. Smaga I, Frankowska M, Filip M N-acetylcysteine as a new prominent approach for treating psychiatric disorders.. Br J Pharmacol. (2021-Jul) 
+154. Fernandes BS, Dean OM, Dodd S, Malhi GS, Berk M N-Acetylcysteine in depressive symptoms and functionality: a systematic review and meta-analysis.. J Clin Psychiatry. (2016-Apr) 
+155. Kishi T, Miyake N, Okuya M, Sakuma K, Iwata N N-acetylcysteine as an adjunctive treatment for bipolar depression and major depressive disorder: a systematic review and meta-analysis of double-blind, randomized placebo-controlled trials.. Psychopharmacology (Berl). (2020-Nov) 
+156. Nery FG, Li W, DelBello MP, Welge JA N-acetylcysteine as an adjunctive treatment for bipolar depression: A systematic review and meta-analysis of randomized controlled trials.. Bipolar Disord. (2021-11) 
+157. Pittas S, Theodoridis X, Haidich AB, Bozikas PV, Papazisis G The effect of N-acetylcysteine on bipolar depression: a systematic review and meta-analysis of randomized controlled trials.. Psychopharmacology (Berl). (2021-Jul) 
+158. Merikangas KR, Jin R, He JP, Kessler RC, Lee S, Sampson NA, Viana MC, Andrade LH, Hu C, Karam EG, Ladea M, Medina-Mora ME, Ono Y, Posada-Villa J, Sagar R, Wells JE, Zarkov Z Prevalence and correlates of bipolar spectrum disorder in the world mental health survey initiative. Arch Gen Psychiatry. (2011 Mar) 
+159. Atkuri KR, Mantovani JJ, Herzenberg LA, Herzenberg LA N-Acetylcysteine--a safe antidote for cysteine/glutathione deficiency.. Curr Opin Pharmacol. (2007-Aug) 
+160. Ardissino D, Merlini PA, Savonitto S, Demicheli G, Zanini P, Bertocchi F, Falcone C, Ghio S, Marinoni G, Montemartini C, Mussini A Effect of transdermal nitroglycerin or N-acetylcysteine, or both, in the long-term treatment of unstable angina pectoris.. J Am Coll Cardiol. (1997-Apr) 
+161. J D Horowitz, C A Henry, M L Syrjanen, W J Louis, R D Fish, E M Antman, T W Smith Nitroglycerine/N-acetylcysteine in the management of unstable angina pectoris. Eur Heart J. (1988 Jan) 
+162. Gerry K Schwalfenberg N-Acetylcysteine: A Review of Clinical Usefulness (an Old Drug with New Tricks). J Nutr Metab. (2021 Jun 9) 
+163. Niemi TT, Munsterhjelm E, Pöyhiä R, Hynninen MS, Salmenperä MT The effect of N-acetylcysteine on blood coagulation and platelet function in patients undergoing open repair of abdominal aortic aneurysm.. Blood Coagul Fibrinolysis. (2006-Jan) 
+164. Flanagan RJ, Meredith TJ Use of N-acetylcysteine in clinical toxicology.. Am J Med. (1991-Sep-30) 
+165. Ramaholimihaso T, Bouazzaoui F, Kaladjian A Curcumin in Depression: Potential Mechanisms of Action and Current Evidence-A Narrative Review.. Front Psychiatry. (2020) 
+166. Fusar-Poli L, Vozza L, Gabbiadini A, Vanella A, Concas I, Tinacci S, Petralia A, Signorelli MS, Aguglia E Curcumin for depression: a meta-analysis. Crit Rev Food Sci Nutr. (2019 Aug 19) 
+167. Wang Z, Zhang Q, Huang H, Liu Z The efficacy and acceptability of curcumin for the treatment of depression or depressive 52
+symptoms: A systematic review and meta-analysis.. J Affect Disord. (2021-Mar-01) 
+168. Vollono L, Falconi M, Gaziano R, Iacovelli F, Dika E, Terracciano C, Bianchi L, Campione E Potential of Curcumin in Skin Disorders.. Nutrients. (2019-Sep-10) 
+169. Kuptniratsaikul V, Dajpratham P, Taechaarpornkul W, Buntragulpoontawee M, Lukkanapichonchut P, Chootip C, Saengsuwan J, Tantayakom K, Laongpech S Efficacy and safety of Curcuma domestica extracts compared with ibuprofen in patients with knee osteoarthritis: a multicenter study. Clin Interv Aging. (2014 Mar 20) 
+170. Luber RP, Rentsch C, Lontos S, Pope JD, Aung AK, Schneider HG, Kemp W, Roberts SK, Majeed A Turmeric Induced Liver Injury: A Report of Two Cases.. Case Reports Hepatol. (2019) 
+171. Lukefahr AL, McEvoy S, Alfafara C, Funk JL Drug-induced autoimmune hepatitis associated with turmeric dietary supplement use.. BMJ Case Rep. (2018-Sep-10) 
+172. Shamsi S, Tran H, Tan RS, Tan ZJ, Lim LY Curcumin, Piperine, and Capsaicin: A Comparative Study of Spice-Mediated Inhibition of Human Cytochrome P450 Isozyme Activities.. Drug Metab Dispos. (2017-Jan) 
+173. Bhardwaj RK, Glaeser H, Becquemont L, Klotz U, Gupta SK, Fromm MF Piperine, a major constituent of black pepper, inhibits human P-glycoprotein and CYP3A4.. J Pharmacol Exp Ther. (2002-Aug) 
+174. Aref Zayed, Wahby M Babaresh, Ruba S Darweesh, Tamam El-Elimat, Sahar S Hawamdeh Piperine Alters the Pharmacokinetics and Anticoagulation of Warfarin in Rats. J Exp Pharmacol. (2020 Jun 19) 
+175. Rodríguez Castaño P, Parween S, Pandey AV Bioactivity of Curcumin on the Cytochrome P450 Enzymes of the Steroidogenic Pathway.. Int J Mol Sci. (2019-Sep-17) 
+176. Daveluy A, Géniaux H, Thibaud L, Mallaret M, Miremont-Salamé G, Haramburu F Probable interaction between an oral vitamin K antagonist and turmeric (Curcuma longa).. Therapie. (2014) 
+177. Srivastava KC, Bordia A, Verma SK Curcumin, a major component of food spice turmeric (Curcuma longa) inhibits aggregation and alters eicosanoid metabolism in human blood platelets.. Prostaglandins Leukot Essent Fatty Acids. (1995-Apr) 
+178. Neerati P, Devde R, Gangi AK Evaluation of the effect of curcumin capsules on glyburide therapy in patients with type-2 diabetes mellitus.. Phytother Res. (2014-Dec) 
+179. Hara T, Takeda TA, Takagishi T, Fukue K, Kambe T, Fukada T Physiological roles of zinc transporters: molecular and genetic importance in zinc homeostasis.. J Physiol Sci. (2017-Mar) 
+180. Prasad AS Discovery of human zinc deficiency: its impact on human health and disease.. Adv Nutr. (2013-Mar-01) 181. Sandstead HH Zinc nutrition from discovery to global health impact.. Adv Nutr. (2012-Sep-01) 
+182. Frederickson CJ, Koh JY, Bush AI The neurobiology of zinc in health and disease.. Nat Rev Neurosci. (2005-Jun) 
+183. Matthew A Petrilli, Thorsten M Kranz, Karine Kleinhaus, Peter Joe, Mara Getz, Porsha Johnson, Moses V Chao, Dolores Malaspina The Emerging Role for Zinc in Depression and Psychosis. Front Pharmacol. (2017 Jun 30) 
+184. Mlyniec K Zinc in the Glutamatergic Theory of Depression.. Curr Neuropharmacol. (2015) 
+185. Lai J, Moxey A, Nowak G, Vashum K, Bailey K, McEvoy M The efficacy of zinc supplementation in depression: systematic review of randomised controlled trials.. J Affect Disord. (2012-Jan) 
+186. Laís Eloy Machado da Silva, Mônica Leila Portela de Santana, Priscila Ribas de Farias Costa, Emile Miranda Pereira, Carina Márcia Magalhães Nepomuceno, Valterlinda Alves de Oliveira Queiroz, Lucivalda Pereira Magalhães de Oliveira, Maria Ester Pereira da Conceição- Machado, Eduardo Pondé de Sena Zinc supplementation combined with antidepressant drugs for treatment of patients with depression: a systematic review and meta-analysis. Nutr Rev. (2021 Jan 1) 
+187. Andreas Donig, Martin Hautzinger Zinc as an adjunct to antidepressant medication: a meta-analysis with subgroup analysis for different levels of treatment response to antidepressants. Nutr Neurosci. (2022 Sep) 
+188. Nowak G, Siwek M, Dudek D, Zieba A, Pilc A Effect of zinc supplementation on antidepressant therapy in unipolar depression: a preliminary placebo-controlled study. Pol J Pharmacol. (2003 Nov-Dec) 
+189. Ranjbar E, Kasaei MS, Mohammad-Shirazi M, Nasrollahzadeh J, Rashidkhani B, Shams J, Mostafavi SA, Mohammadi MR Effects of zinc supplementation in patients with major depression: a randomized clinical trial. Iran J Psychiatry. (2013 Jun) 
+190. Ranjbar E, Shams J, Sabetkasaei M, M-Shirazi M, Rashidkhani B, Mostafavi A, Bornak E, Nasrollahzadeh J Effects of zinc supplementation on efficacy of antidepressant therapy, inflammatory cytokines, and brain-derived neurotrophic factor in patients with major depression. Nutr Neurosci. (2014 Feb) 
+191. Institute of Medicine (US) Panel on Micronutrients Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc. 
+192. Duncan A, Yacoubian C, Watson N, Morrison I The risk of copper deficiency in patients prescribed zinc supplements. J Clin Pathol. (2015 Sep) 
+193. Shankar AH, Prasad AS Zinc and immune function: the biological basis of altered resistance to infection.. Am J Clin Nutr. (1998-Aug) 
+194. Lomaestro BM, Bailie GR Absorption interactions with fluoroquinolones. 1995 update.. Drug Saf. (1995-May) 
+195. Penttilä O, Hurme H, Neuvonen PJ Effect of zinc sulphate on the absorption of tetracycline and doxycycline in man.. Eur J Clin Pharmacol. (1975-Dec-19) 
+53
+196. Blondeau JM Expanded activity and utility of the new fluoroquinolones: a review.. Clin Ther. (1999-Jan) 197. Beauduy CE & Winston LG Basic & clinical pharmacology, chapter 46: sulfonamides, trimethoprim, & quinolones. 198. Wester PO Urinary zinc excretion during treatment with different diuretics.. Acta Med Scand. (1980) 199. Andrew G Hall, Janet C King Zinc Fortification: Current Trends and Strategies. Nutrients. (2022 Sep 21) 
+200. Wegmüller R, Tay F, Zeder C, Brnic M, Hurrell RF Zinc absorption by young adults from supplemental zinc citrate is comparable with that from zinc gluconate and higher than from zinc oxide. J Nutr. (2014 Feb) 
+201. Schölmerich J, Freudemann A, Köttgen E, Wietholtz H, Steiert B, Löhle E, Häussinger D, Gerok W Bioavailability of zinc from zinc-histidine complexes. I. Comparison with zinc sulfate in healthy men.. Am J Clin Nutr. (1987-Jun) 
+202. Gandia P, Bour D, Maurette JM, Donazzolo Y, Duchène P, Béjot M, Houin G A bioavailability study comparing two oral formulations containing zinc (Zn bis-glycinate vs. Zn gluconate) after a single administration to twelve healthy female volunteers. Int J Vitam Nutr Res. (2007 Jul) 
+203. Maret W, Sandstead HH Zinc requirements and the risks and benefits of zinc supplementation. J Trace Elem Med Biol. (2006) 
+204. Willis MS, Monaghan SA, Miller ML, McKenna RW, Perkins WD, Levinson BS, Bhushan V, Kroft SH Zinc-induced copper deficiency: a report of three cases initially recognized on bone marrow examination. Am J Clin Pathol. (2005 Jan) 
+205. Wakimoto P, Block G Dietary intake, dietary patterns, and changes with age: an epidemiological perspective.. J Gerontol A Biol Sci Med Sci. (2001-Oct) 
+206. Tuerk MJ, Fazel N Zinc deficiency.. Curr Opin Gastroenterol. (2009-Mar) 
+207. Maxfield L, Shukla S, Crane JS Zinc Deficiency. StatPearls. (2022-11) 
+208. Bel-Serrat S, Stammers AL, Warthon-Medina M, Moran VH, Iglesia-Altaba I, Hermoso M, Moreno LA, Lowe NM, EURRECA Network Factors that affect zinc bioavailability and losses in adult and elderly populations. Nutr Rev. (2014 May) 
+209. Gibson RS, Raboy V, King JC Implications of phytate in plant-based foods for iron and zinc bioavailability, setting dietary requirements, and formulating programs and policies.. Nutr Rev. (2018-Nov-01) 
+210. Sharma A, Gerbarg P, Bottiglieri T, Massoumi L, Carpenter LL, Lavretsky H, Muskin PR, Brown RP, Mischoulon D, S Adenosylmethionine (SAMe) for Neuropsychiatric Disorders: A Clinician-Oriented Review of Research.. J Clin Psychiatry. (2017- Jun) 
+211. Kagan BL, Sultzer DL, Rosenlicht N, Gerner RH Oral S-adenosylmethionine in depression: a randomized, double-blind, placebo controlled trial.. Am J Psychiatry. (1990-May) 
+212. Salmaggi P, Bressa GM, Nicchia G, Coniglio M, La Greca P, Le Grazie C Double-blind, placebo-controlled study of S-adenosyl L-methionine in depressed postmenopausal women.. Psychother Psychosom. (1993) 
+213. Bell KM, Plon L, Bunney WE, Potkin SG S-adenosylmethionine treatment of depression: a controlled clinical trial.. Am J Psychiatry. (1988-Sep) 
+214. Agnoli A, Andreoli V, Casacchia M, Cerbo R Effect of s-adenosyl-l-methionine (SAMe) upon depressive symptoms.. J Psychiatr Res. (1976) 
+215. Delle Chiaie R, Pancheri P, Scapicchio P Efficacy and tolerability of oral and intramuscular S-adenosyl-L-methionine 1,4- butanedisulfonate (SAMe) in the treatment of major depression: comparison with imipramine in 2 multicenter studies.. Am J Clin Nutr. (2002-Nov) 
+216. Papakostas GI, Mischoulon D, Shyu I, Alpert JE, Fava M S-adenosyl methionine (SAMe) augmentation of serotonin reuptake inhibitors for antidepressant nonresponders with major depressive disorder: a double-blind, randomized clinical trial. Am J Psychiatry. (2010 Aug) 
+217. Sarris J, Papakostas GI, Vitolo O, Fava M, Mischoulon D S-adenosyl methionine (SAMe) versus escitalopram and placebo in major depression RCT: efficacy and effects of histamine and carnitine as moderators of response. J Affect Disord. (2014 Aug) 
+218. David Mischoulon, Lawrence H Price, Linda L Carpenter, Audrey R Tyrka, George I Papakostas, Lee Baer, Christina M Dording, Alisabet J Clain, Kelley Durham, Rosemary Walker, Elizabeth Ludington, Maurizio Fava A double-blind, randomized, placebo controlled clinical trial of S-adenosyl-L-methionine (SAMe) versus escitalopram in major depressive disorder. J Clin Psychiatry. (2014 Apr) 
+219. Steven D Targum, Beth R Cameron, Ludvina Ferreira, I David MacDonald An augmentation study of MSI-195 (S adenosylmethionine) in Major Depressive Disorder. J Psychiatr Res. (2018 Dec) 
+220. Tao Guo, Lei Chang, Yusha Xiao, Quanyan Liu S-adenosyl-L-methionine for the treatment of chronic liver disease: a systematic review and meta-analysis. PLoS One. (2015 Mar 16) 
+221. Ilaria Galizia, Lucio Oldani, Karine Macritchie, Erica Amari, Dominic Dougall, Tessa N Jones, Raymond W Lam, Guido Jacopo Massei, Lakshmi N Yatham, Allan H Young S-adenosyl methionine (SAMe) for depression in adults. Cochrane Database Syst Rev. (2016 Oct 10) 
+222. M Fava, J F Rosenbaum, R Birnbaum, K Kelly, M W Otto, R MacLaughlin The thyrotropin response to thyrotropin-releasing hormone as a predictor of response to treatment in depressed outpatients. Acta Psychiatr Scand. (1992 Jul) 
+223. Zhang Y, Lu L, Victor DW, Xin Y, Xuan S Ursodeoxycholic Acid and S-adenosylmethionine for the Treatment of Intrahepatic Cholestasis of Pregnancy: A Meta-analysis.. Hepat Mon. (2016-Aug) 
+224. SAM-e. Drugs and Lactation Database (LactMed®). (2006-05) 
+54
+225. Mischoulon D, Fava M Role of S-adenosyl-L-methionine in the treatment of depression: a review of the evidence.. Am J Clin Nutr. (2002-Nov) 
+226. Karas Kuželički N S-Adenosyl Methionine in the Therapy of Depression and Other Psychiatric Disorders.. Drug Dev Res. (2016- Nov) 
+227. Müller T, Fowler B, Kuhn W Levodopa intake increases plasma levels of S-adenosylmethionine in treated patients with Parkinson disease.. Clin Neuropharmacol. (2005) 
+228. Mario Barbagallo, Nicola Veronese, Ligia J Dominguez Magnesium in Aging, Health and Diseases. Nutrients. (2021 Jan 30) 
+229. Botturi A, Ciappolino V, Delvecchio G, Boscutti A, Viscardi B, Brambilla P The Role and the Effect of Magnesium in Mental Disorders: A Systematic Review.. Nutrients. (2020-Jun-03) 
+230. Li B, Lv J, Wang W, Zhang D Dietary magnesium and calcium intake and risk of depression in the general population: A meta analysis.. Aust N Z J Psychiatry. (2017-Mar) 
+231. Wang J, Um P, Dickerman BA, Liu J Zinc, Magnesium, Selenium and Depression: A Review of the Evidence, Potential Mechanisms and Implications.. Nutrients. (2018-May-09) 
+232. Forrest H Nielsen Magnesium deficiency and increased inflammation: current perspectives. J Inflamm Res. (2018 Jan 18) 
+233. Afsharfar M, Shahraki M, Shakiba M, Asbaghi O, Dashipour A The effects of magnesium supplementation on serum level of brain derived neurotrophic factor (BDNF) and depression status in patients with depression.. Clin Nutr ESPEN. (2021-Apr) 
+234. Rajizadeh A, Mozaffari-Khosravi H, Yassini-Ardakani M, Dehghani A Effect of magnesium supplementation on depression status in depressed patients with magnesium deficiency: A randomized, double-blind, placebo-controlled trial.. Nutrition. (2017-Mar) 
+235. Barragán-Rodríguez L, Rodríguez-Morán M, Guerrero-Romero F Efficacy and safety of oral magnesium supplementation in the treatment of depression in the elderly with type 2 diabetes: a randomized, equivalent trial. Magnes Res. (2008 Dec) 
+236. Behnaz Abiri, Parvin Sarbakhsh, Mohammadreza Vafa Randomized study of the effects of vitamin D and/or magnesium supplementation on mood, serum levels of BDNF, inflammation, and SIRT1 in obese women with mild to moderate depressive symptoms. Nutr Neurosci. (2021 Jul 2) 
+237. Facchinetti F, Borella P, Sances G, Fioroni L, Nappi RE, Genazzani AR Oral magnesium successfully relieves premenstrual mood changes. Obstet Gynecol. (1991 Aug) 
+238. Fard FE, Mirghafourvand M, Mohammad-Alizadeh Charandabi S, Farshbaf-Khalili A, Javadzadeh Y, Asgharian H Effects of zinc and magnesium supplements on postpartum depression and anxiety: A randomized controlled clinical trial. Women Health. (2017 Oct) 
+239. Ryszewska-Pokraśniewicz B, Mach A, Skalski M, Januszko P, Wawrzyniak ZM, Poleszak E, Nowak G, Pilc A, Radziwoń-Zaleska M Effects of Magnesium Supplementation on Unipolar Depression: A Placebo-Controlled Study and Review of the Importance of Dosing and Magnesium Status in the Therapeutic Response.. Nutrients. (2018-Aug-03) 
+240. Institute of Medicine (US) Standing Committee on the Scientific Evaluation of Dietary Reference Intakes Dietary Reference Intakes for Calcium, Phosphorus, Magnesium, Vitamin D, and Fluoride. 
+241. Sarafidis PA, Georgianos PI, Lasaridis AN Diuretics in clinical practice. Part II: electrolyte and acid-base disorders complicating diuretic therapy. Expert Opin Drug Saf. (2010 Mar) 
+242. C J Dunn, K L Goa Risedronate: a review of its pharmacological properties and clinical use in resorptive bone disease. Drugs. (2001) 
+243. R C Walker, A J Wright The fluoroquinolones. Mayo Clin Proc. (1991 Dec) 
+244. Gröber U Magnesium and Drugs.. Int J Mol Sci. (2019-Apr-28) 
+245. F H Nielsen, D B Milne A moderately high intake compared to a low intake of zinc depresses magnesium balance and alters indices of bone turnover in postmenopausal women. Eur J Clin Nutr. (2004 May) 
+246. Ford ES, Mokdad AH Dietary magnesium intake in a national sample of US adults. J Nutr. (2003 Sep) 247. Musso CG Magnesium metabolism in health and disease. Int Urol Nephrol. (2009) 
+248. Pham PC, Pham PM, Pham SV, Miller JM, Pham PT Hypomagnesemia in patients with type 2 diabetes. Clin J Am Soc Nephrol. (2007 Mar) 
+249. Witkowski M, Hubert J, Mazur A Methods of assessment of magnesium status in humans: a systematic review. Magnes Res. (2011 Dec) 
+250. Wolfgang Maret Chromium Supplementation in Human Health, Metabolic Syndrome, and Diabetes. Met Ions Life Sci. (2019 Jan 14) 
+251. John B Vincent Effects of chromium supplementation on body composition, human and animal health, and insulin and glucose metabolism. Curr Opin Clin Nutr Metab Care. (2019 Nov) 
+252. Tarrahi MJ, Tarrahi MA, Rafiee M, Mansourian M The effects of chromium supplementation on lipidprofile in humans: A systematic review and meta-analysis ofrandomized controlled trials.. Pharmacol Res. (2021-Feb) 
+253. Fengyi Zhao, Da Pan, Niannian Wang, Hui Xia, Hong Zhang, Shaokang Wang, Guiju Sun Effect of Chromium Supplementation on Blood Glucose and Lipid Levels in Patients with Type 2 Diabetes Mellitus: a Systematic Review and Meta-analysis. Biol Trace Elem Res. (2022 Feb) 
+55
+254. Horácek J, Kuzmiaková M, Höschl C, Andĕl M, Bahbonh R The relationship between central serotonergic activity and insulin sensitivity in healthy volunteers.. Psychoneuroendocrinology. (1999-Nov) 
+255. Amann BL, Mergl R, Vieta E, Born C, Hermisson I, Seemueller F, Dittmann S, Grunze H A 2-year, open-label pilot study of adjunctive chromium in patients with treatment-resistant rapid-cycling bipolar disorder. J Clin Psychopharmacol. (2007 Feb) 
+256. Docherty JP, Sack DA, Roffman M, Finch M, Komorowski JR A double-blind, placebo-controlled, exploratory trial of chromium picolinate in atypical depression: effect on carbohydrate craving. J Psychiatr Pract. (2005 Sep) 
+257. Davidson JR, Abraham K, Connor KM, McLeod MN Effectiveness of chromium in atypical depression: a placebo-controlled trial. Biol Psychiatry. (2003 Feb 1) 
+258. Brownley KA, Von Holle A, Hamer RM, La Via M, Bulik CM A double-blind, randomized pilot trial of chromium picolinate for binge eating disorder: results of the Binge Eating and Chromium (BEACh) study. J Psychosom Res. (2013 Jul) 
+259. Jensen JE, Daniels M, Haws C, Bolo NR, Lyoo IK, Yoon SJ, Cohen BM, Stoll AL, Rusche JR, Renshaw PF Triacetyluridine (TAU) decreases depressive symptoms and increases brain pH in bipolar patients.. Exp Clin Psychopharmacol. (2008-Jun) 
+260. Mukherjee PK, Banerjee S, Biswas S, Das B, Kar A, Katiyar CK Withania somnifera (L.) Dunal - Modern perspectives of an ancient Rasayana from Ayurveda.. J Ethnopharmacol. (2021-Jan-10) 
+261. Tetali SD, Acharya S, Ankari AB, Nanakram V, Raghavendra AS Metabolomics of Withania somnifera (L.) Dunal: Advances and applications.. J Ethnopharmacol. (2021-Mar-01) 
+262. Athira KV, Bandopadhyay S, Samudrala PK, Naidu VGM, Lahkar M, Chakravarty S An Overview of the Heterogeneity of Major Depressive Disorder: Current Knowledge and Future Prospective.. Curr Neuropharmacol. (2020) 
+263. Musazzi L, Tornese P, Sala N, Popoli M What Acute Stress Protocols Can Tell Us About PTSD and Stress-Related Neuropsychiatric Disorders.. Front Pharmacol. (2018) 
+264. Speers AB, Cabey KA, Soumyanath A, Wright KM Effects of (Ashwagandha) on Stress and the Stress- Related Neuropsychiatric Disorders Anxiety, Depression, and Insomnia.. Curr Neuropharmacol. (2021) 
+265. K Chandrasekhar, Jyoti Kapoor, Sridhar Anishetty A prospective, randomized double-blind, placebo-controlled study of safety and efficacy of a high-concentration full-spectrum extract of ashwagandha root in reducing stress and anxiety in adults. Indian J Psychol Med. (2012 Jul) 
+266. Chengappa KN, Bowie CR, Schlicht PJ, Fleet D, Brar JS, Jindal R Randomized placebo-controlled adjunctive study of an extract of withania somnifera for cognitive dysfunction in bipolar disorder. J Clin Psychiatry. (2013 Nov) 
+267. Gannon JM, Brar J, Rai A, Chengappa KNR Effects of a standardized extract of Withania somnifera (Ashwagandha) on depression and anxiety symptoms in persons with schizophrenia participating in a randomized, placebo-controlled clinical trial.. Ann Clin Psychiatry. (2019-May) 
+268. Bizzarri M, Fuso A, Dinicola S, Cucina A, Bevilacqua A Pharmacodynamics and pharmacokinetics of inositol(s) in health and disease.. Expert Opin Drug Metab Toxicol. (2016-Oct) 
+269. Clements RS, Darnell B Myo-inositol content of common foods: development of a high-myo-inositol diet.. Am J Clin Nutr. (1980- Sep) 
+270. Kim H, McGrath BM, Silverstone PH A review of the possible relevance of inositol and the phosphatidylinositol second messenger system (PI-cycle) to psychiatric disorders--focus on magnetic resonance spectroscopy (MRS) studies.. Hum Psychopharmacol. (2005-Jul) 
+271. Coupland NJ, Ogilvie CJ, Hegadoren KM, Seres P, Hanstock CC, Allen PS Decreased prefrontal Myo-inositol in major depressive disorder.. Biol Psychiatry. (2005-Jun-15) 
+272. Barkai AI, Dunner DL, Gross HA, Mayo P, Fieve RR Reduced myo-inositol levels in cerebrospinal fluid from patients with affective disorder.. Biol Psychiatry. (1978-Feb) 
+273. Shimon H, Agam G, Belmaker RH, Hyde TM, Kleinman JE Reduced frontal cortex inositol levels in postmortem brain of suicide victims and patients with bipolar disorder.. Am J Psychiatry. (1997-Aug) 
+274. López-Gambero AJ, Sanjuan C, Serrano-Castro PJ, Suárez J, Rodríguez de Fonseca F The Biomedical Uses of Inositols: A Nutraceutical Approach to Metabolic Dysfunction in Aging and Neurodegenerative Diseases.. Biomedicines. (2020-Aug-20) 
+275. Levine J, Barak Y, Gonzalves M, Szor H, Elizur A, Kofman O, Belmaker RH Double-blind, controlled trial of inositol treatment of depression. Am J Psychiatry. (1995 May) 
+276. Levine J, Mishori A, Susnosky M, Martin M, Belmaker RH Combination of inositol and serotonin reuptake inhibitors in the treatment of depression.. Biol Psychiatry. (1999-Feb-01) 
+277. Nemets B, Mishory A, Levine J, Belmaker RH Inositol addition does not improve depression in SSRI treatment failures. J Neural Transm. (1999) 
+278. Chengappa KN, Levine J, Gershon S, Mallinger AG, Hardan A, Vagnucci A, Pollock B, Luther J, Buttenfield J, Verfaille S, Kupfer DJ Inositol as an add-on treatment for bipolar depression. Bipolar Disord. (2000 Mar) 
+279. Eden Evins A, Demopulos C, Yovel I, Culhane M, Ogutha J, Grandin LD, Nierenberg AA, Sachs GS Inositol augmentation of lithium or valproate for bipolar depression.. Bipolar Disord. (2006-Apr) 
+280. Nierenberg AA, Ostacher MJ, Calabrese JR, Ketter TA, Marangell LB, Miklowitz DJ, Miyahara S, Bauer MS, Thase ME, Wisniewski SR, Sachs GS Treatment-resistant bipolar depression: a STEP-BD equipoise randomized effectiveness trial of antidepressant augmentation with lamotrigine, inositol, or risperidone. Am J Psychiatry. (2006 Feb) 
+56
+281. Gianfranco C, Vittorio U, Silvia B, Francesco D Myo-inositol in the treatment of premenstrual dysphoric disorder. Hum Psychopharmacol. (2011 Oct) 
+282. Nemets B, Talesnick B, Belmaker RH, Levine J Myo-inositol has no beneficial effect on premenstrual dysphoric disorder. World J Biol Psychiatry. (2002 Jul) 
+283. Wilens TE Mechanism of action of agents used in attention-deficit/hyperactivity disorder. J Clin Psychiatry. (2006) 
+284. Anand P, Kunnumakkara AB, Newman RA, Aggarwal BB Bioavailability of curcumin: problems and promises. Mol Pharm. (2007 Nov-Dec) 
+285. Shoba G, Joy D, Joseph T, Majeed M, Rajendran R, Srinivas PS Influence of piperine on the pharmacokinetics of curcumin in animals and human volunteers. Planta Med. (1998 May) 
+286. Forsyth JE, Nurunnahar S, Islam SS, Baker M, Yeasmin D, Islam MS, Rahman M, Fendorf S, Ardoin NM, Winch PJ, Luby SP Turmeric means "yellow" in Bengali: Lead chromate pigments added to turmeric threaten public health across Bangladesh. Environ Res. (2019 Dec) 
+287. Nelson KM, Dahlin JL, Bisson J, Graham J, Pauli GF, Walters MA The Essential Medicinal Chemistry of Curcumin. J Med Chem. (2017 Mar 9) 
+288. Parletta N, Zarnowiecki D, Cho J, Wilson A, Bogomolova S, Villani A, Itsiopoulos C, Niyonsenga T, Blunden S, Meyer B, Segal L, Baune BT, O'Dea K A Mediterranean-style dietary intervention supplemented with fish oil improves diet quality and mental health in people with depression: A randomized controlled trial (HELFIMED). Nutr Neurosci. (2019 Jul) 
+289. Phillips CM, Shivappa N, Hébert JR, Perry IJ Dietary inflammatory index and mental health: A cross-sectional analysis of the relationship with depressive symptoms, anxiety and well-being in adults. Clin Nutr. (2018 Oct) 
+290. Opie RS, Itsiopoulos C, Parletta N, Sanchez-Villegas A, Akbaraly TN, Ruusunen A, Jacka FN Dietary recommendations for the prevention of depression. Nutr Neurosci. (2017 Apr) 
+291. Cooney GM, Dwan K, Greig CA, Lawlor DA, Rimer J, Waugh FR, McMurdo M, Mead GE Exercise for depression. Cochrane Database Syst Rev. (2013 Sep 12) 
+292. Krogh J, Hjorthøj C, Speyer H, Gluud C, Nordentoft M Exercise for patients with major depression: a systematic review with meta-analysis and trial sequential analysis. BMJ Open. (2017 Sep 18) 
+293. Blumenthal JA, Babyak MA, Moore KA, Craighead WE, Herman S, Khatri P, Waugh R, Napolitano MA, Forman LM, Appelbaum M, Doraiswamy PM, Krishnan KR Effects of exercise training on older patients with major depression. Arch Intern Med. (1999 Oct 25) 
+294. Babyak M, Blumenthal JA, Herman S, Khatri P, Doraiswamy M, Moore K, Craighead WE, Baldewicz TT, Krishnan KR Exercise treatment for major depression: maintenance of therapeutic benefit at 10 months. Psychosom Med. (2000 Sep-Oct) 
+295. Bennie JA, Teychenne MJ, De Cocker K, Biddle SJH Associations between aerobic and muscle-strengthening exercise with depressive symptom severity among 17,839 U.S. adults. Prev Med. (2019 Apr) 
+296. Piercy KL, Troiano RP, Ballard RM, Carlson SA, Fulton JE, Galuska DA, George SM, Olson RD The Physical Activity Guidelines for Americans. JAMA. (2018 Nov 20) 
+57

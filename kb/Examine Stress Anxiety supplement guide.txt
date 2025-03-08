@@ -1,0 +1,636 @@
+
+Stress & Anxiety Supplement Guide 
+Written By: Michael Hull, Wyatt Brown, Mike Murray, Antonis Damianou, & Adel Moussa Edited By: Molly Gregas 
+Reviewed By: Wyatt Brown, & Molly Gregas
+Table of Contents 
+Introduction 
+Combos 
+Primary Supplements 
+Secondary Supplements 
+Promising Supplements 
+Unproven Supplements 
+Inadvisable Supplements 
+FAQ 
+2
+Introduction 
+I gotta admit — I’m a little worried about writing this introduction. I have a bunch of other projects to tackle right now, but I’m under a deadline so I have to crank this out. But will the time pressure make me write a worse intro? I’m afraid that if I rush too much, I may miss something important! 
+But maybe stressing out about writing this intro is perfectly normal! After all, I am anxious about something because I’m under some stress, right? 
+Presumably, you’re turning to this guide because, like me and up to a third of the world,[1] you’re experiencing some stress or anxiety in your life and you want to know how to manage it. But in order to manage something effectively, we first have to understand it. 
+You may have noticed that I’ve been mixing up terms: “stress”, “anxiety”, “fear”, and “worry” all refer to somewhat different things, but I’ve been using them interchangeably. 
+So, let’s take a deep breath together and dive into understanding these terms a bit better. Stressing the science behind stress 
+Stress. Anxiety. Fear. Worry. Admittedly, all four of these words are a little fuzzy — as words usually are. And their definitions can evolve over time. For example, what “stress” is has been explicated and debated since the 19th century.[2] But just because these concepts aren’t sharply defined doesn’t mean we can’t parse them out a bit better. Let’s start with stress. 
+The modern concept of stress can be seen in Walter B. Cannon’s work The Wisdom of the Body, first published in the early 1930s. In this book, Cannon summarizes some of his earlier work, in which he coined the term “homeostasis” — the body’s way of trying to keep itself in balance when it experiences shocks. 
+Within this context, he came up with the famous “fight or flight” theory of stress, also called the acute stress response — when encountering an emergency, the activating, sympathetic part of the nervous system comes into play to give living creatures the energy that they need to deal with the threat by either fleeing from or fighting it. This aspect of stress can be positive. 
+Later in the 1930s, Hans Selye, the founder of modern stress research, advanced the concept much further by noting that stress could be defined by a set of specific physiological reactions to potential threats — reactions that, if severe and prolonged, could lead to general adaptation syndrome (GAS).[3][4][5] This dark side of stress could lead to bodily damage in the long run. 
+3
+
+
+However, psychologists argued with Selye’s emphasis on the physiological aspects of stress, and instead (unsurprisingly) placed more emphasis on its psychological aspects.[9] 
+Currently, although the definition of “stress” is still not set in stone, stress is recognized as psychological and physiological reactivity to environmental factors.[10] What’s also not quite set yet is whether some stress can benefit performance. 
+The famous Yerkes-Dodson law, first formulated in 1908 and illustrated below, states that some amount of stress can lead to optimal performance, whereas too much or too little can lead to worse outcomes.[11]In short, these results suggest that moderate amounts of stress can lead to better outcomes. 
+4
+The (questionable!) Yerkes-Dodson Law 
+
+In Yerkes’s and Dodson’s original experiments, mice had to recognize a box. When they chose the wrong box, they got shocked at different strengths. Moderate shocks worked the best for learning, hence the inverted U-shaped curve. 
+However, this inverted-U shape wasn’t generalizable when similar experiments were tried in other animal models,[12][13] and the Yerkes-Dodson law wasn’t tested rigorously in people. Nevertheless, some researchers in the 1950s hypothesized that the Yerkes-Dodson law could be generalized to human stress and work performance.[14][15] 
+But the human evidence doesn’t seem to strongly support this hypothesis. A review of the research performed in humans between 1975 and 2000 found that only 4% of the literature supported the inverted-U relationship between stress and performance, whereas close to half of all studies found that any amount of stress hurt performance.[16] The authors also identified some key problems in stress research up to that point. 
+More recent research has also spoken against the inverted-U relationship[17] or has used more modern methods to explore stress’s relationship to performance,[18] claiming that stipulating any two-dimensional relationship between stress and performance may be too simplistic. 
+Although there’s a lot of uncertainty around stress’s psychology and effects on performance, at least one thing is relatively clear: high stress is associated with a wide range of negative mental and physical health outcomes.[19] This implies that, whatever stress is and however it affects performance, getting a handle on high, chronic stress is probably good for your long-term health. 
+5
+Fear and worry in Las Vegas 
+Just like “stress”, “fear” and “worry” don’t have super-precise definitions. Still, their definitions are clear enough to allow us to differentiate those words from others like “stress” and “anxiety”. 
+Let’s start with “fear”. The online dictionary of the American Psychological Association (APA) defines it as “a basic, intense emotion aroused by the detection of imminent threat, ... triggering a set of physiological changes” that strongly resemble the stress reaction we just described. Thus, fear is a lot like stress, but more emphasis is placed upon its subjective, emotional component. The fifth edition of APA’s Diagnostic and Statistical Manual of Mental Disorders (DSM-5) also supports this emphasis on the emotional component, defining “fear” as “the emotional response to real or perceived imminent threat” (this emotional response coincides with the physiological fight-or-flight response).[20] 
+Although fear shares a lot of features with stress, worry is something quite different because it’s mostly cognitive — the emphasis is on what people are thinking. For instance, the Textbook of Anxiety Disorders, second edition, defines “worry” as a “preoccupation with negative events occurring in the future”,[21] whereas the APA dictionary defines it as “a state of mental distress or agitation due to concern about an impending or anticipated event, threat, or danger”. 
+The first definition places a heavier emphasis on ruminating about possible negative future events, whereas the second places a heavier emphasis on mental distress. However, both definitions agree that worry is mostly a mental phenomenon, unlike stress (physiological) and fear (emotional). Both also agree that worry has to do with future negative events — whereas fear is about events in the present. 
+In short, fear is what you feel when you go all-in on your poker bet in Vegas with a crappy hand, and worry is what you experience after you lose and have to figure out how to pay for the ticket back home. 
+Anxiety and anxiety disorders 
+Although worry focuses mostly on what’s going on in your head when thinking about a negative future event, anxiety brings the body back into the picture. The APA dictionary defines “anxiety” as “an emotion characterized by apprehension and somatic symptoms of tension in which an individual anticipates impending danger, catastrophe, or misfortune”. 
+Those “somatic symptoms” the definition is referring to differ from what you feel when fear of something in the present moment arises. The DSM-5 associates anxiety with muscle tension and increased mental vigilance to keep an eye out for future threats. Fear, on the other hand, is sharper and focused on an immediate threat*. 
+One thing to keep in mind is that anxiety and fear are normal parts of the human experience and not necessarily a problem. The DSM-5 lays out some specific criteria for when fear and anxiety cross the line to anxiety disorders: 
+When it’s persistent. As a rule of thumb, fear and anxiety qualify as disorders if they last 6 months or more without a clear stressor. For instance, being anxious about an upcoming speech is probably normal, but being constantly anxious about appearing in public, even when there is no event planned, suggests a disorder. 
+6
+When it’s out of proportion to the actual threat. For example, being afraid when stuck in an elevator can be considered normal, but refusing to ever get into an elevator is out of proportion to the actual risk. The DSM-5 is careful to note that because people with anxiety disorders are prone to overestimating the threat level of situations they dread, whether a threat is “out of proportion” should be determined by an experienced mental health clinician. It also notes that the clinician should take culture and context into account when determining whether the fear or anxiety is actually out of proportion — there’s no one-size-fits-all rule. 
+The types of anxiety disorders that the DSM-5 recognizes are summarized in the table below. You’ll notice one recurrent criterion: to rank as a disorder, the fear, anxiety, or avoidance behavior should interfere with living a normal life. After all, if something’s not getting in the way of living the life you want, then it’s not really a problem, is it? 
+
+
+Anxiety disorders as classified by the DSM-5 
+
+
+Reference: Diagnostic and Statistical Manual of Mental Disorders, fifth edition. American Psychiatric Association. 2013.[20] 7
+
+
+
+What nonsupplement interventions work? 
+Hopefully, by now you better understand what clinicians mean by stress, fear, worry, and anxiety. Before we dive into supplements that can help with stress and anxiety, let’s take a whirlwind tour of some other interventions that could possibly help. This won’t be an exhaustive list with super-deep analysis; the goal is just to briefly mention some possibilities to consider besides supplementation. 
+
+
+Prescription drugs 
+When it comes to full-blown anxiety disorders, drugs work better, on average, than exercise and therapy, and they also boost the effectiveness of therapy.[24] However, some drugs work better than others, depending on the anxiety disorder. 
+For instance, duloxetine, a selective serotonin-norepinephrine reuptake inhibitor (SNRI), works really well for generalized anxiety disorder[25] but is no better than placebo for panic disorder, for which tricyclic antidepressants seem to work best.[26] 
+8
+
+
+Therapy 
+Cognitive-behavioral therapy (CBT) works well for many anxiety disorders,[27][28] especially in combination with medications.[24] Other therapies, such as relaxation therapy,[29] also work quite well and may give results on par with those of CBT. 
+Although therapies are effective, that doesn’t mean that face-to-face therapies are the only option. There’s some evidence that iCBT (CBT delivered via the internet by an individual or program)[30][31] and self-help methods can work well for anxiety disorders — and they’re usually almost as good as face-to-face therapy.[32] 
+Meditation 
+The quality of the evidence on meditation’s effects has been questioned.[33][34][35] Keeping that in mind, there is some evidence that meditation can reduce symptoms of anxiety,[36] especially among people for whom anxiety is a secondary concern.[37]It may also reduce physical signs[38] and mental symptoms[39] of stress. 
+Exercise 
+Aerobic exercise reduces anxiety in people who have clinical anxiety, with higher-intensity exercise tending to be more effective.[40] Resistance training has less evidence, but that evidence suggests that it can benefit people with anxiety disorders[41] and with overweight or obesity.[42] 
+Exercise is roughly on par with therapy, with regard to benefits, but is generally ranked lower than treatment with medication.[24] 
+Wrapping up 
+I hope this tour of stress and anxiety has given you a better understanding of what they are and how they can be alleviated. Up next, you’ll get a lot more info on which supplements can help. 
+Keep calm, and read on. 
+9
+
+Greg Lopez, 
+MA in molecular biophysics, PharmD 
+10
+Combos 
+Disclaimer about supplement quality 
+We expect that readers will do their due diligence when choosing products. Depending on the manufacturer, supplements may have inaccurate labels (i.e., they contain too much or too little of the ingredients they claim, or in some cases, significant amounts of other ingredients not listed). They may also contain significant amounts of contaminants such as heavy metals or pesticides. It is also possible for supplements to contain ingredients that people are commonly allergic to, and it’s important to be aware of the nonmedicinal ingredients as well. As a brief introduction to vetting manufacturers, we drew up a short list of steps you should take if a product has caught your interest. 
+
+
+
+
+Core Combo 
+There is no core combo because there are no known supplements that are unequivocally good for most 11
+people to take for this purpose. A previous version noted magnesium as the only supplement in a core combo, but magnesium’s evidence is too weak and inconsistent. There may be some wisdom in a diet-first approach, however. Whether magnesium or other vitamins and minerals have significant evidence for stress and anxiety in particular, an individual should probably be getting enough of all of them anyway and might find that a more nutritious diet has positive effects on stress and anxiety, though this shouldn’t be assumed. 
+
+
+Specialized Combos 
+For people with generalized anxiety disorder (GAD) 
+The following supplements should only be used to cope with anxiety and stress that established coping strategies have been unable to address. 
+There isn’t strong evidence for anything in particular, but saffron and lavender are probably the best bets based on current evidence. Saffron is taken as 30 mg of extract in two separate doses of 15 mg throughout the day. Oral lavender supplements starting with 80 mg of Silexan per day and working up to 160 mg/day over the course of a week (if no lower dose proves effective) are the most-researched doses. Lavender aromatherapy may also help but is not always possible to do at all hours of the day, so the oral supplement may be more reliable. 
+Start with one supplement, and then after a while, if the results are not satisfactory, add in the other one and take them both for a time (ideally more than 2–3 months before deciding that they are ineffective). 
+It should be noted that taking multiple herbal supplements simultaneously carries the risk of adverse interactions, and especially if a person is taking medication, so it’s important to be vigilant about adverse events. 
+For that reason, adding in yet another herb probably isn’t a good idea. It’s possible to experiment with passionflower, ashwagandha, or any of the others, but it may be wise to stop taking a herb before adding one. 
+Theanine, omega-3 fatty acids, and magnesium are the nonherbal options and are generally fairly safe when taken at low doses, so these may be the best next move after trying herbs. 
+12
+Symptoms of generalized anxiety disorder 
+For people with stress but not anxiety 
+Lavender is the most proven of the supplements, and starting with aromatherapy may be the wisest choice because it doesn’t introduce a large amount of the phytochemicals into the system like oral dosing does. It can be used as a two drops of essential oil in a diffuser or any way you prefer to get a potent scent of lavender 
+After that, it is difficult to say what will be the most effective. Ashwagandha, although it is lacking evidence for generalized anxiety, has more evidence for subclinical stress, so that may be a decent option. Favoring theanine, omega-3 fatty acids, and magnesium over taking multiple herbs may reduce the likelihood of herbal interactions, though the evidence isn’t particularly strong for these supplements. 
+For women experiencing anxiety related to PMS 
+13
+Take Chaste tree (Vitex agnus-castu) once per day: 150–250 mg of the dried berry, 20 mg of the Ze 110 extract, or 4 mg of the BNO 1095 extract. 
+What has changed since the last time? 
+It should be noted that we changed the names of our ranking categories. “Core” (the highest) is now “primary”, “primary” is now “secondary”, and “secondary” is now “promising”. This nomenclature has already been implemented for some guides, but this is the first update to the Stress & Anxiety Guide that uses this new terminology. For example, if it was a core supplement in the previous issue and now it’s a secondary supplement in this issue, we’ll say that it was a primary supplement in the previous issue and is now a secondary supplement. 
+Added: 
+Saffron 
+Curcumin 
+Theanine 
+Omega-3 fatty acids 
+Changed ranking: 
+Magnesium 
+Downgraded from primary to promising. Although it’s highly mechanistically plausible, there is currently insufficient evidence from human trials to demonstrate its efficacy. The previous version of the guide reasoned that it’s an essential nutrient and deficiency can lead to anxiety, so it’s worth mentioning as a first thing to check. That makes some sense, but it’s also unclear whether many people have magnesium levels low enough to genuinely cause anxiety, even in the case of low levels found in the case of metabolic syndrome . For that reason, listing it first may be more of a red herring than a helpful reminder. We still mention overall nutritional sufficiency in the combos section, however. 
+Arginine with lysine 
+Downgraded from secondary to unproven. There’s insufficient research, and the previous version weighed mechanistic plausibility too highly. This change reflects our current “trials first” approach. 
+Inositol 
+Downgraded from promising to unproven. There’s insufficient evidence, and what evidence there is doesn’t suggest a meaningful effect. 
+Chaste tree (previously referred to as Vitex Agnus-Castus) 
+Downgraded from secondary to unproven. This one is a little complicated because there is evidence that it can reduce anxiety symptoms in the case of premenstrual syndrome. This is likely due to its overall hormonal effects and effect on premenstrual syndrome in general and not any inherent anxiolytic effect. For that reason, it isn’t effective for anxiety per se, though we still do mention it in the combos section because some percentage of people will read this guide because they have premenstrual syndrome-associated anxiety and will find that information useful. 
+Lemon balm 
+Downgraded from promising to unproven. There is insufficient evidence to qualify as a “promising” 14
+supplement according to our new standards, though the small amount of research there is could be interpreted as “promising” in a sense. 
+Passionflower 
+Upgraded from promising to secondary. Although the evidence still isn’t where we need it to be to have a high degree of confidence, it does currently meet the threshold for secondary and has been upgraded to reflect that. 
+No longer mentioned, but future updates: 
+Rhodiola rosea and Panax ginseng. In the previous section for ashwagandha, it was suggested that these herbs could be taken in place of ashwagandha. We haven’t properly reviewed the evidence for these, and it’s a poor assumption to make. The next update to this guide should have individual sections for these herbs. 
+Agmatine 
+We will also add back the section on agmatine; however, it’s unlikely that there will be sufficient evidence from trials. 
+15
+Primary Supplements 
+Why are there no primary supplements in this guide? 
+None of the supplements that we reviewed for this guide qualified as primary supplements. Either the effects were too small or were only present in the case of deficiency — or the evidence wasn’t sufficient to give us a high level of confidence. 
+16
+Secondary Supplements 
+Saffron 
+What makes saffron a secondary supplement 
+Saffron is derived from the Crocus sativus L. plant and has been traditionally used to flavor food. It is a rich source of bioactive compounds with potential neuroprotective effects, most notably crocins, crocetin, picrocrocin, and safranal. These neuroprotective effects, which make saffron a good candidate for improving stress and anxiety, stem from its potential to reduce oxidative stress and inflammation, modulate neurotransmitter pathways and hypothalamic-pituitary-adrenal (HPA) axis activity, and increase brain derived neurotrophic factor (BDNF) levels.[43] 
+Although anxiety and mood disorders (e.g., depression) are separate conditions, the two are often simultaneously present in an individual.[44] Saffron is categorized as a primary option in the mood and depression guide. Is it similarly effective for anxiety? 
+A 2019 meta-analysis that included data from 6 randomized controlled trials and 375 participants reported that saffron reduced anxiety symptoms to a medium-to-large degree.[45] 
+Saffron has also been found to reduce anxiety in people with generalized anxiety disorder or major depressive disorder when used as an adjunctive therapy.[46][47] 
+Saffron is an effective option for reducing anxiety symptoms in people with anxiety and/or depression. However, because of the limited number of studies demonstrating this effect, saffron is currently categorized as a secondary option. 
+Warnings about saffron 
+There is mixed, weak evidence that saffron may modestly increase the risk of headaches, anxiety and anxiety-related symptoms, and gastrointestinal symptoms. It's still unclear how much saffron increases their risk, if it increases it at all.[48][49] However, GI effects tend to be more likely at doses that exceed 1.2 grams of saffron.[50] 
+One study showed that daily supplementation with 60 mg of saffron for 26 weeks may reduce levels of red and white blood cells and of platelets. Also, daily supplementation with 60 mg of saffron for at least 8 weeks was shown to cause sedation, overactive energy, a drop in blood pressure, and change in appetite. These effects increased as the duration of use increase.[51] 
+The natural chemicals in saffron can interfere with the activity of CYP2B, CYP2C11, and CYP3A enzymes, which could either decrease or increase the rate of metabolism for various drugs, potentially leading to negative interactions.[52] Saffron may decrease blood sugar, and the use of saffron along with diabetes medication could possibly lead to hypoglycemia.[53] Saffron may decrease blood pressure, and the use of saffron along with blood pressure medications could possibly lead to low blood pressure.[54][55] 
+17
+The use of more than 10 grams of saffron in pregnant women has shown a potential abortive effect. However, this effect was reported in 1925 and could be due to the unwanted pollutants in saffron.[56] 
+How to take saffron 
+The standard dosage is 30 mg of saffron extract (derived from the stigma of the Crocus sativus L. plant) daily, typically taken as two separate 15 mg doses. 
+Lavender 
+What makes lavender a secondary supplement 
+Lavender belongs to a family of flowering plants known as Lamiaceae, which also includes lemon balm. Lavender is traditionally used in aromatherapy to reduce anxiety and is purported to have a calming effect, which has been linked to its content of linalool and linalyl acetate.[57]It may improve stress and anxiety by inhibiting voltage-dependent calcium channels in the brain[58][59] and altering serotonergic neurotransmission.[60][59] 
+Lavender products can be administered orally, topically, or through inhalation, and each method of administration has been shown to improve anxiety. 
+18
+Results of a lavender meta-analysis 
+Reference: Donelli et al. Phytomedicine. 2019.[57] 
+Oral supplementation with lavender for approximately 10 weeks has been found to improve anxiety in people with anxiety disorders,[61][57] with limited evidence indicating that lavender is as effective as SSRIs and benzodiazepines.[62] However, confidence in these findings is reduced by the fact that the trials were initiated by the manufacturer of the product and conducted in Germany by the same research team. 
+Aromatherapy involving either the inhalation of lavender essential oil or massage with lavender essential oil has also been found to reduce anxiety to a moderate degree in a variety of populations.[57] Additionally, aromatherapy was reported to reduce stress to a moderate degree.[63] However, a limitation of this body of evidence is the inability to blind the participants to the intervention because the lavender odor is not 
+19
+concealable. 
+Warnings about lavender 
+Trials on lavender for anxiety have found a possible link to infections, headaches, palpitations, and gastrointestinal adverse events.[57] However, none of these events were serious, and the frequency wasn’t very high, making it difficult to pin them on lavender. More research from longer and larger trials is needed to establish lavender’s safety. 
+Lavender may have hormonal effects. The Endocrine Society and the National Institutes of Health warn that there is some evidence that lavender oil has estrogenic properties and can cause gynecomastia (enlarged breasts in men and boys). 
+Three case studies of prepubertal gynecomastia have previously been attributed to topical administration of a cologne with lavender as an ingredient.[64][65] More recently, a case-series study reported on 3 prepubertal girls and 1 boy with clinical evidence of estrogenic action associated with a history of using lavender-based fragrance.[66] Although the precise development of these conditions can be multifactorial, the gynecomastia resolved once the use of the products was discontinued. Additionally, there is in vivo evidence of the estrogenic and antiandrogenic properties of both lavender and tea tree essential oils.[65] 
+If the use of lavender coincides with the onset of breast tenderness, cease use immediately. 
+Lavender can cause drowsiness. For this reason, it is important to understand how lavender affects a person before driving, operating dangerous equipment, or doing any other activity in which a lack of focus could be hazardous. This effect may be compounded and especially dangerous if lavender is combined with medications such as benzodiazepines that also can have such side effects. 
+How to take lavender 
+The most common dosage of oral supplementation with lavender (Silexan) is 80 mg per day. Some evidence suggests that a higher dose of 160 mg per day may be more effective in people with generalized anxiety disorder,[67] but further randomized controlled trials are needed to confirm this. 
+With respect to lavender essential oil used in aromatherapy, high heterogeneity in study interventions makes it exceedingly difficult to provide general recommendations. Some common themes include using 2 to 5 drops of a 2%–10% lavender concentration and 10–30 minutes of exposure.[68][57] 
+Passionflower 
+What makes passionflower a secondary supplement 
+Passionflower (Passiflora incarnata L.) is widespread in tropical areas of the world and has traditionally been used for the treatment of anxiety, nervousness, and sleep issues. It contains a variety of 
+phytochemicals, most notably flavonoids, of which chrysin and benzoflavone seem to be the most 20
+important.[69] Passionflower may benefit stress and anxiety via modulation of the GABA system.[70][71] 
+In participants with generalized anxiety disorder, supplementation with passionflower for 1 month was as effective as a benzodiazepine for reducing anxiety.[72] Additionally, when taken as an adjunctive treatment for 1 month, passionflower reduced anxiety compared to a placebo.[73] 
+Evidence indicates that passionflower also has antianxiety effects in people without a clinical anxiety disorder who are undergoing a stressful event. A single dose of passionflower shortly before surgery or spinal anesthesia was found to reduce anxiety to a small degree compared to a placebo.[74][75][76] Moreover, passionflower was found to be as effective as or more effective than[77][78][79][80] a benzodiazepine for reducing anxiety before and after surgery. 
+The available evidence indicates that acute (short-term) supplementation with passionflower is effective for reducing anxiety surrounding surgery, but more research is needed to confirm whether passionflower reduces anxiety in people with generalized anxiety disorder. For the purpose of reducing anxiety acutely, passionflower is currently categorized as a secondary option. 
+Warnings about passionflower 
+Dried passionflower extract taken in quantities of up to 800 mg by mouth daily for up to 8 weeks is considered safe in adults, although there’s not much data on its safety when applied to the skin, and pregnant women should absolutely avoid it because it could induce uterine contractions.[81] Notable side effects of passionflower include drowsiness,[79] dizziness, confusion, shakiness, and uncoordinated movements.[82] 
+Passionflower may also cause a hypersensitivity reaction in which the immune system responds in an exaggerated manner to a stimulus. This can result in a skin rash or hives.[83] 
+Excessive amounts of passionflower (1,500 to 3,000 mg per day) may cause toxicity, including heart rhythm issues, rapid heart rate, and stomach upset.[84] 
+Passionflower may interact with other medications that also cause drowsiness, like anxiety medications taken as needed for quick relief (e.g., Xanax or alprazolam) and sleep medications, due to combined sedative effects and similar sites of action at a receptor in the body known as GABA.[85] 
+If passionflower is taken in combination with blood-pressure-lowering medications or by people with low blood pressure at baseline, low blood pressure can occur, so monitoring is encouraged.[86]It is important for anyone who is taking medications to always talk to a doctor or a pharmacist about supplements. 
+When considering contamination issues with botanical supplements like passionflower, controlled cultivation sources are preferred over wild-collected passionflower herbs due to decreased a risk of toxic weed contamination.[87] 
+How to take passionflower 
+More research is needed to confirm the most effective dose of passionflower, but several studies have reported benefits with use of 500 mg of passionflower extract. 
+21
+Promising Supplements 
+Curcumin 
+What makes curcumin a promising supplement 
+Curcumin is a polyphenol derived from the stem of turmeric (Curcuma longa L), a plant native to India and Southeast Asia that has been used for centuries as a spice and medicine. Curcumin is mainly of interest for improving stress and anxiety due to its ability to reduce inflammation and oxidative stress,[88] which are regarded as key factors in the development of psychiatric disorders. It may also exert beneficial effects by improving neurochemical imbalances and altering levels of monoamine neurotransmitters (e.g., serotonin).[88] 
+There is evidence to indicate that curcumin improves anxiety in people with major depressive disorder,[89][90] although this finding is not universal.[91]Interestingly, in the studies that did not report beneficial effects at large, one found that curcumin reduced anxiety in men but not women,[91] whereas the other study found that curcumin did not outperform a placebo overall, but it did in the latter half of the study.[92] This result suggests that the placebo effect may have masked differences between groups in the first half of the study and that if the study were longer, a more notable difference between groups may have manifested. In fact, this possibility is exactly what occurred in a longer 12-week trial.[90] 
+Whether supplementing with curcumin improves anxiety in people with a metabolic condition (e.g., metabolic syndrome, obesity) and elevated levels of anxiety is unclear. The results thus far have been mixed, and even in studies that demonstrated a beneficial effect, the effect was relatively small and unlikely to be clinically meaningful.[93][94][95] 
+Lastly, supplementing with curcumin has not been found to affect stress and anxiety levels in healthy older and younger adults with relatively low levels of stress and anxiety.[96][97][98][99] 
+The body of evidence concerning the effects of supplemental curcumin on stress and anxiety is relatively sparse. Beneficial effects have been reported, but further high-quality studies are needed to support these findings. Until then, curcumin is currently ranked as a promising option, primarily for reducing anxiety in people with major depressive disorder.[100]It’s important to note that in studies on this population, the participants continued taking their antidepressant medication (if they were taking one) while they supplemented with curcumin. 
+Warnings about curcumin 
+Curcumin seems to be well tolerated. Some studies have reported a small amount of GI-related side effects.[101][102] Rare, individual reports of hepatitis associated with taking turmeric have also occurred.[103][104] The reason for this effect is unclear, but it is possible that it involves contamination (e.g., formulations with a high heavy metal content). It is unclear whether the same concerns apply to curcumin extract, but regardless, it is important to only buy from companies whose products have been tested independently. 
+Piperine is a potent inhibitor of a variety of cytochrome P450 enzymes, which is one part of what makes it 22
+a curcumin enhancer and of potential use for augmenting the effects of other drugs; in other words, it can reduce the rate of drug metabolism.[105][106][107] However, this property may make some medications more potent and lead to excessive effects. As such, it may be prudent to talk to a doctor or pharmacist before combining piperine and medications. 
+The same goes for curcumin itself, which has the ability to inhibit a variety of cytochrome P450 enzymes, albeit to a lesser extent.[105][108] 
+Curcumin may increase the risk of bleeding by interacting with anticoagulant medications such as warfarin and antiplatelet medications such as aspirin.[109][110] Taking curcumin with diabetes medication such as glyburide may increase the risk of low blood sugar.[111] 
+Some athletes use curcumin to fight muscle inflammation. In theory, curcumin should have effects similar in nature and potency to those of aspirin, and rodent studies on this aspect are promising, but human studies are still needed for confirmation. 
+How to take curcumin 
+In studies that reported a reduction in anxiety in people with major depressive disorder, the participants typically took 500–1,000 milligrams of curcumin alongside piperine (a black pepper extract used to increase curcumin’s bioavailability) daily. As it stands, the limited evidence available does not suggest that higher doses are more effective than lower doses.[100] 
+Theanine 
+What makes theanine a promising supplement 
+L-Theanine is a nonproteinogenic (i.e., it’s not used as a building block for protein synthesis) amino acid that is naturally found in tea. Its chemical structure is similar to that of glutamate, and it freely passes through the blood-brain barrier.[112] 
+Theanine may be beneficial for improving stress and anxiety by acting as an NMDA receptor antagonist and reducing glutamate release and increasing levels of inhibitory neurotransmitters (i.e., GABA and glycine).[113] Other mechanisms of action include modulating levels of monoamine neurotransmitters (e.g., dopamine)[114] and increasing alpha brain waves,[115] which are known to be associated with a state of relaxation. 
+Theanine was not found to be beneficial as an adjunctive treatment in participants with generalized anxiety disorder,[116] nor was it beneficial as an adjunctive treatment for reducing secondary anxiety in participants with schizophrenia or schizoaffective disorder.[117] 
+In participants without a clinical psychiatric disorder but with moderate anxiety, theanine was not superior to placebo for reducing anxiety.[118] 
+In contrast to the evidence regarding theanine’s effect on anxiety, there are some promising results for theanine’s effect on stress. A study that had pharmacy students supplement with theanine for 17 days during a stressful period found evidence that theanine prevented an increase in stress compared to 
+23
+placebo.[119] 
+Theanine’s potential antistress effects have also been tested in acute trials. A single dose of theanine was found to attenuate increases in stress from a demanding mental task,[120][121] although conflicting results are also available.[115] 
+Although the current evidence does not support the use of theanine for reducing anxiety, the results from a few trials suggest that it can mitigate increases in stress during stressful periods. For these reasons, theanine is currently ranked as a promising option for the purpose of alleviating stress. 
+Warnings about theanine 
+In studies lasting 4–8 weeks, 100–250 mg doses of L-theanine (the most common form of theanine) were well tolerated in adults.[118][122][123] Headaches are one potential side effect of theanine use.[124] According to a noncontrolled clinical study of 20 participants with depression, 250 mg of theanine was associated with some minor side effects, including 1 participant with slight sleepiness, 2 participants with increased duration of sleep, and 2 participants with slightly increased dream activity. However, it is difficult to directly attribute those side effects to theanine because there was no control group in this study.[122]. A specific product called Suntheanine was safely used in a study at a dosage of 200 mg twice daily in boys with ADHD (ages 8–12) for up to 6 weeks.[125]In this study, no significant side effects were reported. However, a subtle facial tic occurred in a child with tic history, but the physician in the study thought that this occurrence was not related to L-theanine. Theanine may lower blood pressure according to some animal studies, so people who are taking medications for high blood pressure or those with a history of low blood pressure should likely avoid this supplement.[126]If theanine is taken in combination with sleep or pain medications, increased drowsiness could occur due to the additive side effects of drowsiness.[122] L Theanine is produced by leaf extraction, which is an expensive process with low yield and more variability, or by factory synthesis, which is more common today. When commercially produced, this supplement may also contain caffeine, so it is important to ask a doctor or pharmacist about the product before starting it.[127] 
+How to take theanine 
+Theanine is typically supplemented at a dosage of 200 mg once per day. 
+Kava 
+What makes kava a promising supplement 
+Kava (Piper methysticum) is a herb that has been used (mainly drunk) for centuries in the South Pacific and Hawaii for social ceremonies and as medicine, primarily for the purpose of inducing relaxation.[128] The beneficial properties of kava are attributed to its content of kavalactones, which are concentrated in the roots of the plant.[129] Kava may improve stress and anxiety by reducing excitatory neurotransmitter release and improving GABAergic neurotransmission.[129] 
+24
+Kava appears to reduce anxiety to a small degree,[130] on average, but the evidence at large demonstrates an inconsistent effect. A 2018 systematic review reported that, compared to placebo, supplementation with kava for 1–6 weeks tended to improve anxiety in people with anxiety disorders in most studies, but the superiority of kava over placebo was only statistically significant in 3 of 8 studies.[131] 
+A few studies have investigated the effects of kava in people with generalized anxiety disorder (GAD), specifically, and the results have been mixed.[132][133] However, a study that compared kava to 2 antianxiety medications in participants with GAD reported similar improvements in anxiety between groups.[134] 
+With respect to safety, concerns have been raised about the potential of kava to damage the liver.[135] 
+Cases of kava-induced liver toxicity seem to be quite rare.[130] Also, increased rates of adverse events have not been reported with kava, compared to placebo, in randomized controlled trials,[131] nor have notable changes in markers of liver function been reported.[132] However, the interventions to date have been relatively short (≤6 weeks). A 2020 trial that was 16 weeks long reported that liver function test abnormalities were more frequent in the kava group than the placebo group, although the difference wasn’t statistically significant.[133] 
+Although there is a fair amount of evidence indicating that kava can improve anxiety, the magnitude of benefit is inconsistent, and a few studies have reported no difference from placebo. In combination with the potential of liver toxicity with long-term use — a matter that still needs to be investigated — kava is currently ranked as a promising option. 
+Warnings about kava 
+Kava extract doses of up to 210 mg of kavalactone (active ingredient) are possibly safe in the management of anxiety, based on evidence in trials up to 25 weeks long,[136] although there are several reported cases of liver toxicity or injury in association with the use of kava. The cause of the liver damage is unclear, but it may be due to high doses, prolonged duration of use, or lack of standardization in production of kava extract.[137] Europe and Canada barred kava supplements from the market in 2002 due to these liver concerns, including liver enzyme elevation, liver damage, and liver failure. Long-term use of kava may result in kava dermopathy, which is a skin reaction involving dry, scaly, flaky skin with yellow discoloration.[137] Movement issues[138] and muscle pain[139] have been reported in some cases. One study suggests that kava drinking may be associated with suicidal behavior in young adults ages 16–25. However, due to the observational nature of this study, it is difficult to say that this association is due to kava because the herb may be more likely to be used by people with poor mental health.[140] Kava may affect a person’s ability to drive due to coordination impairment.[141] Kava should be avoided in pregnancy or while breastfeeding due to harmful components that could pass from parent to fetus or baby. Kava may interact with other medications that cause liver damage, like acetaminophen or Tylenol.[142] Alcohol should not be combined with kava due to an increased risk of liver injury. Kava may also inhibit the liver enzymes needed to break down other medications like diazepam, caffeine, amitriptyline, propranolol, fluoxetine, duloxetine, venlafaxine, mirtazapine, bupropion, and haloperidol.[129] This inhibition could result in increased side effects or toxicity from those medications. Other medications that cause drowsiness, like antianxiety and pain medications, could increase the risk of drowsiness when taken in combination with kava.[129] People with liver disease or hepatitis should avoid the use of kava due to increased risk of liver damage. Kava might worsen Parkinson’s disease as well due to increased movement impairment or tremor.[138] Kava is mostly cleared by the kidneys, so people with renal impairment should likely avoid this supplement.[137] The manufacturing standards for kava vary widely among supplement producers. The kava raw material may 25
+come from the root (highest concentrations) or stems and leaves (less concentrated).[137] The growing and harvesting styles also influence the amount of kavalactones, the active ingredient in kava, in the supplements available on the shelves.[142] A standard for kava manufacturing is necessary because the raw kava material may be a cause of the liver toxicity associated with this supplement.[143] 
+How to take kava 
+Most studies on kava used an extract called WS 1490. The study participants took 150–300 mg/day, divided between 2 or 3 doses. If supplementing with other products, select one that specifies its kavalactone content (usually 50–70 mg per tablet). Studies have used a dose of 120–280 mg of kavalactones per day, divided between 2 doses. 
+Ashwagandha 
+What makes ashwagandha a promising supplement 
+Ashwagandha (Withanian somnifera) is the most prominent herb used in Ayurvedic medicine.[144]It is considered an adaptogen, meaning that it purportedly enhances the body’s resilience to stress. The health benefits of ashwagandha are attributed to the density of bioactive compounds in the plant (predominantly in the roots), most notably a group of steroidal lactones known as withanolides.[145] 
+Ashwagandha may benefit stress and anxiety through several mechanisms, such as modulating hypothalamic–pituitary–adrenal (HPA) axis function and reducing cortisol levels, improving GABAergic neurotransmission, and reducing oxidative stress and inflammation in the brain.[146] 
+Limited evidence suggests that ashwagandha may be of benefit for people with anxiety disorders.[147] One study that used ashwagandha as an adjunctive treatment in people with generalized anxiety disorder reported a notable 14-point reduction on the Hamilton Anxiety Rating Scale over 6 weeks.[148] Ashwagandha has also been reported to slightly improve anxiety in people with mild anxiety.[149] 
+In participants with anxiety secondary to another condition, ashwagandha was found to improve anxiety in children with attention deficit/hyperactivity disorder.[150] 
+In adults with moderate stress according to the Perceived Stress Scale (average score of 19–23), ashwagandha has been found to consistently improve stress levels, with an average reduction of 6 to 9 points reported.[151][152][153][154] 
+In participants with stress secondary to another condition, one study found that adjunctive treatment with ashwagandha improved stress levels in participants with schizophrenia.[155] 
+Because of a lack of high-quality randomized controlled trials, ashwagandha is currently ranked as a promising option, and this ranking is primarily attributed to its effect on stress. Another potential limitation of the available evidence is that almost all of the studies were conducted in either India or Iran; this isn’t necessarily a problem, but replication of these findings in other geographical regions would strengthen 
+26
+confidence in the efficacy of ashwagandha for stress and anxiety. 
+Warnings about ashwagandha 
+Ashwagandha continues to show promising evidence for its efficacy and safety. Mild side effects of drowsiness, upper GI discomfort, dizziness, and loose stools have been reported with the use of ashwagandha.[156] Because ashwagandha may increase testosterone levels,[157]it is possible that it could be an issue in individuals with hormone-sensitive prostate cancer. However, the reported increase in testosterone is well within the normal daily fluctuation of 30% to 35% in healthy men, so the risk may not be particularly significant.[158]In fact, one of ashwagandha’s main active ingredients, withaferin A, has anticancer effects in various cancer cell lines, including prostate cells, where it interferes directly with the initiation and progression of cancerous growth.[159] Therefore, it’s not immediately clear whether it would be detrimental even in the context of hormone-sensitive prostate cancer. Ashwagandha’s hormonal effects could raise concern about its use during pregnancy, but the evidence on its safety is mostly old, sparse, and unclear.[160] Given the lack of evidence around this specific use, it’s safest to avoid ashwagandha while pregnant or breastfeeding. There have also been case reports illustrating the potential of ashwagandha to cause liver injury.[161] Benzodiazepines, anticonvulsants, and barbiturates may be dangerous to take with ashwagandha because these drugs have sedative characteristics, and taking ashwagandha along with them can increase these effects.[156] 
+How to take ashwagandha 
+The most common form of ashwagandha used in the research setting is a root extract (typically KSM-66, a proprietary water-based extract standardized to 5% withanolides), and the most common dosage is 500– 600 mg per day divided evenly between 2 doses. 
+Omega-3 fatty acids 
+What makes omega-3 fatty acids a promising supplement 
+Omega-3 fatty acids, namely, the longer-chain family members docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), are of interest for anxiety because lower red blood cell levels of omega-3 fatty acids have been observed in participants with anxiety disorders compared to control participants without anxiety disorders.[162][163] 
+The brain is rich in omega-3 fatty acids, which are critical to brain structure and function.[164] As a result of their incorporation into cell membranes, omega-3 fatty acids may benefit anxiety via reducing inflammation and regulating neurotransmission and cell signaling.[165] 
+Although anxiety and mood disorders (e.g., depression) are separate conditions, the two are often simultaneously present in an individual.[44] Omega-3 fatty acids are categorized as a primary option in the mood and depression guide. Are they similarly effective for anxiety? 
+27
+A 2018 meta-analysis of 19 clinical trials reported that supplementation with omega-3 fatty acids improved anxiety symptoms to a small degree.[166] However, there was significant heterogeneity in the analysis, which was primarily due to the different populations studied. 
+Subgroup analyses indicated that omega-3 fatty acids did not affect anxiety symptoms in healthy participants, but they improved anxiety symptoms to a moderate degree in participants with clinical conditions. Even so, it remains unclear which populations are likely to benefit from supplementing with omega-3 fatty acids because the clinical conditions widely varied between studies. 
+In the 14 studies that included participants with clinical conditions, there was generally only one study available for each condition, which included participants with borderline personality disorder, depression, obsessive-compulsive disorder, substance use disorder, attention deficit hyperactivity disorder, Tourette syndrome, premenstrual syndrome, Parkinson’s disease, or Alzheimer’s disease. 
+Omega-3 fatty acids have the potential to improve anxiety symptoms, but the evidence at this point is simply too limited and diverse to draw any conclusions as to which populations are likely to benefit and the magnitude of benefit that may be experienced. Furthermore, there is a lack of studies investigating the effect of omega-3 fatty acids on anxiety symptoms in participants with an anxiety disorder. 
+Because of these limitations, omega-3 fatty acids are currently categorized as a promising option for improving anxiety symptoms in people with anxiety caused by a condition other than a clinical anxiety disorder. 
+Warnings about omega-3 fatty acids 
+Fish oil is known to cause gastrointestinal side effects, including abdominal pain and diarrhea, in some people.[167][168] Taking fish oil with food may help avoid these unwanted side effects.[169] 
+Although occurrences are rare, some cases suggest that fish oil interacts with anticoagulants like warfarin/Coumadin and antiplatelet medications like aspirin that can increase the risk of bleeding when used together.[170][171][172]. Taking fish oil alone does not appear to have this risk.[173][174] Consult with a medical caregiver or prescriber before taking fish oil with any of these medications. 
+There is some evidence of that fish oil increases the risk of atrial fibrillation, as detailed by Examine. The risk seems to be present even at fish oil doses as low as 1 gram. There are still many uncertainties (including the magnitude of risk) as to whether or not this risk is present in people without cardiovascular disease or who are not at a high risk of cardiovascular disease. 
+28
+
+
+How to take omega-3 fatty acids 
+It remains unclear what the optimal dose of omega-3 fatty acids is for improving anxiety symptoms, and whether this dose differs across populations. Trials have reported benefits with dosages of both 2,000 mg/day or more and less than 2,000 mg/day.[166] However, the limited evidence available suggests that supplements composed of less than 60% EPA are more effective than supplements containing a greater proportion of EPA for improving anxiety symptoms.[166] 
+Magnesium 
+What makes magnesium a promising supplement 
+29
+Magnesium is an essential nutrient used by the body for hundreds of different purposes but mainly as a key component of enzymes. It has several roles in the brain, including synapse formation and maintenance; serotoninergic, cholinergic, and dopaminergic neurotransmission; regulation of ion channels; and myelination.[180] Magnesium’s role in regulating N-methyl-D-aspartate (NMDA) channels, in particular, make it a plausible factor in limiting neuronal excitation and modulating synaptic plasticity, factors that could help in relaxing a stressed or anxious brain. 
+Based on previous systematic reviews and the small amount of research published since, the evidence for magnesium’s antistress and anxiolytic effects is weak, highly confounded, and oftentimes equivocal.[181][180][182][183] Many of the studies used magnesium in conjunction with other supplements and compared the combination to placebo, whereas others were not specifically designed to evaluate its effects on stress and anxiety disorders — it’s possible that the results are simply due to an improvement in a different condition, and much of the research is simply low-quality and at a high risk for bias. The results are also mixed, and the situations in which magnesium reduces stress and anxiety are not necessarily clear, though it probably only has meaningful effects in the case of a magnesium deficiency. 
+Because it’s so mechanistically plausible and there are many anecdotal reports of it working, it is tempting to just give magnesium a pass, especially because it’s an essential nutrient. However, it’s important to note just how shaky the actual evidence from human trials is and to avoid overconfidence in its efficacy. Many Examine readers likely already have sufficient magnesium levels due to their good diets, and further supplementation may be unwarranted. 
+Warnings about magnesium 
+High doses of supplemental magnesium can cause diarrhea and general intestinal discomfort;[184] fortunately, magnesium obtained via food has not been observed to cause such problems.[184] 
+Magnesium is excreted through the kidneys, and therefore, excess magnesium that is present in food and beverages is usually removed via urine. However, magnesium in dietary supplements and medications should not be consumed in amounts no greater than 350 mg daily for adults. Excessive intake of magnesium has primarily been shown to cause diarrhea; however, other mild gastrointestinal effects such as nausea and abdominal cramping have been reported as well. Similar to other supplements, magnesium can also interact with other medications. For example, diuretics (e.g., hydrochlorothiazide can also increase or decrease magnesium.[185] Medications used to treat osteoporosis (e.g., bisphosphonates)[186] and also antibiotics (e.g., quinolones[187] and tetracyclines[188]) are not well absorbed when high amounts of magnesium are consumed, and thus their doses should be separated. High doses of zinc may also interfere with the absorption abilities of magnesium and should be separated as well.[189] Therefore, it is important that doctors and pharmacists should be informed about all dietary supplements, for safety. 
+Tolerable Upper Intake Level (UL) for supplemental magnesium (mg) 
+
+
+Reference: Institute of Medicine. https://www.nap.edu/read/5776/chapter/8 (chapter 6 in Dietary Reference Intakes for Calcium, 30
+Phosphorus, Magnesium, Vitamin D, and Fluoride. The National Academies Press. 1997.)[184] 
+How to take magnesium 
+There is no single agreed upon, satisfactory method for assessing magnesium status.[190] To get a better sense of a typical magnesium intake, a person should track what they eat for a week. If, on average, a person is getting less than 80% of the Recommended Dietary Allowance (RDA), supplementation becomes an option, but a first step is to try eating more foods rich in magnesium. 
+Recommended Dietary Allowance (RDA) for magnesium (mg) 
+
+
+* Adequate intake (AI) 
+Reference: Institute of Medicine. Magnesium (chapter 6 of Dietary Reference Intakes for Calcium, Phosphorus, Magnesium, Vitamin D, and Fluoride. The National Academies Press. 1997.)[184] 
+A diet that includes magnesium-rich foods (such as those listed in the figure above) renders supplementation unnecessary, at least for the purpose of preventing anxiety. In case of magnesium deficiency, adding or increasing dietary sources of magnesium should be the first option, but in the absence of practical ways of doing so, supplementation can be used. 
+If a person cannot get enough magnesium through foods, they should start supplementing with 200 mg of magnesium once per day. Capsules with 400 mg are common, but keep in mind that the Tolerable Upper Intake Level (UL) for supplemental magnesium for adults is 350 mg. The higher the dose, the higher the risk of gastrointestinal issues will be. 
+If magnesium intake is very low, take up to 350 mg of magnesium once a day. 
+Commonly supplemented forms include citrate, gluconate, and glycinate. To increase absorption, magnesium gluconate should be taken with food; other forms can be taken on an empty stomach. Avoid magnesium oxide. It has poor bioavailability (rats absorbed only 15% in one study;[191] humans, only 4% in another[192]) and is especially liable to cause intestinal discomfort and diarrhea.[192][193][194] 
+31
+Oral bioavailability of various magnesium salts in humans Reference: Ranade et al. Am J Ther. 2001.[195] 
+Magnesium content of seeds and nuts (mg) 
+Reference: [https://fdc.nal.usda.gov/](USDA FoodData Central Database). 
+Because calcium, iron, magnesium, and zinc compete for absorption, it is better to take them at least 1 hour apart from each other. Magnesium may impair the absorption of other pharmaceuticals, notably, bisphosphonates and antibiotics, especially those in the tetracycline class (e.g., doxycycline) or quinolone class (e.g., ciprofloxacin).[196] Take magnesium at least 6 hours apart from bisphosphonates or antibiotics. 
+Because magnesium might have a sedative effect and improve sleep quality, it is best to take it before bed. 
+Who is more likely to have low magnesium levels? 
+Older people, because they tend to have relatively low magnesium intakes[197] and may absorb less during digestion.[198] 
+People who sweat a lot, because magnesium is lost through sweat. Athletes participating in sports requiring weight control may be especially vulnerable. 
+People with type 2 diabetes, because it has been estimated that over all adult ages in developed countries, hypomagnesemia affects less than 15% of healthy people but up to 50% of people with type 2 diabetes.[199] 
+In addition, certain diuretics, proton pump inhibitors, and the antifungal medication amphotericin B can cause significant magnesium loss.[185][200] However, potassium-sparing diuretics (e.g., amiloride, eplerenone/Inspra, spironolactone/Aldactone, triamterene/Dyrenium) may not.[185] 
+32
+Unproven Supplements 
+Arginine with Lysine 
+What makes arginine with lysine an unproven supplement 
+Preliminary research suggests that lysine deficiency can induce a state of chronic stress in mice[201] and a trial that used lysine-fortified wheat found a reduction in anxiety symptoms.[202] One study found positive effects of the combination of arginine and lysine on rats, and another study found an effect in pigs.[203][204] 
+However, with just 2 trials evaluating the combination, it is difficult to have any significant amount of confidence in meaningful effects for humans.[205][206] That said, a diet that contains more of these amino acids is without considerable risk and may turn out to be beneficial. 
+Inositol 
+What makes inositol an unproven supplement 
+Inositol encompasses 9 vitamin-like compounds that are structurally similar to blood glucose. The most common of those, in nature as well as in health stores, is called myo-inositol. Supplemental myo-inositol is often called just “inositol” or sometimes “vitamin B8” (a misnomer, because inositol is not related to the B vitamins, nor is it a true vitamin). 
+Inositol usually refers to myo-inositol, which has been shown to help in some disorders of glucose metabolism, like polycystic ovary syndrome (PCOS).[207] 
+Inositol has also been investigated for its beneficial effects on anxiety and depression, and in addition to modulating some neurotransmitters, it may help to sensitize serotonin receptors.[208] 
+Based on a meta-analysis of randomized trials, there is insufficient evidence for inositol supplementation for anxiety disorders or obsessive compulsive disorder.[209] Another meta-analysis and a search of the literature also demonstrated insufficient evidence for other stress and anxiety-related outcomes.[210] 
+Overall, inositol is highly speculative and should be considered to be unproven for now. 
+Lemon balm 
+33
+What makes lemon balm an unproven supplement 
+Lemon balm (Melissa officinalis L.) has been traditionally used to treat mental disorders and enhance memory.[211]Its medicinal properties are attributed to the content of bioactive compounds in the aerial parts (e.g., leaves, flowers) of the plant, including essential oils, phenolic acids (most notably rosmarinic acid), flavonoids, and triterpenes.[211] Lemon balm may help improve stress and anxiety by improving GABAergic neurotransmission and reducing oxidative stress.[211]It also functions as a light sedative, so it may improve stress and anxiety in some people by improving sleep. 
+It appears that the use of lemon balm for anxiety disorders has not been investigated at this time; instead, trials have evaluated the ability of lemon balm to reduce anxiety under other circumstances. Oral supplementation with lemon balm was found to slightly decrease anxiety and stress in people with stable angina,[212] and decrease anxiety to a large degree in people undergoing coronary artery bypass surgery.[213] There were also improvements in sleep quality in both of these trials. 
+Due to a scarcity of high-quality randomized controlled trials that have examined the effects of supplementation with lemon balm on stress and anxiety, lemon balm is currently ranked as an unproven option. 
+Chaste tree 
+What makes chaste tree an unproven supplement 
+Vitex agnus castus, otherwise known as chaste tree or chasteberry, has been exclusively studied in women for the purpose of managing symptoms of premenstrual syndrome and menopause, both of which often feature alterations in mood, including anxiety. 
+Although there is some evidence to suggest that supplementation with chaste tree reduces anxiety in these populations,[214][215]it improved a number of other symptoms associated with the conditions as well (e.g., hot flashes/night sweats, abdominal bloating), so it’s unclear whether chaste tree has an independent effect on anxiety or whether the reduction in anxiety is simply a consequence of an improvement in other symptoms. 
+Because chaste tree has only been examined for the purpose of reducing secondary anxiety in a couple of studies in distinct populations — and even in this context, it’s unclear whether it improves anxiety independently of changes in other symptoms — it is currently categorized as an unproven option. 
+34
+Inadvisable Supplements 
+Alcohol 
+What makes alcohol an inadvisable supplement 
+Alcohol is popular worldwide, notably as a means to stave off anxiety. However, similar to nicotine abuse, alcohol abuse results in exacerbated anxiety symptoms. Although reasonable consumption is not unhealthy, relying on alcohol to alleviate anxiety is not recommended because of the health hazards associated with high-dose or high-frequency alcohol intake. 
+Self-medicating with an addictive substance is not a healthy solution to anxiety or other problems, nor is it sustainable. Long-term reliance on alcohol results in acquired tolerance and subsequent withdrawal, which greatly exacerbate anxiety. Moreover, because hangovers worsen anxiety, any attempt at medicating anxiety with alcohol is likely to backfire even in the short term. In brief, alcohol has negative consequences for anxiety in both the short and long terms. 
+The cyclical process of drinking to relieve anxiety 
+
+Nicotine 
+What makes nicotine an inadvisable 
+35
+supplement 
+Nicotine is known to reduce anxiety in new users. However, tolerance builds up with frequent use, leading to a reduction of the antianxiety effect. Tolerance also leads to nicotine withdrawal, which greatly increases anxiety. 
+Nicotine’s addictive properties vary depending on the dose taken and the speed at which it enters the bloodstream. When inhaled, nicotine reaches the blood quickly, which makes this delivery method especially addictive. At the other end of the spectrum, patches are the least addictive delivery method, but they act too slowly to ward off anxiety (unless said anxiety is related to nicotine withdrawal). 
+When it comes to speed of delivery, nicotine gum holds the middle ground. By itself, it would not prevent a panic attack, but it could be chewed during the practice of coping mechanisms (2 mg of nicotine at a time, but no more than 10 mg in one day). Making this a daily habit, however, allows tolerance to develop, and only stopping supplementation entirely (for a couple of weeks) allows sensitivity to return. Increasing the dose instead will, sooner or later, lead to nicotine withdrawal and greatly increased anxiety. Even the minimum dose is potentially addictive, and thus is potentially harmful, especially for people with anxiety. 
+Of course, tobacco is still the most noxious source of nicotine, and not only because it contains some 30 carcinogens. As noted above, when inhaled, nicotine reaches the blood quickly, which makes it especially addictive. In addition, several other compounds in tobacco, such as monoamine oxidase inhibitors (MAOIs), amplify the addictive effects of nicotine. Finally, the acquired need to suck on something contributes to the addictive properties of cigarettes, cigars, and smoking pipes (and thumbs, for little children). 
+Although most antianxiety supplements have a sedative effect, nicotine acts as a stimulant. 
+Yohimbine 
+What makes yohimbine an inadvisable supplement 
+Yohimbine is an alkaloid found in the bark of the African tree yohimbe (Pausinystalia johimbe). It is used to treat erectile dysfunction and to aid in fat loss. 
+Alas, yohimbine is associated with a variety of side effects, one of which is anxiety.[216]In fact, this side effect is so reliable that many studies on anxiety use yohimbine to induce anxiety and panic attacks.[217][218][219] People who are susceptible to panic attacks or have panic disorders are especially susceptible to anxiety caused by yohimbine. One study found a positive effect of yohimbine during exposure therapy, but the implications outside of that specific clinical context are unclear.[220] 
+36
+FAQ 
+Q. What about the supplements not covered in this guide? 
+Our guides are regularly updated, often with new supplements. We prioritize assessing (and reassessing) the most popular of them and those most likely to work. However, should there be a specific supplement you’d like to see covered in a future update, please let us know by filling out this survey. 
+Q. Can I add a supplement not covered in this guide to my combo? 
+Supplement with your current combo for a few weeks before attempting any change. Talk to your physician and research each potential addition. Check for known negative interactions with other supplements and pharmaceuticals in your current combo, but also for synergies. If two supplements are synergistic or additive in their effects, you might want to use lower doses of each. 
+Q. Can I modify the recommended doses? 
+If a supplement has a recommended dose range, stay within that range. If a supplement has a precise recommended dose, stay within 10% of that dose. Taking more than recommended could be counterproductive or even dangerous. Taking less could render the supplement ineffective, yet starting with half the regular dose could be prudent — especially if you know you tend to react strongly to supplements or pharmaceuticals. 
+Q. At what time should I take my supplements? 
+The answer is provided in the “How to take” section of a supplement entry whenever the evidence permits. Too often, however, the evidence is either mixed or absent. Starting with half the regular dose can help minimize the harm a supplement may cause when taken during the day (e.g., fatigue) or in the evening (e.g., insomnia). 
+Q. Should I take my supplements with or without food? 
+The answer is provided in the “How to take” section of a supplement entry whenever the evidence permits. Too often, however, the evidence is either mixed or absent. Besides, a supplement’s digestion, absorption, and metabolism can be affected differently by different foods. Fat-soluble vitamins (A, D, E, K), for instance, are better absorbed with a small meal containing fat than with a large meal containing little to no fat. 
+37
+Q. What are DRI, RDA, AI, and UL? 
+The Dietary Reference Intakes (DRIs) is a system of nutrition recommendations designed by the Institute of Medicine (a US institution now known as the Health and Medicine Division). RDA, AI, and UL are part of this system. 
+Contrary to what the name suggests, a Recommended Dietary Allowance (RDA) doesn’t represent an ideal amount; it represents the minimum you need in order to avoid deficiency-related health issues. More precisely, it represents an amount just large enough to meet the minimum requirements of 97.5% of healthy males and females over all ages — which implies that the RDA is too low for 2.5% of healthy people. 
+The Adequate Intake (AI) is like the RDA, except that the number is more uncertain. 
+The Tolerable Upper Intake Level (UL) is the maximum safe amount. More precisely, it is the maximum daily amount deemed to be safe for 97.5% of healthy males and females over all ages — which implies that the UL is too high for 2.5% of healthy people. 
+As a general rule, a healthy diet should include at least the RDA of each nutrient — but less than this nutrient’s UL. This rule has many exceptions, though. For instance, people who sweat more need more salt (i.e., sodium), whereas people who take metformin (a diabetes medicine) need more vitamin B12. 
+Moreover, the DRIs are based on the median weight of adults and children in the United States. Everything else being equal (notably age, sex, and percentage of body fat), you likely need a lesser amount of nutrients if you weigh less, and vice versa if you weigh more. The numbers, however, are not proportional — if only because the brains of two people of very different weights have very similar needs. So you can’t just double your RDIs for each nutrient if you weigh twice as much as the median adult of your age and sex (even if we overlook that people weighing the same can differ in many respects, notably body fat). 
+Q. What’s the difference between elemental magnesium and other kinds of magnesium? 
+“Elemental” refers to the weight of the mineral by itself, separately from the compound bound to it. For instance, ingesting 500 mg of magnesium gluconate means ingesting 27 mg of elemental magnesium. 
+Product labels display the elemental dosage. On a label, “27 mg of magnesium (as magnesium gluconate)” means 27 mg of elemental magnesium (and 473 mg of gluconic acid). 
+Q. As an athlete with a low dietary intake of magnesium, I supplemented 350 mg and experienced diarrhea. Why is that? 
+If magnesium is indeed the culprit, then your diarrhea was probably caused by too large a dose reaching the colon. Alternatively, it could mean that your body’s levels of magnesium are in fact sufficient, making supplementation unnecessary. 
+38
+In the future, split your daily dose into multiple doses. If the problem persists, reduce your daily dose to 200 mg. If you are using magnesium oxide, switch to a different form of magnesium. 
+Q. Should I stop using stimulants if I have anxiety? 
+Though stimulants do not always cause anxiety, many create a stress response that could worsen existing symptoms. People with anxiety might not need to stop using stimulants entirely, but they may want to avoid frequent use, especially if symptoms worsen. 
+Caffeine is the stimulant least likely to cause anxiety. Ideally, 100–200 mg of caffeine should be paired with an equal dose of theanine, an amino acid that can tame the anxiety caused in some people by caffeine without impairing caffeine’s stimulatory effect. In fact, the improvements in concentration (focus and attention span) induced by caffeine and theanine respectively have been shown to be synergistic. 
+Yohimbine and yohimbine-containing products — as well as supplements that have a similar mechanism, such as rauwolscine — should be avoided. 
+Q. What kinds of coping strategies are effective at alleviating anxiety? 
+Deep breathing, muscle relaxation, and stretching are typical methods to cope with anxiety. The most effective stress-reducing activities, however, are highly dependent on the individual. Some people will soothe their anxiety through quiet rituals (knitting, tea ceremony …), while others will quell it through high intensity exercising (weight lifting, boxing …). 
+Regular contact with nature (gardening, trekking, laying out in the sun …) has shown benefits for most people. 
+Cognitive Behavioural Therapy (CBT) is highly effective in alleviating some forms of anxiety, as a substitute or a complement to supplements or pharmaceuticals. 
+Q. Can yoga alleviate anxiety? 
+The movements and poses in yoga incorporate the basic anti-anxiety coping strategies: deep breathing, muscle relaxation, and stretching. Yoga is also a form of meditation, and meditation has been shown to reduce anxiety. 
+Q. Are there specific species of lavender that have more active constituents? 
+Lavender is a plant from the Lamiaceae family that includes various different species. Most lavender species share similar major chemical constituents, consisting of terpenes, alcohols, ketones, and polyphenols.[221] While constituents and properties are similar among species, lavender essential oil extracts can range from 26–57% linalool and 4–35% linalyl acetate,[222] with linalool considered the primary active 39
+constituent.[223] 
+Q. What other things might lavender be helpful for? 
+Beside inducing relaxation, lavender is traditionally known for treatment of parasitic infections, burns, insect bites, and spasms.[224] Lavender oil might be anti-fungal,[225] reduce headache severity[226] and hair loss,[227] improve wound healing,[228] and alleviate premenstrual symptoms.[229] However, much more research is needed to really tease out an effect. 
+40
+References 
+1. Bandelow B, Michaelis S Epidemiology of anxiety disorders in the 21st century. Dialogues Clin Neurosci. (2015 Sep) 2. Rom O, Reznick AZ The Stress Reaction: A Historical Perspective. Adv Exp Med Biol. (2016) 
+3. SELYE H Stress and the general adaptation syndrome. Br Med J. (1950 Jun 17) 
+4. SELYE H The general adaptation syndrome and the diseases of adaptation. J Clin Endocrinol Metab. (1946 Feb) 5. Selye H A syndrome produced by diverse nocuous agents. 1936. J Neuropsychiatry Clin Neurosci. (1998 Spring) 
+6. Szabo S, Tache Y, Somogyi A The legacy of Hans Selye and the origins of stress research: a retrospective 75 years after his landmark brief "letter" to the editor# of nature. Stress. (2012 Sep) 
+7. Selye H The stress of my life: a scientist's memoirs. 
+8. von Onciul J ABC of work related disorders. Stress at work. BMJ. (1996 Sep 21) 
+9. Burchfield SR The stress response: a new perspective. Psychosom Med. (1979 Dec) 
+10. Epel ES, Crosswell AD, Mayer SE, Prather AA, Slavich GM, Puterman E, Mendes WB More than a feeling: A unified view of stress measurement for population science. Front Neuroendocrinol. (2018 Apr) 
+11. Yerkes RM, Dodson JD The relation of strength of stimulus to rapidity of habit‐formation. The Wistar Institute of Anatomy and Biology. (1908 NOV) 
+12. Dodson JD The relation of strength of stimulus to rapidity of habit-formation in the kitten. Anim. Behav.. (1915) 13. Cole LW The relation of strength of stimulus to rate of learning in the chick. Anim. Behav.. (1911) 
+14. BROADHURST PL Emotionality and the Yerkes-Dodson law. J Exp Psychol. (1957 Nov) 
+15. EYSENCK HJ A dynamic theory of anxiety and hysteria. J Ment Sci. (1955 Jan) 
+16. Muse LA, Harris SG, Feild HS Has the Inverted-U Theory of Stress and Job Performance Had a Fair Test?. 2003. (Hum. Perform.) 
+17. Jamal, M Job stress and job performance controversy revisited: An empirical examination in two countries. Int. J. Stress Manag.. (2007) 
+18. Edwards JA, Guppy A, Cockerton T A longitudinal study exploring the relationships between occupational stressors, non-work stressors, and work performance. Work Stress. (2007) 
+19. Turner AI, Smyth N, Hall SJ, Torres SJ, Hussein M, Jayasinghe SU, Ball K, Clow AJ Psychological stress reactivity and future health and disease outcomes: A systematic review of prospective evidence. Psychoneuroendocrinology. (2020 Apr) 
+20. Diagnostic And Statistical Manual Of Mental Disorders, Fifth Edition. The American Psychiatric Publishing. 21. Stein DJ, Hollander E, Rothbaum BO Textbook of anxiety disorders (2nd ed.). The American Psychiatric Publishing. (2010) 22. https://dsm.psychiatryonline.org/doi/pdf/10.1176/appi.books.9780890420249.dsm-iv-tr. 
+23. Regier DA, Kuhl EA, Kupfer DJ The DSM-5: Classification and criteria changes. World Psychiatry. (2013 Jun) 
+24. Bandelow B, Reitt M, Röver C, Michaelis S, Görlich Y, Wedekind D Efficacy of treatments for anxiety disorders: a meta-analysis. Int Clin Psychopharmacol. (2015 Jul) 
+25. Slee A, Nazareth I, Bondaronek P, Liu Y, Cheng Z, Freemantle N Pharmacological treatments for generalised anxiety disorder: a systematic review and network meta-analysis. Lancet. (2019 Feb 23) 
+26. Bighelli I, Castellazzi M, Cipriani A, Girlanda F, Guaiana G, Koesters M, Turrini G, Furukawa TA, Barbui C Antidepressants versus placebo for panic disorder in adults. Cochrane Database Syst Rev. (2018 Apr 5) 
+27. Chand SP, Kuckel DP, Huecker MR Cognitive Behavior Therapy (CBT). 
+28. Carpenter JK, Andrews LA, Witcraft SM, Powers MB, Smits JAJ, Hofmann SG Cognitive behavioral therapy for anxiety and related disorders: A meta-analysis of randomized placebo-controlled trials. Depress Anxiety. (2018 Jun) 
+29. Montero-Marin J, Garcia-Campayo J, López-Montoyo A, Zabaleta-Del-Olmo E, Cuijpers P Is cognitive-behavioural therapy more effective than relaxation therapy in the treatment of anxiety disorders? A meta-analysis. Psychol Med. (2018 Jul) 
+30. Andersson G, Carlbring P, Titov N, Lindefors N Internet Interventions for Adults with Anxiety and Mood Disorders: A Narrative Umbrella Review of Recent Meta-Analyses. Can J Psychiatry. (2019 Jul) 
+31. Andrews G, Basu A, Cuijpers P, Craske MG, McEvoy P, English CL, Newby JM Computer therapy for the anxiety and depression disorders is effective, acceptable and practical health care: An updated meta-analysis. J Anxiety Disord. (2018 Apr) 
+32. Haug T, Nordgreen T, Öst LG, Havik OE Self-help treatment of anxiety disorders: a meta-analysis and meta-regression of effects and potential moderators. Clin Psychol Rev. (2012 Jul) 
+33. Van Dam NT, van Vugt MK, Vago DR, Schmalzl L, Saron CD, Olendzki A, Meissner T, Lazar SW, Kerr CE, Gorchov J, Fox KCR, Field BA, Britton WB, Brefczynski-Lewis JA, Meyer DE Mind the Hype: A Critical Evaluation and Prescriptive Agenda for Research on Mindfulness and Meditation. Perspect Psychol Sci. (2018 Jan) 
+41
+34. Farias M, Wikholm C Has the science of mindfulness lost its mind?. BJPsych Bull. (2016 Dec) 
+35. Davidson RJ, Kaszniak AW Conceptual and methodological issues in research on mindfulness and meditation. Am Psychol. (2015 Oct) 
+36. Blanck P, Perleth S, Heidenreich T, Kröger P, Ditzen B, Bents H, Mander J Effects of mindfulness exercises as stand-alone intervention on symptoms of anxiety and depression: Systematic review and meta-analysis. Behav Res Ther. (2018 Mar) 
+37. Chen KW, Berger CC, Manheimer E, Forde D, Magidson J, Dachman L, Lejuez CW Meditative therapies for reducing anxiety: a systematic review and meta-analysis of randomized controlled trials. Depress Anxiety. (2012 Jul) 
+38. Pascoe MC, Thompson DR, Jenkins ZM, Ski CF Mindfulness mediates the physiological markers of stress: Systematic review and meta-analysis. J Psychiatr Res. (2017 Dec) 
+39. Khoury B, Sharma M, Rush SE, Fournier C Mindfulness-based stress reduction for healthy individuals: A meta-analysis. J Psychosom Res. (2015 Jun) 
+40. Aylett E, Small N, Bower P Exercise in the treatment of clinical anxiety in general practice - a systematic review and meta analysis. BMC Health Serv Res. (2018 Jul 16) 
+41. LeBouthillier DM, Asmundson GJG The efficacy of aerobic exercise and resistance training as transdiagnostic interventions for anxiety-related disorders and constructs: A randomized controlled trial. J Anxiety Disord. (2017 Dec) 
+42. Ten Hoor GA, Kok G, Peters GY, Frissen T, Schols AMWJ, Plasqui G The Psychological Effects of Strength Exercises in People who are Overweight or Obese: A Systematic Review. Sports Med. (2017 Oct) 
+43. Lopresti AL, Drummond PD Saffron (Crocus sativus) for depression: a systematic review of clinical studies and examination of underlying antidepressant mechanisms of action.. Hum Psychopharmacol. (2014-Nov) 
+44. Ross BM Omega-3 polyunsaturated fatty acids and anxiety disorders. Prostaglandins Leukot Essent Fatty Acids. (2009 Nov Dec) 
+45. Wolfgang Marx, Melissa Lane, Tetyana Rocks, Anu Ruusunen, Amy Loughman, Adrian Lopresti, Skye Marshall, Michael Berk, Felice Jacka, Olivia M Dean Effect of saffron supplementation on symptoms of depression and anxiety: a systematic review and meta-analysis. Nutr Rev. (2019 May 28) 
+46. Effect of Saffron (Crocus sativus L.) as an Add-On Therapy to Sertraline in Mild to Moderate Generalized Anxiety Disorder: A Double Blind Randomized Controlled Trial}authors=Jafarnia et al. Arch Neurosci. (09-2017) 
+47. Talaei A, Hassanpour Moghadam M, Sajadi Tabassi SA, Mohajeri SA Crocin, the main active saffron constituent, as an adjunctive treatment in major depressive disorder: a randomized, double-blind, placebo-controlled, pilot clinical trial.. J Affect Disord. (2015-Mar-15) 
+48. Barbara Tóth, Péter Hegyi, Tamás Lantos, Zsolt Szakács, Beáta Kerémi, Gábor Varga, Judit Tenk, Erika Pétervári, Márta Balaskó, Zoltán Rumbus, Zoltán Rakonczay, Emese Réka Bálint, Tivadar Kiss, Dezső Csupor The Efficacy of Saffron in the Treatment of Mild to Moderate Depression: A Meta-analysis. Planta Med. (2019 Jan) 
+49. Jamal Rahmani, Nicla Manzari, Jacqueline Thompson, Cain C T Clark, Gemma Villanueva, Hamed Kord Varkaneh, Parvin Mirmiran The effect of saffron on weight and lipid profile: A systematic review, meta-analysis, and dose-response of randomized clinical trials. Phytother Res. (2019 Sep) 
+50. Melnyk J, Wang S, Marcone M Chemical and biological properties of the world's most expensive spice: Saffron. Food Res Int. (2010 Oct) 
+51. Safarinejad MR, Shafiei N, Safarinejad S A prospective double-blind randomized placebo-controlled study of the effect of saffron (Crocus sativus Linn.) on semen parameters and seminal plasma antioxidant capacity in infertile men with idiopathic oligoasthenoteratozoospermia. Phytother Res. (2011 Apr) 
+52. G Dovrtělová, K Nosková, J Juřica, M Turjap, O Zendulka Can bioactive compounds of Crocus sativus L. influence the metabolic activity of selected CYP enzymes in the rat?. Physiol Res. (2015) 
+53. Sani A, Tajik A, Seiiedi SS, Khadem R, Tootooni H, Taherynejad M, Sabet Eqlidi N, Alavi Dana SMM, Deravi N A review of the anti-diabetic potential of saffron.. Nutr Metab Insights. (2022) 
+54. Leila Setayesh, Damoon Ashtary-Larky, Cain C T Clark, Mahnaz Rezaei Kelishadi, Pardis Khalili, Reza Bagheri, Omid Asbaghi, Katsuhiko Suzuki The Effect of Saffron Supplementation on Blood Pressure in Adults: A Systematic Review and Dose-Response Meta-Analysis of Randomized Controlled Trials. Nutrients. (2021 Aug 9) 
+55. Hooshmand-Moghadam B, Eskandari M, Shabkhiz F, Mojtahedi S, Mahmoudi N Saffron (Crocus sativus L.) in combination with resistance training reduced blood pressure in the elderly hypertensive men: A randomized controlled trial.. Br J Clin Pharmacol. (2021-Aug) 
+56. Schmidt M, Betti G, Hensel A Saffron in phytotherapy: pharmacology and clinical uses.. Wien Med Wochenschr. (2007) 
+57. Donelli D, Antonelli M, Bellinazzi C, Gensini GF, Firenzuoli F Effects of lavender on anxiety: A systematic review and meta analysis. Phytomedicine. (2019 Dec) 
+58. Schuwald AM, Nöldner M, Wilmes T, Klugbauer N, Leuner K, Müller WE Lavender oil-potent anxiolytic properties via modulating voltage dependent calcium channels.. PLoS One. (2013) 
+59. Müller WE, Sillani G, Schuwald A, Friedland K Pharmacological basis of the anxiolytic and antidepressant properties of Silexan®, an essential oil from the flowers of lavender.. Neurochem Int. (2021-Feb) 
+60. Chioca LR, Ferro MM, Baretta IP, Oliveira SM, Silva CR, Ferreira J, Losso EM, Andreatini R Anxiolytic-like effect of lavender 42
+essential oil inhalation in mice: participation of serotonergic but not GABAA/benzodiazepine neurotransmission.. J Ethnopharmacol. (2013-May-20) 
+61. Dold M, Bartova L, Volz HP, Seifritz E, Möller HJ, Schläfke S, Kasper S Efficacy of Silexan in patients with anxiety disorders: a meta-analysis of randomized, placebo-controlled trials.. Eur Arch Psychiatry Clin Neurosci. (2023-Jan-30) 
+62. Yap WS, Dolzhenko AV, Jalal Z, Hadi MA, Khan TM Efficacy and safety of lavender essential oil (Silexan) capsules among patients suffering from anxiety disorders: A network meta-analysis. Sci Rep. (2019 Dec 2) 
+63. Tina Ghavami, Mohsen Kazeminia, Fatemeh Rajati The effect of lavender on stress in individuals: A systematic review and meta-analysis. Complement Ther Med. (2022 Apr 13) 
+64. Diaz A, Luque L, Badar Z, Kornic S, Danon M Prepubertal gynecomastia and chronic lavender exposure: report of three cases. J Pediatr Endocrinol Metab. (2016 Jan) 
+65. Henley DV, Lipson N, Korach KS, Bloch CA Prepubertal gynecomastia linked to lavender and tea tree oils. N Engl J Med. (2007 Feb 1) 
+66. Ramsey JT, Li Y, Arao Y, Naidu A, Coons LA, Diaz A, Korach KS Lavender Products Associated With Premature Thelarche and Prepubertal Gynecomastia: Case Reports and Endocrine-Disrupting Chemical Activities. J Clin Endocrinol Metab. (2019 Nov 1) 
+67. Kasper S, Möller HJ, Volz HP, Schläfke S, Dienel A Silexan in generalized anxiety disorder: investigation of the therapeutic dosage range in a pooled data set.. Int Clin Psychopharmacol. (2017-Jul) 
+68. Sayed AM, Morsy S, Tawfik GM, Naveed S, Minh-Duc NT, Hieu TH, Ali ZA, Shinkar A, Doheim MF, Hashan MR, Huy NT The best route of administration of lavender for anxiety: a systematic review and network meta-analysis.. Gen Hosp Psychiatry. (2020) 
+69. Al-kuraishy et al Beneficial Neuro-Pharmacological Effect of Passionflower (Passiflora Incarnate L). Online Journal of Neurology and Brain Disorders. (01-2020) 
+70. Janda K, Wojtkowska K, Jakubczyk K, Antoniewicz J, Skonieczna-Żydecka K in Neuropsychiatric Disorders-A Systematic Review.. Nutrients. (2020-Dec-19) 
+71. Savage K, Firth J, Stough C, Sarris J GABA-modulating phytomedicines for anxiety: A systematic review of preclinical and clinical evidence.. Phytother Res. (2018-Jan) 
+72. Akhondzadeh S, Naghavi HR, Vazirian M, Shayeganpour A, Rashidi H, Khani M Passionflower in the treatment of generalized anxiety: a pilot double-blind randomized controlled trial with oxazepam.. J Clin Pharm Ther. (2001-Oct) 
+73. Nojoumi M, Ghaeli P, Salimi S, Sharifi A, Raisi F Effects of Passion Flower Extract, as an Add-On Treatment to Sertraline, on Reaction Time in Patients with Generalized Anxiety Disorder: A Double-Blind Placebo-Controlled Study.. Iran J Psychiatry. (2016-Jul) 
+74. Movafegh A, Alizadeh R, Hajimohamadi F, Esfehani F, Nejatfar M Preoperative oral Passiflora incarnata reduces anxiety in ambulatory surgery patients: a double-blind, placebo-controlled study.. Anesth Analg. (2008-Jun) 
+75. Aslanargun P, Cuvas O, Dikmen B, Aslan E, Yuksel MU Passiflora incarnata Linneaus as an anxiolytic before spinal anesthesia.. J Anesth. (2012-Feb) 
+76. Kaviani N, Tavakoli M, Tabanmehr M, Havaei R The efficacy of passiflora incarnata linnaeus in reducing dental anxiety in patients undergoing periodontal treatment.. J Dent (Shiraz). (2013-Jun) 
+77. Azimaraghi et al BOTH ORAL PASSIFLORA INCARNATA AND OXAZEPAM CAN REDUCE PRE-OPERATIVE ANXIETY IN AMBULATORY SURGERY PATIENTS: A DOUBLE-BLIND, PLACEBO-CONTROLLED STUDY. Asian Journal of Pharmaceutical and Clinical Research. (08-2017) 
+78. da Cunha RS, Amorim KS, Gercina AC, de Oliveira ACA, Dos Santos Menezes L, Groppo FC, Souza LMA Herbal medicines as anxiolytics prior to third molar surgical extraction. A randomized controlled clinical trial.. Clin Oral Investig. (2021-Mar) 
+79. Dantas LP, de Oliveira-Ribeiro A, de Almeida-Souza LM, Groppo FC Effects of passiflora incarnata and midazolam for control of anxiety in patients undergoing dental extraction.. Med Oral Patol Oral Cir Bucal. (2017-Jan-01) 
+80. Christoffoli MT, Bachesk AB, Farah GJ, Ferreira GZ Assessment of Passiflora incarnata L for conscious sedation of patients during the extraction of mandibular third molars: a randomized, split-mouth, double-blind, crossover study.. Quintessence Int. (2021-Oct-19) 
+81. Fisher AA, Purcell P, Le Couteur DG Toxicity of Passiflora incarnata L.. J Toxicol Clin Toxicol. (2000) 
+82. Miroddi M, Calapai G, Navarra M, Minciullo PL, Gangemi S Passiflora incarnata L.: ethnopharmacology, clinical application, safety and evaluation of clinical trials.. J Ethnopharmacol. (2013-Dec-12) 
+83. Smith GW, Chalmers TM, Nuki G Vasculitis associated with herbal preparation containing Passiflora extract.. Br J Rheumatol. (1993-Jan) 
+84. Fisher AA, et al. Toxicity of Passiflora incarnata L. J. Toxicol. Clin. Toxicol.. (23 Feb 2000) 
+85. Patel S, et al Passiflora incarnata linn: a phytopharmacological review. 
+86. Sarris J Herbal medicines in the treatment of psychiatric disorders: 10-year updated review.. Phytother Res. (2018-Jul) 
+87. Comittee on Herbal Medicinal Products Public statement on contamination of herbal medicinal products/traditional herbal medicinal products with pyrrolizidine alkaloids. 
+88. Lopresti AL Potential Role of Curcumin for the Treatment of Major Depressive Disorder.. CNS Drugs. (2022-Feb) 43
+89. Panahi Y, Badeli R, Karami GR, Sahebkar A Investigation of the efficacy of adjunctive therapy with bioavailability-boosted curcuminoids in major depressive disorder. Phytother Res. (2015 Jan) 
+90. Lopresti AL, Drummond PD Efficacy of curcumin, and a saffron/curcumin combination for the treatment of major depression: A randomised, double-blind, placebo-controlled study. J Affect Disord. (2017 Jan 1) 
+91. Kanchanatawan B, Tangwongchai S, Sughondhabhirom A, Suppapitiporn S, Hemrunrojn S, Carvalho AF, Maes M Add-on Treatment with Curcumin Has Antidepressive Effects in Thai Patients with Major Depression: Results of a Randomized Double Blind Placebo-Controlled Study. Neurotox Res. (2018 Apr) 
+92. Lopresti AL, Maes M, Maker GL, Hood SD, Drummond PD Curcumin for the treatment of major depression: a randomised, double-blind, placebo controlled study. J Affect Disord. (2014) 
+93. Sara Asadi, Mohammad Saeed Gholami, Fereydoun Siassi, Mostafa Qorbani, Gity Sotoudeh Beneficial Effects of Nano Curcumin Supplement on Depression and Anxiety in Diabetic Patients With Peripheral Neuropathy: A Randomized, Double Blind, Placebo-Controlled Clinical Trial. Phytother Res. (2020 Apr) 
+94. Esmaily H, Sahebkar A, Iranshahi M, Ganjali S, Mohammadi A, Ferns G, Ghayour-Mobarhan M An investigation of the effects of curcumin on anxiety and depression in obese individuals: A randomized controlled trial. Chin J Integr Med. (2015 May) 
+95. Saberi-Karimian et al Evaluation of the effects of curcumin in patients with metabolic syndrome. Comparative Clinical Pathology. (01-2018) 
+96. Cox KH, Pipingas A, Scholey AB Investigation of the effects of solid lipid curcumin on cognition and mood in a healthy older population.. J Psychopharmacol. (2015-May) 
+97. Kawasaki K, Muroyama K, Murosaki S Effect of a water extract of on emotional states in healthy participants.. Biosci Microbiota Food Health. (2018) 
+98. Uchio R, Kawasaki K, Okuda-Hanafusa C, Saji R, Muroyama K, Murosaki S, Yamamoto Y, Hirose Y Curcuma longa extract improves serum inflammatory markers and mental health in healthy participants who are overweight: a randomized, double blind, placebo-controlled trial.. Nutr J. (2021-Nov-13) 
+99. Katherine H M Cox, David J White, Andrew Pipingas, Kaylass Poorun, Andrew Scholey Further Evidence of Benefits to Mood and Working Memory from Lipidated Curcumin in Healthy Older People: A 12-Week, Double-Blind, Placebo-Controlled, Partial Replication Study. Nutrients. (2020 Jun 4) 
+100. Fusar-Poli L, Vozza L, Gabbiadini A, Vanella A, Concas I, Tinacci S, Petralia A, Signorelli MS, Aguglia E Curcumin for depression: a meta-analysis. Crit Rev Food Sci Nutr. (2019 Aug 19) 
+101. Vollono L, Falconi M, Gaziano R, Iacovelli F, Dika E, Terracciano C, Bianchi L, Campione E Potential of Curcumin in Skin Disorders.. Nutrients. (2019-Sep-10) 
+102. Kuptniratsaikul V, Dajpratham P, Taechaarpornkul W, Buntragulpoontawee M, Lukkanapichonchut P, Chootip C, Saengsuwan J, Tantayakom K, Laongpech S Efficacy and safety of Curcuma domestica extracts compared with ibuprofen in patients with knee osteoarthritis: a multicenter study. Clin Interv Aging. (2014 Mar 20) 
+103. Luber RP, Rentsch C, Lontos S, Pope JD, Aung AK, Schneider HG, Kemp W, Roberts SK, Majeed A Turmeric Induced Liver Injury: A Report of Two Cases.. Case Reports Hepatol. (2019) 
+104. Lukefahr AL, McEvoy S, Alfafara C, Funk JL Drug-induced autoimmune hepatitis associated with turmeric dietary supplement use.. BMJ Case Rep. (2018-Sep-10) 
+105. Shamsi S, Tran H, Tan RS, Tan ZJ, Lim LY Curcumin, Piperine, and Capsaicin: A Comparative Study of Spice-Mediated Inhibition of Human Cytochrome P450 Isozyme Activities.. Drug Metab Dispos. (2017-Jan) 
+106. Bhardwaj RK, Glaeser H, Becquemont L, Klotz U, Gupta SK, Fromm MF Piperine, a major constituent of black pepper, inhibits human P-glycoprotein and CYP3A4.. J Pharmacol Exp Ther. (2002-Aug) 
+107. Aref Zayed, Wahby M Babaresh, Ruba S Darweesh, Tamam El-Elimat, Sahar S Hawamdeh Piperine Alters the Pharmacokinetics and Anticoagulation of Warfarin in Rats. J Exp Pharmacol. (2020 Jun 19) 
+108. Rodríguez Castaño P, Parween S, Pandey AV Bioactivity of Curcumin on the Cytochrome P450 Enzymes of the Steroidogenic Pathway.. Int J Mol Sci. (2019-Sep-17) 
+109. Daveluy A, Géniaux H, Thibaud L, Mallaret M, Miremont-Salamé G, Haramburu F Probable interaction between an oral vitamin K antagonist and turmeric (Curcuma longa).. Therapie. (2014) 
+110. Srivastava KC, Bordia A, Verma SK Curcumin, a major component of food spice turmeric (Curcuma longa) inhibits aggregation and alters eicosanoid metabolism in human blood platelets.. Prostaglandins Leukot Essent Fatty Acids. (1995-Apr) 
+111. Neerati P, Devde R, Gangi AK Evaluation of the effect of curcumin capsules on glyburide therapy in patients with type-2 diabetes mellitus.. Phytother Res. (2014-Dec) 
+112. T Terashima, J Takido, H Yokogoshi Time-dependent changes of amino acids in the serum, liver, brain and urine of rats administered with theanine. Biosci Biotechnol Biochem. (1999 Apr) 
+113. Lardner AL Neurobiological effects of the green tea constituent theanine and its potential role in the treatment of psychiatric and neurodegenerative disorders.. Nutr Neurosci. (2014-Jul) 
+114. Lopes Sakamoto F, Metzker Pereira Ribeiro R, Amador Bueno A, Oliveira Santos H Psychotropic effects of -theanine and its clinical properties: From the management of anxiety and stress to a potential use in schizophrenia.. Pharmacol Res. (2019-Sep) 
+115. Evans M, McDonald AC, Xiong L, Crowley DC, Guthrie N A Randomized, Triple-Blind, Placebo-Controlled, Crossover Study to 44
+Investigate the Efficacy of a Single Dose of AlphaWave L-Theanine on Stress in a Healthy Adult Population.. Neurol Ther. (2021- Dec) 
+116. Sarris J, Byrne GJ, Cribb L, Oliver G, Murphy J, Macdonald P, Nazareth S, Karamacoska D, Galea S, Short A, Ee C, Birling Y, Menon R, Ng CH L-theanine in the adjunctive treatment of generalized anxiety disorder: A double-blind, randomised, placebo controlled trial. J Psychiatr Res. (2019 Mar) 
+117. Ritsner MS, Miodownik C, Ratner Y, Shleifer T, Mar M, Pintov L, Lerner V L-theanine relieves positive, activation, and anxiety symptoms in patients with schizophrenia and schizoaffective disorder: an 8-week, randomized, double-blind, placebo controlled, 2-center study. J Clin Psychiatry. (2011 Jan) 
+118. Shinsuke Hidese, Shintaro Ogawa, Miho Ota, Ikki Ishida, Zenta Yasukawa, Makoto Ozeki, Hiroshi Kunugi Effects of L-Theanine Administration on Stress-Related Symptoms and Cognitive Functions in Healthy Adults: A Randomized Controlled Trial. Nutrients. (2019 Oct 3) 
+119. Keiko Unno, Naoki Tanida, Naoto Ishii, Hiroyuki Yamamoto, Kazuaki Iguchi, Minoru Hoshino, Atsushi Takeda, Hayato Ozawa, Tsutomu Ohkubo, Lekh Raj Juneja, Hiroshi Yamada Anti-stress effect of theanine on students during pharmacy practice: positive correlation among salivary α-amylase activity, trait anxiety and subjective stress. Pharmacol Biochem Behav. (2013 Oct) 
+120. Ai Yoto, Mao Motoki, Sato Murao, Hidehiko Yokogoshi Effects of L-theanine or caffeine intake on changes in blood pressure under physical and psychological stresses. J Physiol Anthropol. (2012 Oct 29) 
+121. Kimura K, Ozeki M, Juneja LR, Ohira H L-Theanine reduces psychological and physiological stress responses. Biol Psychol. (2007 Jan) 
+122. Shinsuke Hidese, Miho Ota, Chisato Wakabayashi, Takamasa Noda, Hayato Ozawa, Tsutomu Okubo, Hiroshi Kunugi Effects of chronic l-theanine administration in patients with major depressive disorder: an open-label study. Acta Neuropsychiatr. (2017 Apr) 
+123. Gail N Owen, Holly Parnell, Eveline A De Bruin, Jane A Rycroft The combined effects of L-theanine and caffeine on cognitive performance and mood. Nutr Neurosci. (2008 Aug) 
+124. Crystal F Haskell, David O Kennedy, Anthea L Milne, Keith A Wesnes, Andrew B Scholey The effects of L-theanine, caffeine and their combination on cognition and mood. Biol Psychol. (2008 Feb) 
+125. Lyon MR, Kapoor MP, Juneja LR The effects of L-theanine (Suntheanine®) on objective sleep quality in boys with attention deficit hyperactivity disorder (ADHD): a randomized, double-blind, placebo-controlled clinical trial. Altern Med Rev. (2011 Dec) 
+126. Yokogoshi H, Kobayashi M Hypotensive effect of gamma-glutamylmethylamide in spontaneously hypertensive rats.. Life Sci. (1998) 
+127. Chen Z, Wang Z, Yuan H, He N From Tea Leaves to Factories: A Review of Research Progress in l-Theanine Biosynthesis and Production.. J Agric Food Chem. (2021-Feb-03) 
+128. Johnston and Rogers Hawaiian ‘Awa: Views of an ethnobotanical treasure. Association for Hawaiian ‘Awa. (2006) 
+129. Sarris J, LaPorte E, Schweitzer I Kava: a comprehensive review of efficacy, safety, and psychopharmacology.. Aust N Z J Psychiatry. (2011-Jan) 
+130. Pittler MH, Ernst E Kava extract for treating anxiety. Cochrane Database Syst Rev. (2003) 
+131. Smith K, Leiras C The effectiveness and safety of Kava Kava for treating anxiety symptoms: A systematic review and analysis of randomized clinical trials.. Complement Ther Clin Pract. (2018-Nov) 
+132. Ooi SL, Henderson P, Pak SC Kava for Generalized Anxiety Disorder: A Review of Current Evidence.. J Altern Complement Med. (2018-Aug) 
+133. Sarris J, Byrne GJ, Bousman CA, Cribb L, Savage KM, Holmes O, Murphy J, Macdonald P, Short A, Nazareth S, Jennings E, Thomas SR, Ogden E, Chamoli S, Scholey A, Stough C Kava for generalised anxiety disorder: A 16-week double-blind, randomised, placebo-controlled study. Aust N Z J Psychiatry. (2019 Dec 8) 
+134. R J Boerner, H Sommer, W Berger, U Kuhn, U Schmidt, M Mannel Kava-Kava extract LI 150 is as effective as Opipramol and Buspirone in Generalised Anxiety Disorder--an 8-week randomized, double-blind multi-centre clinical trial in 129 out-patients. Phytomedicine. (2003) 
+135. Coulter et al Assessment of the risk of hepatotoxicity with kava products. World Health Organization. (2007) 
+136. Volz HP, Kieser M Kava-kava extract WS 1490 versus placebo in anxiety disorders--a randomized placebo-controlled 25- week outpatient trial. Pharmacopsychiatry. (1997 Jan) 
+137. Rita B Soares, Ricardo Jorge Dinis-Oliveira, Nuno G Oliveira An Updated Review on the Psychoactive, Toxic and Anticancer Properties of Kava. J Clin Med. (2022 Jul 12) 
+138. Elena Meseguer, Rocio Taboada, Vicenta Sánchez, María Angeles Mena, Victor Campos, Justo García De Yébenes Life threatening parkinsonism induced by kava-kava. Mov Disord. (2002 Jan) 
+139. Guro-Razuman S, Anand P, Hu Q, Mir R Dermatomyositis-like illness following kava-kava ingestion.. J Clin Rheumatol. (1999- Dec) 
+140. Vignier N, Lert F, Salomon C, Hamelin C Kava drinking associated with suicidal behaviour among young Kanaks using kava in New Caledonia.. Aust N Z J Public Health. (2011-Oct) 
+141. Berry J, Gilbert A, Grodnitzky J Cases of Kava Impairment in Iowa Drivers.. J Forensic Sci. (2019-Nov) 45
+142. Bian T, Corral P, Wang Y, Botello J, Kingston R, Daniels T, Salloum RG, Johnston E, Huo Z, Lu J, Liu AC, Xing C Kava as a Clinical Nutrient: Promises and Challenges.. Nutrients. (2020-Oct-05) 
+143. Teschke R, Lebot V Proposal for a kava quality standardization code.. Food Chem Toxicol. (2011-Oct) 
+144. Mukherjee PK, Banerjee S, Biswas S, Das B, Kar A, Katiyar CK Withania somnifera (L.) Dunal - Modern perspectives of an ancient Rasayana from Ayurveda.. J Ethnopharmacol. (2021-Jan-10) 
+145. Tetali SD, Acharya S, Ankari AB, Nanakram V, Raghavendra AS Metabolomics of Withania somnifera (L.) Dunal: Advances and applications.. J Ethnopharmacol. (2021-Mar-01) 
+146. Speers AB, Cabey KA, Soumyanath A, Wright KM Effects of (Ashwagandha) on Stress and the Stress- Related Neuropsychiatric Disorders Anxiety, Depression, and Insomnia.. Curr Neuropharmacol. (2021) 
+147. Andrade C, Aswath A, Chaturvedi SK, Srinivasa M, Raguram R A double-blind, placebo-controlled evaluation of the anxiolytic efficacy ff an ethanolic extract of withania somnifera. Indian J Psychiatry. (2000 Jul) 
+148. Sara Fuladi, Seyed Ahmad Emami, Amir Hooshang Mohammadpour, Asieh Karimani, Ali Akhondpour Manteghi, Amirhossein Sahebkar Assessment of Withania Somnifera Root Extract Efficacy in Patients With Generalized Anxiety Disorder: A Randomized Double-Blind Placebo-Controlled Trial. Curr Clin Pharmacol. (2020 Apr 13) 
+149. Lopresti AL, Smith SJ, Malvi H, Kodgule R An investigation into the stress-relieving and pharmacological actions of an ashwagandha (Withania somnifera) extract: A randomized, double-blind, placebo-controlled study. Medicine (Baltimore). (2019 Sep) 
+150. Hosseini et al Evaluation of the Effectiveness of Withania Somnifera Root Extract on the Anxiety Symptoms among children with ADHD in Mashhad. Pakistan Journal of Medical and Health Sciences. (2019-01) 
+151. K Chandrasekhar, Jyoti Kapoor, Sridhar Anishetty A prospective, randomized double-blind, placebo-controlled study of safety and efficacy of a high-concentration full-spectrum extract of ashwagandha root in reducing stress and anxiety in adults. Indian J Psychol Med. (2012 Jul) 
+152. Choudhary D, Bhattacharyya S, Joshi K Body Weight Management in Adults Under Chronic Stress Through Treatment With Ashwagandha Root Extract: A Double-Blind, Randomized, Placebo-Controlled Trial. J Evid Based Complementary Altern Med. (2017 Jan) 
+153. Salve J, Pate S, Debnath K, Langade D Adaptogenic and Anxiolytic Effects of Ashwagandha Root Extract in Healthy Adults: A Double-blind, Randomized, Placebo-controlled Clinical Study. Cureus. (2019 Dec 25) 
+154. Kumarpillai Gopukumar, Shefali Thanawala, Venkateswarlu Somepalli, T S Sathyanaryana Rao, Vijaya Bhaskar Thamatam, Sanjaya Chauhan Efficacy and Safety of Ashwagandha Root Extract on Cognitive Functions in Healthy, Stressed Adults: A Randomized, Double-Blind, Placebo-Controlled Study. Evid Based Complement Alternat Med. (2021 Nov 30) 
+155. Chengappa KNR, Brar JS, Gannon JM, Schlicht PJ Adjunctive Use of a Standardized Extract of Withania somnifera (Ashwagandha) to Treat Symptom Exacerbation in Schizophrenia: A Randomized, Double-Blind, Placebo-Controlled Study. J Clin Psychiatry. (2018 Jul 10) 
+156. Tandon N, Yadav SS Safety and clinical effectiveness of Withania Somnifera (Linn.) Dunal root in human ailments.. J Ethnopharmacol. (2020-Jun-12) 
+157. Adrian L Lopresti, Peter D Drummond, Stephen J Smith A Randomized, Double-Blind, Placebo-Controlled, Crossover Study Examining the Hormonal and Vitality Effects of Ashwagandha ( Withania somnifera) in Aging, Overweight Males. Am J Mens Health. (Mar-Apr 2019) 
+158. Brambilla DJ, Matsumoto AM, Araujo AB, McKinlay JB The effect of diurnal variation on clinical measurement of serum testosterone and other sex hormone levels in men.. J Clin Endocrinol Metab. (2009-Mar) 
+159. Dutta R, Khalil R, Green R, Mohapatra SS, Mohapatra S (Ashwagandha) and Withaferin A: Potential in Integrative Oncology.. Int J Mol Sci. (2019-Oct-25) 
+160. Gardner Z, McGuffin M, Upton R, et al. American Herbal Products Association's Botanical Safety Handbook, 2nd Edition. 
+161. Björnsson HK, Björnsson ES, Avula B, Khan IA, Jonasson JG, Ghabril M, Hayashi PH, Navarro V Ashwagandha-induced liver injury: A case series from Iceland and the US Drug-Induced Liver Injury Network.. Liver Int. (2020-Apr) 
+162. Pnina Green, Haggai Hermesh, Assaf Monselise, Sofi Marom, Gadi Presburger, Abraham Weizman Red cell membrane omega-3 fatty acids are decreased in nondepressed patients with social anxiety disorder. Eur Neuropsychopharmacol. (2006 Feb) 
+163. Liu JJ, Galfalvy HC, Cooper TB, Oquendo MA, Grunebaum MF, Mann JJ, Sublette ME Omega-3 polyunsaturated fatty acid (PUFA) status in major depressive disorder with comorbid anxiety disorders. J Clin Psychiatry. (2013 Jul) 
+164. Custers , Emma EM, Kiliaan , Amanda J Dietary lipids from body to brain.. Prog Lipid Res. (2022-Jan) 
+165. Mallick R, Basak S, Duttaroy AK Fatty acids and evolving roles of their proteins in neurological, cardiovascular disorders and cancers.. Prog Lipid Res. (2021-Jul) 
+166. Su KP, Tseng PT, Lin PY, Okubo R, Chen TY, Chen YW, Matsuoka YJ Association of Use of Omega-3 Polyunsaturated Fatty Acids With Changes in Severity of Anxiety Symptoms: A Systematic Review and Meta-analysis.. JAMA Netw Open. (2018-Sep 07) 
+167. Stephen J Nicholls, A Michael Lincoff, Michelle Garcia, Dianna Bash, Christie M Ballantyne, Philip J Barter, Michael H Davidson, John J P Kastelein, Wolfgang Koenig, Darren K McGuire, Dariush Mozaffarian, Paul M Ridker, Kausik K Ray, Brian G Katona, Anders Himmelmann, Larrye E Loss, Martin Rensfeldt, Torbjörn Lundström, Rahul Agrawal, Venu Menon, Kathy Wolski, Steven E 
+46
+Nissen Effect of High-Dose Omega-3 Fatty Acids vs Corn Oil on Major Adverse Cardiovascular Events in Patients at High Cardiovascular Risk: The STRENGTH Randomized Clinical Trial. JAMA. (2020 Dec 8) 
+168. Wang C, Chung M, Lichtenstein A, Balk E, Kupelnick B, DeVine D, Lawrence A, Lau J Effects of omega-3 fatty acids on cardiovascular disease.. Evid Rep Technol Assess (Summ). (2004-Mar) 
+169. Cleland LG, James MJ, Proudman SM Fish oil: what the prescriber needs to know.. Arthritis Res Ther. (2006) 170. Buckley MS, Goff AD, Knapp WE Fish oil interaction with warfarin.. Ann Pharmacother. (2004-Jan) 
+171. Elizabeth M McClaskey, Elizabeth Landrum Michalets Subdural hematoma after a fall in an elderly patient taking high-dose omega-3 fatty acids with warfarin and aspirin: case report and review of the literature. Pharmacotherapy. (2007 Jan) 
+172. Kristof Vanschoonbeek, Marion A H Feijge, Martine Paquay, Jan Rosing, Wim Saris, Cornelis Kluft, Peter L A Giesen, Moniek P M de Maat, Johan W M Heemskerk Variable hypocoagulant effect of fish oil intake in humans: modulation of fibrinogen level and thrombin generation. Arterioscler Thromb Vasc Biol. (2004 Sep) 
+173. John Alfred Carr Role of Fish Oil in Post-Cardiotomy Bleeding: A Summary of the Basic Science and Clinical Trials. Ann Thorac Surg. (2018 May) 
+174. Begtrup KM, Krag AE, Hvas AM No impact of fish oil supplements on bleeding risk: a systematic review. Dan Med J. (2017 May) 
+175. Albert BB, Derraik JG, Cameron-Smith D, Hofman PL, Tumanov S, Villas-Boas SG, Garg ML, Cutfield WS Fish oil supplements in New Zealand are highly oxidised and do not meet label content of n-3 PUFA. Sci Rep. (2015 Jan 21) 
+176. Bannenberg G, Mallon C, Edwards H, Yeadon D, Yan K, Johnson H, Ismail A Omega-3 Long-Chain Polyunsaturated Fatty Acid Content and Oxidation State of Fish Oil Supplements in New Zealand. Sci Rep. (2017 May 3) 
+177. Bengtson Nash SM, Schlabach M, Nichols PD A nutritional-toxicological assessment of Antarctic krill oil versus fish oil dietary supplements. Nutrients. (2014 Aug 28) 
+178. Ottestad I, Retterstøl K, Myhrstad MC, Andersen LF, Vogt G, Nilsson A, Borge GI, Nordvi B, Brønner KW, Ulven SM, Holven KB Intake of oxidised fish oil does not affect circulating levels of oxidised LDL or inflammatory markers in healthy subjects. Nutr Metab Cardiovasc Dis. (2013 Jan) 
+179. García-Hernández VM, Gallar M, Sánchez-Soriano J, Micol V, Roche E, García-García E Effect of omega-3 dietary supplements with different oxidation levels in the lipidic profile of women: a randomized controlled trial. Int J Food Sci Nutr. (2013 Dec) 
+180. Botturi A, Ciappolino V, Delvecchio G, Boscutti A, Viscardi B, Brambilla P The Role and the Effect of Magnesium in Mental Disorders: A Systematic Review.. Nutrients. (2020-Jun-03) 
+181. Boyle NB, Lawton C, Dye L The Effects of Magnesium Supplementation on Subjective Anxiety and Stress-A Systematic Review. Nutrients. (2017 Apr 26) 
+182. Fard FE, Mirghafourvand M, Mohammad-Alizadeh Charandabi S, Farshbaf-Khalili A, Javadzadeh Y, Asgharian H Effects of zinc and magnesium supplements on postpartum depression and anxiety: A randomized controlled clinical trial. Women Health. (2017 Oct) 
+183. Macian N, Dualé C, Voute M, Leray V, Courrent M, Bodé P, Giron F, Sonneville S, Bernard L, Joanny F, Menard K, Ducheix G, Pereira B, Pickering G Short-Term Magnesium Therapy Alleviates Moderate Stress in Patients with Fibromyalgia: A Randomized Double-Blind Clinical Trial.. Nutrients. (2022-May-17) 
+184. Institute of Medicine (US) Standing Committee on the Scientific Evaluation of Dietary Reference Intakes Dietary Reference Intakes for Calcium, Phosphorus, Magnesium, Vitamin D, and Fluoride. 
+185. Sarafidis PA, Georgianos PI, Lasaridis AN Diuretics in clinical practice. Part II: electrolyte and acid-base disorders complicating diuretic therapy. Expert Opin Drug Saf. (2010 Mar) 
+186. C J Dunn, K L Goa Risedronate: a review of its pharmacological properties and clinical use in resorptive bone disease. Drugs. (2001) 
+187. R C Walker, A J Wright The fluoroquinolones. Mayo Clin Proc. (1991 Dec) 
+188. Gröber U Magnesium and Drugs.. Int J Mol Sci. (2019-Apr-28) 
+189. F H Nielsen, D B Milne A moderately high intake compared to a low intake of zinc depresses magnesium balance and alters indices of bone turnover in postmenopausal women. Eur J Clin Nutr. (2004 May) 
+190. Witkowski M, Hubert J, Mazur A Methods of assessment of magnesium status in humans: a systematic review. Magnes Res. (2011 Dec) 
+191. Yoshimura Y, Fujisaki K, Yamamoto T, Shinohara Y Pharmacokinetic Studies of Orally Administered Magnesium Oxide in Rats. Yakugaku Zasshi. (2017 May 1) 
+192. Firoz M, Graber M Bioavailability of US commercial magnesium preparations. Magnes Res. (2001 Dec) 
+193. Walker AF, Marakis G, Christie S, Byng M Mg citrate found more bioavailable than other Mg preparations in a randomised, double-blind study. Magnes Res. (2003 Sep) 
+194. Lindberg JS, Zobitz MM, Poindexter JR, Pak CY Magnesium bioavailability from magnesium citrate and magnesium oxide. J Am Coll Nutr. (1990 Feb) 
+195. Ranade VV, Somberg JC Bioavailability and pharmacokinetics of magnesium after administration of magnesium salts to humans. Am J Ther. (2001 Sep-Oct) 
+47
+196. Pazianas M, Abrahamsen B, Ferrari S, Russell RG Eliminating the need for fasting with oral administration of bisphosphonates. Ther Clin Risk Manag. (2013) 
+197. Ford ES, Mokdad AH Dietary magnesium intake in a national sample of US adults. J Nutr. (2003 Sep) 198. Musso CG Magnesium metabolism in health and disease. Int Urol Nephrol. (2009) 
+199. Pham PC, Pham PM, Pham SV, Miller JM, Pham PT Hypomagnesemia in patients with type 2 diabetes. Clin J Am Soc Nephrol. (2007 Mar) 
+200. Center for Drug Evaluation. Low Magnesium Levels Can Be Associated with Long-Term Use of Proton Pump Inhibitor Drugs (PPIs).. Drug Safety and Availability - FDA Drug Safety Communication.. 
+201. Smriga M, Kameishi M, Uneyama H, Torii K Dietary L-lysine deficiency increases stress-induced anxiety and fecal excretion in rats.. J Nutr. (2002-Dec) 
+202. Smriga M, Ghosh S, Mouneimne Y, Pellett PL, Scrimshaw NS Lysine fortification reduces anxiety and lessens stress in family members in economically weak communities in Northwest Syria.. Proc Natl Acad Sci U S A. (2004-Jun-01) 
+203. Saksit Srinongkote, Miro Smriga, Kazuki Nakagawa, Yasuhiko Toride A diet fortified with L-lysine and L-arginine reduces plasma cortisol and blocks anxiogenic response to transportation in pigs. Nutr Neurosci. (2003 Oct) 
+204. Miro Smriga, Kunio Torii Prolonged treatment with L-lysine and L-arginine reduces stress-induced anxiety in an elevated plus maze. Nutr Neurosci. (2003 Apr) 
+205. Daniela Jezova, Aikaterini Makatsori, Miro Smriga, Yasushi Morinaga, Roman Duncko Subchronic treatment with amino acid mixture of L-lysine and L-arginine modifies neuroendocrine activation during psychosocial stress in subjects with high trait anxiety. Nutr Neurosci. (2005 Jun) 
+206. Miro Smriga, Toshihiko Ando, Masahisa Akutsu, Yasushi Furukawa, Kiyoshi Miwa, Yasushi Morinaga Oral treatment with L-lysine and L-arginine reduces anxiety and basal cortisol levels in healthy humans. Biomed Res. (2007 Apr) 
+207. Unfer V, Facchinetti F, Orrù B, Giordani B, Nestler J Myo-inositol effects in women with PCOS: a meta-analysis of randomized controlled trials. Endocr Connect. (2017 Nov) 
+208. López-Gambero AJ, Sanjuan C, Serrano-Castro PJ, Suárez J, Rodríguez de Fonseca F The Biomedical Uses of Inositols: A Nutraceutical Approach to Metabolic Dysfunction in Aging and Neurodegenerative Diseases.. Biomedicines. (2020-Aug-20) 
+209. Firth J, Teasdale SB, Allott K, Siskind D, Marx W, Cotter J, Veronese N, Schuch F, Smith L, Solmi M, Carvalho AF, Vancampfort D, Berk M, Stubbs B, Sarris J The efficacy and safety of nutrient supplements in the treatment of mental disorders: a meta review of meta-analyses of randomized controlled trials. World Psychiatry. (2019 Oct) 
+210. Tomohiko Mukai, Taro Kishi, Yuki Matsuda, Nakao Iwata A meta-analysis of inositol for depression and anxiety disorders. Hum Psychopharmacol. (2014 Jan) 
+211. Shakeri A, Sahebkar A, Javadi B Melissa officinalis L. - A review of its traditional uses, phytochemistry and pharmacology.. J Ethnopharmacol. (2016-Jul-21) 
+212. Habib Haybar, Ahmad Zare Javid, Mohammad Hosein Haghighizadeh, Einollah Valizadeh, Seyede Marjan Mohaghegh, Assieh Mohammadzadeh The effects of Melissa officinalis supplementation on depression, anxiety, stress, and sleep disorder in patients with chronic stable angina. Clin Nutr ESPEN. (2018 Aug) 
+213. Soltanpour et al Effects of Melissa officinalis on anxiety and sleep quality in patients undergoing coronary artery bypass surgery: A double-blind randomized placebo controlled trial. European Journal of Integrative Medicine. (2019-06) 
+214. Naseri R, Farnia V, Yazdchi K, Alikhani M, Basanj B, Salemi S Comparison of Vitex agnus-castus Extracts with Placebo in Reducing Menopausal Symptoms: A Randomized Double-Blind Study.. Korean J Fam Med. (2019-Nov) 
+215. Ma L, Lin S, Chen R, Zhang Y, Chen F, Wang X Evaluating therapeutic effect in symptoms of moderate-to-severe premenstrual syndrome with Vitex agnus castus (BNO 1095) in Chinese women. Aust N Z J Obstet Gynaecol. (2010 Apr) 
+216. Sommer M, Braumann M, Althoff T, Backhaus J, Kordon A, Junghanns K, Ehrenthal D, Bartmann U, Hohagen F, Broocks A Psychological and neuroendocrine responses to social stress and to the administration of the alpha-2-receptor antagonist, yohimbine, in highly trained endurance athletes in comparison to untrained healthy controls. Pharmacopsychiatry. (2011 Jun) 
+217. Umhau JC, Schwandt ML, Usala J, Geyer C, Singley E, George DT, Heilig M Pharmacologically induced alcohol craving in treatment seeking alcoholics correlates with alcoholism severity, but is insensitive to acamprosate. Neuropsychopharmacology. (2011 May) 
+218. Goddard AW, Woods SW, Sholomskas DE, Goodman WK, Charney DS, Heninger GR Effects of the serotonin reuptake inhibitor fluvoxamine on yohimbine-induced anxiety in panic disorder.. Psychiatry Res. (1993-Aug) 
+219. Charney DS, Heninger GR, Redmond DE Yohimbine induced anxiety and increased noradrenergic function in humans: effects of diazepam and clonidine.. Life Sci. (1983-Jul-04) 
+220. Smits JA, Rosenfield D, Davis ML, Julian K, Handelsman PR, Otto MW, Tuerk P, Shiekh M, Rosenfield B, Hofmann SG, Powers MB Yohimbine enhancement of exposure therapy for social anxiety disorder: a randomized controlled trial.. Biol Psychiatry. (2014-Jun-01) 
+221. Cavanagh HM, Wilkinson JM Biological activities of lavender essential oil. Phytother Res. (2002 Jun) 
+222. Shellie R, Mondello L, Marriott P, Dugo G Characterisation of lavender essential oils by using gas chromatography-mass spectrometry with correlation of linear retention indices and comparison with comprehensive two-dimensional gas chromatography. J Chromatogr A. (2002 Sep 13) 
+48
+223. Basch E, Foppa I, Liebowitz R, Nelson J, Smith M, Sollars D, Ulbricht C Lavender (Lavandula angustifolia Miller). J Herb Pharmacother. (2004) 
+224. Koulivand PH, Khaleghi Ghadiri M, Gorji A Lavender and the nervous system. Evid Based Complement Alternat Med. (2013) 
+225. Zuzarte M, Gonçalves MJ, Cavaleiro C, Canhoto J, Vale-Silva L, Silva MJ, Pinto E, Salgueiro L Chemical composition and antifungal activity of the essential oils of Lavandula viridis L'Her. J Med Microbiol. (2011 May) 
+226. Sasannejad P, Saeedi M, Shoeibi A, Gorji A, Abbasi M, Foroughipour M Lavender essential oil in the treatment of migraine headache: a placebo-controlled clinical trial. Eur Neurol. (2012) 
+227. Hay IC, Jamieson M, Ormerod AD Randomized trial of aromatherapy. Successful treatment for alopecia areata. Arch Dermatol. (1998 Nov) 
+228. Koca Kutlu A, Ceçen D, Gürgen SG, Sayın O, Cetin F A Comparison Study of Growth Factor Expression following Treatment with Transcutaneous Electrical Nerve Stimulation, Saline Solution, Povidone-Iodine, and Lavender Oil in Wounds Healing. Evid Based Complement Alternat Med. (2013) 
+229. Matsumoto T, Asakura H, Hayashi T Does lavender aromatherapy alleviate premenstrual emotional symptoms?: a randomized crossover trial. Biopsychosoc Med. (2013 May 31) 
+49

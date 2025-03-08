@@ -1,0 +1,77 @@
+Question Number,Text,Why,absolutely ,moderatlely for sure,sort of,barely or rarely,never ever,Is initial question,Is re-test/follow up,"Score 0 Bad -> 8 Excellent      Answer:  Absolutely
+Moderately for sure
+Sort of
+Barely or rarely
+Never Ever
+"
+Toxins,,,,,,,,FALSE,FALSE,
+,You enjoy fast foods 5 days a week or more,"Bad! eating too much fast foods means excessive trans fats, excitotoxins, corn and ultraprocessed food intake destroying the body and have very low nutrient value, so the body is starving while you're eating manufactured chemicals",0,2,3,7,8,FALSE,FALSE,
+,You keep easy to make boxed and canned foods stocked well in your pantry,"Bad! many canned and boxed foods have trans fats, excitotoxins, corn and ultraprocessed ingredients destroying the body",1,3,4,6,7,FALSE,FALSE,
+,"You choose farm raised eggs, beef, pork and chicken for your plate.",Excellent = Low toxin load,8,7,4,2,0,FALSE,FALSE,
+,"Favorite snacks are popcorn, corn chips, Fritos, Cheetos, ritz-type crackers","Corn = bad! drastically increases inflammation, increases pain, creates brain fog, and make you acidic",0,2,3,7,8,FALSE,FALSE,
+,Frozen foods that are easy to make are your friend,"Bad! excessive trans fats, excitotoxins, corn and ultraprocessed ingredients in frozen meals",0,2,3,6,8,FALSE,FALSE,
+,Getting my food that supports local farmers and co-ops is important ,Excellent = Low toxin load,8,7,5,2,0,FALSE,FALSE,
+,I only buy organic foods with very few ingredients that I can pronounce,Excellent = Low toxin load,8,7,5,2,0,FALSE,FALSE,
+,Corn is a staple and central to my diet,"Corn = bad! drastically increases inflammation, increases pain, creates brain fog, and make you acidic",0,1,2,7,8,FALSE,FALSE,
+,,,,,,,,FALSE,FALSE,
+Sugar,,,,,,,,FALSE,FALSE,
+,"Deserts after meals, and candies or cookies for snacks are your favorite","Bad = High sugar intake and high sugar cravings breaks body down, harms gut and good gut flora, increases pain, and make you acidic",0,1,3,7,8,FALSE,FALSE,
+,"Favorite drinks are Starbucks sweet coffees, orange juice smoothies and soft drinks ","Bad = High sugar intake and high sugar cravings from commercial mixed coffee drinks and  juices breaks body down, harms gut and good gut flora, increases pain, and make you acidic",0,1,3,7,8,FALSE,FALSE,
+,You try to eat foods with 5gm of sugar or less,Excellent = Low sugar intake,8,7,5,2,0,FALSE,FALSE,
+,"Favorite snacks are cookies, candy, cakes, pies, chocolate, ice cream","Bad = eating foods with High sugar content creates more sugar cravings, breaks body down, harms gut and good gut flora, increases pain, and makes you acidic",0,1,3,6,8,FALSE,FALSE,
+,Sugar is not my friend.  I avoid it as much as possible,Excellent = Low sugar intake,8,7,4,1,0,FALSE,FALSE,
+,Low glycemic index fruit and sweeteners are your jam,Excellent = Low sugar intake,8,7,4,2,0,FALSE,FALSE,
+,,,,,,,,FALSE,FALSE,
+Alkalinity,,,,,,,,FALSE,FALSE,
+,Fresh vegetables and live produce fill up your plate,Excellent = Highly alkaline,8,7,5,1,0,FALSE,FALSE,
+,"Breads, grains, pasta, rice fill up your plate","grains, pasta and rice destroy good gut flora and create a body environment with Moderate to Poor Alkalinity",2,3,5,7,8,FALSE,FALSE,
+,Freshly juiced juices and morning fruit/veg smothies start your day ,Excellent! Highly Alkaline,8,7,4,1,0,FALSE,FALSE,
+,I'm a carnavore and mostly eat meat,Bad!  Meat is very acidic and leads to a body that has Poor Alkalinity,0,1,4,6,7,FALSE,FALSE,
+,"Meat, grains and deserts are my favorite for lunch and dinners ",Bad!  Meat  and grains are very acidic and lead to a body that has Poor Alkalinity,0,1,4,6,8,FALSE,FALSE,
+,,,,,,,,FALSE,FALSE,
+Food Combining,,,,,,,,FALSE,FALSE,
+,Meat and potatoes are your favorite meal,Meat and a starchy vegetable are horrible food combining,0,1,4,7,8,FALSE,FALSE,
+,"Burgers and Sandwiches made with bread, veggies and meats are your jam","Meat and a bread, or grains are poor food combining",0,1,4,7,8,FALSE,FALSE,
+,Rice and beans are are a usual choice on your plate,Moderate Poor combining,2,3,5,7,8,FALSE,FALSE,
+,You choose a lot of salads and greens with meats or other proteins ,Protein combined with vegetables are Excellent food combining,8,7,5,2,0,FALSE,FALSE,
+,Meat is best eaten by itself as a dish,Excellent combining,8,7,5,2,0,FALSE,FALSE,
+,I'm Meat free and prefer only veggies,Excellent combining,8,7,5,2,0,FALSE,FALSE,
+,"Veggies are my favorite when made with grains like rice, quinoa or pasta","Grains combined with vegetables are a good choice for good food combining, but grains should only be eaten in moderation ",7,5,2,1,0,FALSE,FALSE,
+,,,,,,,,FALSE,FALSE,
+Timing,,,,,,,,FALSE,FALSE,
+,You eat meals and snacks all day long up until bedtime,Poor timing = eating all day is bad for metabolism and digestion,0,1,4,6,8,FALSE,FALSE,
+,You forget to eat and grab whatever you can when you're starving,"Horrible timing = body is depleated of nutrients and cannot operate well, especially the brain, muscles and consistent ability to eliminate and poop",0,1,4,6,8,FALSE,FALSE,
+,"You try eating at specific times of the day, and never close to bedtime","Excellent = gives the gut a chance to relax and rest, also an excellent way to do intermittent fasting for better health and longevity",8,6,3,1,0,FALSE,FALSE,
+,Late at night you're most hungry and have snacks in the wee hours,Horrible timing = eating when the body and gut should be resting and repairing is bad for metabolism and digestion,0,1,3,6,8,FALSE,FALSE,
+,1 or 2 meals a day are planned and eaten at the same time,Excellent = gut works better with rest and consistency,8,7,3,1,0,FALSE,FALSE,
+,Meals and snacks are planned and always eaten close to the same time every day,Fantastic! = gut works better with rest and consistency,8,7,5,2,0,FALSE,FALSE,
+,,,,,,,,FALSE,FALSE,
+Pre/probiotics,,,,,,,,FALSE,FALSE,
+,You heard you should take a probiotic pill so you do,"Fair = a pill is better than nothing, but live probiotics from fresh foods is much better",7,4,2,1,0,FALSE,FALSE,
+,I am a scholar at good gut bacteria - eat them daily!,Excellent,8,7,5,2,0,FALSE,FALSE,
+,"Prebiotics like garlic, leeks, artichokes and dark chocolate are a BIG part of meals",Excellent,8,7,4,2,0,FALSE,FALSE,
+,You make meals that include live cultured foods 2-4 days a week,Good,7,5,2,1,0,FALSE,FALSE,
+,Bowls and smoothies with yogurt or kefir are part of your daily routine,Excellent,8,6,3,1,0,FALSE,FALSE,
+,,,,,,,,FALSE,FALSE,
+Macros,,,,,,,,FALSE,FALSE,
+,"My day starts with toast, bagel or muffin with coffee or tea","Bad! = getting far more than 45gm carbs per day and will crave sugars all day when start with these foods.  Need to start with more protein, not carbs",0,1,3,6,8,FALSE,FALSE,
+,Dairy or plant-based milk shakes and smoothies get me most of my morning protein ,Excellent sources and habits for protein intake,7,5,2,1,0,FALSE,FALSE,
+,Protein the size of the palm of my hand is at every meal,excellent protein intake and portions to get ½ bodty weight in grams of protein goal per day,8,7,4,2,0,FALSE,FALSE,
+,"Carbs like bread, pasta, potatoes and snacks are a big part of every day",Bad! = goal is to get only 45gm carbs per day,0,1,3,6,8,,,
+,"Good fats like cocnut oil, olive oil, and avocado are a big part of my day","Excellent! = good fats, less carbs repairs brain, helps reduce pain and imporves longevity",8,7,4,2,0,,,
+,I eat half my body weight in grams of protein every day,"Excellent! = body wt x .5 is goal for excellent brain function, muscle repair and immunity",8,7,5,1,0,,,
+,,,,,,,,,,
+Gut/Brain Health,"I love to start my day with pastries, coffee/tea, and oragne juice","Bad! = starting with sugar makes you crave it all day and also disrupts good gut flora, increases pain, leads to more brain fog and makes the body acidic",0,1,3,6,8,,,
+,"My most favorie foods are beans, peanuts, wheat, lentils, tomatoes, eggplant, and peppers","Bad! = lectins and nightshades increase pain, inflammation and will causethe gut to be more leaky and less able to absorb needed nutrients from foods.",7,4,2,1,0,,,
+,Gluten is the worst for me - won't eat it,Excellent!  gluten free is the way to go for overall gut health and excellent gut-brain axis health,8,7,5,2,0,,,
+,"It's easy for me to ""go."" I poop 1 - 2 times a day, usually in the morning and later in the day",Gut motility and digestion,8,6,4,1,0,,,
+,"I try to eat a lot of fresh leafy greens, cold pressed juices, and water around pH 9.5","Excellent! = Being more alkaline helps digestion, keeps the microflora alive, and stops bacteria, viruses, parasites and even cancer cells from growing",8,7,5,2,0,,,
+,"I tend to lose focus easily, so do things like coffee or Redbull to clear the brain fog","Bad! = spiking Cortisol so the body is constantly in flight or fight destroys the alrenal system, brain and gut.  Also are being depleted of needed brain nutrients with high chemical and caffeine food choices.",0,1,3,6,8,,,
+,How often do you experience digestive issues?,1,2,3,4,5
+,How often do you consume added sugars?,1,2,3,4,5
+,Do you track your macronutrient intake?,5,4,3,2,1
+,Do you eat a balanced mix of alkaline foods?,5,4,3,2,1
+,How often do you consume processed foods?,1,2,3,4,5
+,Do you consume fermented foods regularly?,5,4,3,2,1
+,Do you eat at regular intervals?,5,4,3,2,1
+,Do you combine proteins with starches?,1,2,3,4,5

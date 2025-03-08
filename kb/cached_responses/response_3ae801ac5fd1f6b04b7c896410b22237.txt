@@ -1,0 +1,2 @@
+Which protein source do you prefer for your meals? Please select one option: A. Animal-based protein (e.g., chicken, beef, fish), B. Plant-based protein (e.g., legumes, tofu), C. Dairy-based protein (e.g., yogurt, cheese), D. Protein supplements (e.g., whey, casein). 
+```

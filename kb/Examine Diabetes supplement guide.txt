@@ -1,0 +1,954 @@
+
+Diabetes & Blood Sugar Supplement Guide 
+
+Written By: Michael Hull, & Wyatt Brown 
+Edited By: Pierre-Alexandre Sicart 
+Reviewed By: Kamal Patel
+Table of Contents 
+Introduction 
+Combos 
+Primary Supplements 
+Secondary Supplements 
+Promising Supplements 
+Unproven Supplements 
+Inadvisable Supplements 
+FAQ 
+2
+Introduction 
+Any carbs you ingest, your body breaks down into glucose, also known as blood sugar (since it travels through your bloodstream). In this introduction, we’ll see how blood sugar (aka blood glucose) and insulin can be measured; but first, we’ll review some background information about glucose and its relation to diabetes mellitus (better known as simply diabetes). 
+Glucose is a simple sugar. More precisely, it’s a monosaccharide (mono- meaning “single” and saccharide meaning “sugar”). To store glucose molecules, your body combines them into a polysaccharide (poly meaning “several”): glycogen. 
+Depiction of glycogen 
+
+Glycogen gets stored in your liver and muscles. If, through prolonged fasting or intense exercise, you deplete your glycogen stores, your body resorts to gluconeogenesis — the making (-genesis) of new (- neo-) glucose (gluco-).[1][2] 
+3
+
+
+Glycogen storage and gluconeogenesis ensure that your body always has enough glucose, whereas insulin ensures that your blood never has too much. Insulin (a hormone produced in your pancreas) rises when blood glucose[9] rises; it lowers blood glucose by telling various cells to absorb it (for storage in your liver or muscles, or for immediate use) and your liver to stop producing it.[10] 
+The ability of cells to absorb glucose in response to insulin is called insulin sensitivity, and low insulin sensitivity is called insulin resistance — the more sensitive, the less resistant, and vice versa. It is also possible for you to produce too little insulin, if you have type 1 diabetes or are in the late stages of type 2 diabetes, in which case you suffer from insulin deficiency. In either case, glucose can’t be removed efficiently from your blood, causing hyperglycemia (overly high glucose levels).[11] 
+Hyperglycemia causes oxidative stress and inflammation and impairs several physiological processes,[12][13][14] thereby damaging your body and increasing the risk of many diseases — cardiovascular diseases, mostly,[15] but probably also cancer, Alzheimer’s, and Parkinson’s.[16][17][18] 
+Insulin resistance paves the road to type 2 diabetes, which accounts for 90% to 95% of all diabetes cases and has become a global health issue. In 2016, the World Health Organization (WHO) estimated that the percentage of diabetics in the world population had nearly doubled since the 1980s, for a total of 422 million diabetics. However, while the incidence keeps increasing in some countries, on a worldwide scale it seems to have either leveled off or decreased since the early 2000s.[19] 
+In 2017, the Centers for Disease Control and Prevention (CDC) reported an important, steady increase in the rate of diabetes in the US over the past 60 years, with 30.3 million Americans (nearly 1 in 10) having diabetes and 84.1 million American adults (approximately 1 in 3) having prediabetes[20] (which is to say, blood glucose levels high enough to be harmful and lead to diabetes[21]). One should note, however, than other sources have reported a decrease in the incidence of diabetes in the US since the early 2000s.[19] 
+4
+Worldwide diabetes prevalence 
+Adapted from Cho et al. IDF Diabetes Atlas. 2017. ISBN:978-2-930229-81-2 
+The major cause of type 2 diabetes is excess caloric intake and the resulting obesity. Unsurprisingly, weight loss can help. One review found that weight loss from all kinds of interventions — surgery, appetite suppressing medicines, lifestyle interventions, or a combination — alleviates diabetes.[22] 
+Surprisingly, many long-term studies that used only a diet to achieve weight loss reported only modest improvements in diabetes. Why? Probably because few achieved _substantial _long-term weight loss.[23] Moreover, exercise in itself can help reduce the risk and severity of type 2 diabetes.[24][25][26] 
+Exercising regularly and maintaining a healthy weight are the two major pillars of metabolic health, but insulin resistance can be complex, both mechanistically and causally. As a result, the basics may not always cut it, and what’s effective for one individual may not be for another. Unfortunately, researchers are often unable to explore interindividual differences, leaving diabetics to fight their disease through trial and error, based on what’s effective for a majority. 
+Measuring blood glucose 
+Fasting Plasma Glucose (FPG) 
+Glycemic control can be tested in several ways, each with its own cutoff values indicating impaired glucose regulation.[27] Of these tests, fasting blood glucose is the most common, followed by HbA1c. 
+5
+Methods of glycemic-control measurement 
+
+FPG (aka fasting blood glucose) is simply a measure of how much glucose is floating around in your blood during a fast. After at least 8 hours of not eating (typically in the morning before breakfast), blood is drawn and analyzed for glucose concentration. From 100 to 125 mg/dL (5.6 to 7.0 mmol/L), you are considered prediabetic; above 125 mg/dL, you are considered diabetic. 
+Two caveats: 
+Your fasting blood glucose may be normal even if you have insulin resistance, since an increase in insulin resistance can be countered — for a time — by an increase in insulin production. 
+The amount and composition of your food affect your blood glucose levels, which is why the test is performed after an 8-hour fast. However, fasting blood glucose levels _can _vary from day to day, and so a single test may not be entirely reliable.[28][29] 
+Hemoglobin A1c (HbA1c) 
+HbA1c (glycated hemoglobin) is a marker of blood-glucose metabolism that estimates the average amount of glucose in your blood over the past 3 months. An HbA1c of 5.7–6.4% is considered elevated; above 6.4% is considered high. 
+Glycation is a non-enzymatic linking of a sugar (in this case, glucose) to a protein or lipid (in this case, hemoglobin). Hemoglobin is the protein in red blood cells that carries oxygen throughout your body, and red blood cells live for about 4 months. When blood glucose levels rise, the rate of hemoglobin glycation increases, making glycated hemoglobin an estimate of blood glucose levels over months. Several factors, however, can reduce the accuracy of the HbA1c test. For instance: 
+Nutrient deficiencies that lead to anemia 
+Dietary or supplemental changes that reduce glycation 
+Severe hyperbilirubinemia or hypertriglyceridemia Conditions that affect the turnover of red blood cells[30] (the red blood cells of diabetics, notably, may have shorter lifespans the higher blood sugar levels get[31]) 
+6
+Acute glycemia 
+There are two types of acute glycemia tests, the more common being the Oral Glucose Tolerance Test (OGTT). It involves drinking either 75 grams or, less commonly, 100 grams of a glucose solution, after which blood glucose levels are measured at regular intervals over 2 hours (the area under curve being then calculated for each measure). If the last blood sample taken shows a blood glucose of 140–199 mg/dL (7.8– 11.0 mmol/L), this is considered elevated; 200 mg/dL or more (≥11.1 mmol/L) is considered high. 
+In short, the OGTT measures your ability to clear a whole lot of glucose from your bloodstream. It has the advantage of being standardized and easy to administer, but it doesn’t reflect the digestive realities of mixed meals. 
+The other type of acute glycemia test is a postprandial test using real food (the exact same meal must be eaten before each measure is taken). This test is often used to test pharmaceuticals and supplements that may work by reducing the glycemic index (GI) of a meal. The lower the GI of a meal, the less it raises your blood glucose. 
+Hyperglycemia: how diabetics and nondiabetics respond to a meal Reference: American Diabetes Association. Clin Diabetes. 2020.[32] 
+Random Plasma Glucose Test (RPGT) 
+For the RPGT (aka causal test), a blood sample is taken at any point during the day if other signs of diabetes are present. As with the last blood sample of an (OGTT)] 
+(https://medlineplus.gov/ency/article/003466.htm), a value of 200 mg/dL or more (≥11.1 mmol/L) is considered high. 
+Continuous monitoring 
+7
+The future is now! At least when it comes to blood glucose measurement. A newer type of glucose monitor is inserted under the skin and continuously measures glucose in interstitial fluid. It can ring an alarm if blood glucose falls too low or rises too high. It can even be paired to an insulin pump for an instantaneous intervention. 
+And of course, it can collect days’ worth of data. A doctor or a researcher can thereby know precisely when blood glucose rose and fell; how high the spikes were after meals; how much time the wearer spent in hyper- or hypoglycemia; what the lowest, highest, and average daily levels were; and more. 
+Notably, a glucose monitor makes it possible to assess glycemic variability. This is important because research suggests that glucose swings increase oxidative stress and so represent a risk factor (for diabetic complications) independent of average glucose levels.[33][34][35] 
+Glucose fluctuations play a role in diabetic complications Adapted from Monnier and Collette. Diabetes Care. 2008.[36] 
+Assessing insulin sensitivity 
+Fasting insulin 
+As we saw, during the early stages of insulin resistance, an increase in insulin production can keep your blood glucose in check — but at the cost of creating a feedback loop. As insulin production increases beyond normal levels, so does insulin resistance, and so on and so forth. 
+8
+This vicious circle is well known, and so different formulae for estimating insulin resistance have been developed based on glucose and insulin levels.[37] The most common of those formulae, each of which has its pros and cons, is HOMA-IR. 
+There is no standard cutoff value, but some research has suggested that fasting insulin levels above 104 pmol/L (>15 mIU/L) suggest insulin resistance.[38] 
+Homeostatic Model Assessment of Insulin Resistance (HOMA-IR) 
+HOMA-IR is calculated based on fasting glucose and insulin, using one of these two formulae: 
+These simple calculations were derived from experiments and computer modeling that predicted glucose and insulin levels given different levels of insulin sensitivity and described the feedback loop between them.[39] While there is no agreed-upon cutoff value, scores of ≥2 and ≥2.5 have been used to indicate insulin resistance.[40] 
+HOMA-IR has been updated to HOMA2, which uses the same data (fasting glucose and insulin) but more complex calculations that make it more accurate, yet HOMA-IR is still more commonly used in research — including most of the papers we read to write this guide. 
+Basic _homeostatic model assessment_ (HOMA) calculations 
+HOMA-β is similar to HOMA-IR in its approach. HOMA-IR estimates insulin sensitivity based on knowledge about the feedback between glucose and insulin, whereas HOMA-β estimates β cell function based on knowledge about that feedback loop. 
+9
+For people who use insulin injections (type 1 diabetics and late-stage type 2 diabetics), HOMA is less accurate and a hyperinsulinemic-euglycemic clamp is preferred. 
+Quantitative Insulin Sensitivity Check Index (QUICKI) 
+QUICKI, being a modified version of HOMA, is derived from your fasting glucose and fasting insulin. A score of ≤0.35 suggests insulin resistance, whereas ≤0.33 is more strongly associated with insulin resistance.[41] 
+Matsuda Insulin Sensitivity Index (MISI) MISI is derived from values obtained during an OGTT. A score under 4.3 suggests insulin resistance.[37] 
+Hyperinsulinemic-Euglycemic Clamp (HEC) 
+HEC is the gold standard for measuring insulin sensitivity. While you are being infused with both insulin and glucose, an estimated glucose disposal rate (eGDR) under 5.3 mg/kg/min suggests insulin resistance.[42] 
+Digging deeper: The hyperinsulinemic-euglycemic clamp 
+The hyperinsulinemic-euglycemic clamp is a clever device that continuously infuses both insulin and glucose so that they balance each other — i.e., so that your blood levels stay normal (normoglycemia) despite the elevated insulin level (hyperinsulinemia). The less glucose you need to maintain normoglycemia, the less insulin sensitive you are.[43] 
+And with the same device, you can measure insulin secretion by infusing glucose and measuring how much is required to maintain an elevated glucose level (hyperglycemia). 
+10
+The Hyperinsulinemic-Euglycemic Clamp (HEC) technique 
+Course of action 
+In this guide, we review the evidence for the effects of various supplements on various measures of glycemic control and talk about what can be expected. For each supplement, we offer insights into the most effective form and dosage, as well as warnings about possible adverse effects. However, if you are worried about diabetes, your first step should be to get tested. 
+Before you talk to your doctor, though, you may want to record what you eat in real time (for a week at least) to get a better idea of your usual diet — your findings may surprise you, as we often misremember and underestimate what we ate, even shortly after eating.[44][45][46][47] You should record the calories, macronutrients (carbs, fat, and protein), and sugar content of each food you consume. Then when you visit your doctor, you can not only mention the different tests in this introduction, but also share your food diary. 
+Fast forward: you have been tested. Now what should you do? 
+If you have neither diabetes nor prediabetes, you should exercise and eat a balanced diet rich in a variety of whole foods. Supplementation for blood sugar control isn’t necessary. 
+If you have prediabetes, you should exercise, eat a balanced diet rich in a variety of whole foods, and minimize the glycemic index (GI) of your meals (you can check the GI of different foods here). You may also want to consider supplementation — read this guide carefully, and if you decide to try anything, mention it to your doctor. 
+If you have diabetes, you should exercise, eat a balanced diet rich in a variety of whole foods, and minimize 11
+the glycemic index (GI) of your meals (you can check the GI of different foods here). You may also want to consider supplementation, but consult your doctor before trying anything. Your doctor has probably prescribed you some medicine (metformin being the most common), and supplements and medicine can interact. Read the “Warnings” sections especially carefully. 
+Good reading! 
+
+Wyatt Brown, Researcher 
+12
+Combos 
+
+
+Core Combo 
+First, try to increase your dietary intake of fiber-rich foods. 
+Take one of the following fiber supplements. Doses should be taken within 15 minutes before a meal and split across meals. 
+Psyllium: 10–15 g/day 
+Beta-glucan: 5–10 g/day 
+Raw guar gum: 10–20 g/day 
+13
+
+
+Specialized Combos 
+For people with elevated fasting blood glucose or HbA1c 
+Take 300–500 mg of berberine three or four times per day (900–2,000 mg total) with, during, or very shortly after a meal containing carbs. Start at the low end of the range, since higher dosages are more likely to cause stomach discomfort and diarrhea. 
+After taking berberine for a week or two, take 25–30 mg/day (30–40 mg/day if you have high blood sugar) of elemental zinc sulfate or gluconate, preferably on an empty stomach. If this causes nausea or discomfort, take the zinc with food that is not rich in phytates (grains, legumes, seeds, and nuts), as they may reduce zinc absorption. 
+After testing out berberine and zinc over a 2–4 week period, you can add in 200–350 mg/day of elemental magnesium citrate, gluconate, or glycinate. Magnesium gluconate should be taken with a meal; other forms can be taken on an empty stomach. Take 200 mg/day of elemental magnesium to avoid deficiency or if you regularly consume magnesium-rich foods. Up to 350 mg/day can be used if magnesium intake is particularly low. 
+After testing out the above secondary options over a 4- to 6-week period, you can try adding the following promising options. Add them in one at a time, separating each new addition by a 1- to 2 week period. 
+600–1,000 mcg/day of chromium picolinate in divided doses throughout the day, with meals containing carbohydrates 
+14
+500 mg of Cinnamomum cassia — as a powder or in capsule form — twice daily, with a meal containing carbohydrates, for 2 weeks. After this period, stop using for 2 weeks and then repeat this cycle for as long as desired. 
+1.2 g/day of pinitol with food. Though less studied, myo-inositol may be an alternative option if pinitol does not produce any notable results. To supplement with myo-inositol, take 4 g/day with food. 
+For people with insulin resistance 
+Take 300–500 mg of berberine three or four times per day (900–2,000 mg total) with, during, or very shortly after a meal containing carbs. Start at the low end of the range, since higher dosages are more likely to cause stomach discomfort and diarrhea. 
+After taking berberine for a week or two, take 25–30 mg/day (30–40 mg/day if you have high blood sugar) of elemental zinc sulfate or gluconate, preferably on an empty stomach. If this causes nausea or discomfort, take zinc with food that is not rich in phytates (grains, legumes, seeds, and nuts), as they may reduce zinc absorption. 
+After testing out berberine and zinc over a 2- to 4-week period, you can also add in 200–350 mg/day of elemental magnesium citrate, gluconate, or glycinate. Magnesium gluconate should be taken with a meal; other forms can be taken on an empty stomach. Take 200 mg/day of elemental magnesium to avoid deficiency or if you regularly consume magnesium-rich foods. Up to 350 mg/day can be used if magnesium intake is particularly low. 
+After testing out the above secondary options over a 4- to 6-week period, you can try adding the following promising options. 
+1.2 g/day of pinitol with food. Though less studied, myo-inositol may be an alternative option if pinitol does not produce any notable results. To supplement with myo-inositol, take 4 g/day with food. 
+For people with diabetes or prediabetes who exercise regularly 
+Zinc and magnesium can be lost in sweat, so regular exercisers and people who sweat a lot should be particularly mindful of their intake of these minerals. 
+Take 25–30 mg/day (30–40 mg/day if you have high blood sugar) of elemental zinc sulfate or gluconate, preferably on an empty stomach. If this causes nausea or discomfort, take zinc with food that is not rich in phytates (grains, legumes, seeds, and nuts), as they may reduce zinc absorption. 
+After taking zinc for a week or two, add in 200–350 mg/day of elemental magnesium citrate, gluconate, or glycinate. Magnesium gluconate should be taken with a meal; other forms can be taken on an empty stomach. Take 200 mg/day of elemental magnesium to avoid deficiency or if you regularly consume magnesium-rich foods. Up to 350 mg/day can be used if magnesium intake is particularly low. 
+For people on a high-carb diet 
+Take 300–500 mg of berberine three or four times per day (900–2,000 mg total) with, during, or very shortly after a meal containing carbs. Start at the low end of the range, since higher dosages are more likely to cause stomach discomfort and diarrhea. 
+15
+After taking berberine for a week or two, take 500 mg of Cinnamomum cassia — as a powder or in capsule form — twice daily, with a meal containing carbohydrates, for 2 weeks. After this period, stop use for 2 weeks and then repeat this cycle for as long as desired. 
+For people with polycystic ovary syndrome (PCOS) 
+Take 2–4 g of inositol-for-PCOS|myo-inositol] per day with food. 
+16
+Primary Supplements 
+Fiber 
+What makes fiber a primary supplement 
+Fiber can improve blood sugar control in healthy and diabetic individuals. It may also reduce the risk of developing type 2 diabetes. 
+Fiber is a category of carbohydrates resistant to digestion that pass through our small intestine to be excreted or fermented in the large intestine by microbes. Fiber helps slow down the absorption of carbohydrates, which explains why it — notably the soluble type — has a favorable effect on blood sugar regulation. 
+Primarily found in fruits, vegetables, legumes, and whole grains, fiber can be roughly divided into two categories. 
+Soluble fiber dissolves in your stomach into a gel that slows down the digestion of food. This gel also helps lower blood sugar by delaying and reducing carbohydrate absorption in the body.[48] Soluble fibers may also increase insulin sensitivity, possibly due in part to the short-chain fatty acids born from their fermentation by the gut microbiome.[49] 
+Insoluble fiber does not dissolve in your stomach but gently “scrubs” your digestive tract. It speeds up the rate at which food moves through your intestinal tract, yet it may also increase insulin sensitivity and bind to potentially harmful chemicals, such as carcinogens, allowing them to be excreted.[48][49][50] 
+How fiber may benefit insulin sensitivity 
+Adapted from McNabney and Henagan. Nutrients. 2017.[51] 
+17
+Soluble fibers with a higher viscosity have shown the greatest and most consistent results at improving blood sugar control, the most studied types being psyllium, guar gum, and beta-glucan.[52][53][54][55][56][57] Viscosity refers to the fiber’s ability to form a gel-like substance when mixed with fluids.[58] 
+Dietary requirements for fiber have been established as Adequate Intake (AI) levels.[59] The AI for fiber can be thought of as the minimum level needed to ensure nutritional adequacy. While the recommended intake for adults ranges from 21 to 38 g/day, the US average intake is just 16 g, which falls 23.8–57.9% below the AI.[60] 
+Adequate Intake (AI) for total fiber (g) 
+
+
+Reference: Institute of Medicine. Dietary, Functional, and Total Fiber (chapter 7 in Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids. The National Academies Press. 2005.)[59] 
+Getting more than the AI — up to 50 g/day — can provide further glycemic benefits, particularly in people with high blood sugar or advanced insulin resistance.[61]Intakes above 50 g/day may provide further benefits in these areas, but the improvements tend to be very small,[61] and many people may find it difficult to consume more than 50 g of fiber every day, even with supplementation. 
+A high-fiber diet has not only been shown to improve blood glucose control, especially in people with type 2 diabetes, but also been consistently associated with a decreased risk of type 2 diabetes.[62][63] Thus, fiber can help people with normal blood sugar maintain or modestly improve their blood glucose control while decreasing their type 2 diabetes risk. 
+It’s important to note that the vast majority of studies showing a reduction in type 2 diabetes risk from fiber intake were in people who consumed fiber primarily from food sources (i.e., people with lower diabetes risk tended to have a higher overall intake of vegetables, whole grains, fruits, legumes, etc.).[62]It is very likely that a diet rich in fiber will be better for diabetes prevention than relying on fiber supplements. 
+Warnings about fiber 
+To date, no Tolerable Upper Intake Level (UL) has been set for fiber.[59][64]Ill effects from a higher fiber intake vary greatly from person to person and may include flatulence, bloating, cramping, diarrhea, or general intestinal discomfort. These may be more common under the following circumstances: 
+18
+When consuming isolated fiber supplements 
+When fiber intake is abruptly increased 
+When consuming very high levels of fiber (>50 g/day) 
+When consuming highly fermentable fibers (e.g., guar gum, inulin/chicory root, pectin, beta-glucan, konjac glucomannan) 
+If not consumed with sufficient fluids, a high-fiber diet may cause a blockage in your intestines (aka an intestinal obstruction). This is a particular concern in people who may have impaired intestinal motility, which occurs when the nerves or muscles in your intestinal tract don’t function properly; this may cause intestinal muscle contractions to occur at an abnormally slow rate, which may cause food to get stuck. 
+A common ingredient in protein bars — isomalto oligosaccharide (IMO) — was once thought to be fiber, because it isn’t broken down early in the digestion process. But it was later found that IMO gets mostly absorbed in the small intestine, providing 2.7–3.3 calories per gram (compared with 4 kcal/g for fully digestible carbohydrates).[65][66][67] 
+While not inherently low in fiber, very low calorie, low-carbohydrate, and ketogenic diets can sometimes be lower in fiber than other diets due to a reduction in plant matter intake.[68][69][70] 
+Supplemental fiber may interfere with the absorption of digoxin (Digox, Lanoxin Pediatric, Digitek),[71] carbamazepine (Tegretol XR, Equetro, Epitol),[72]levothyroxine (Synthroid, Tirosint, Unithroid),[71] and lithium.[71] Do not take fiber within at least 30 minutes of taking these medications. It's possible that supplemental fiber may interfere with other medications not listed above. Out of caution, it may be prudent to separate pharmaceutical intake from fiber by at least 30 minutes as well. (This can also apply to other supplements). 
+Fiber supplements are not known to cause low blood sugar (i.e., hypoglycemic events), but it is theoretically possible — though not probable — when taken with other supplements or pharmaceuticals that can lower blood sugar, such as most antidiabetic drugs. 
+How to take fiber 
+First, try to eat your fiber via whole foods, as isolated fiber supplements do not fully replicate the health benefits obtained from fibrous foods. 
+19
+What 25 grams of fiber a day looks like\* 
+
+In people with impaired blood glucose control, taking ≈10–15 g/day of a supplemental soluble viscous fiber over at least 8 weeks has been shown to provide the following benefits: 
+HbA1c reduction of −0.88 to −0.28% 
+People with an HbA1c of ≥9.15% may see a −1.54 to −0.51% reduction. 
+Fasting blood glucose reduction of −1.32 to −0.31 mmol/L (−23.78 to −5.59 mg/dL) 
+People with a fasting blood glucose of ≥9.75 mmol/L (≥175 mg/dL) may see a −2.05 to −0.43 mmol/L (−36.94 to −7.75 mg/dL) reduction. 
+Fasting insulin reduction of −18.97 to +0.60 pmol/L (−2.73 to +0.09 mIU/L) 
+HOMA-IR (a measure of insulin sensitivity) reduction of −3.45 to −0.33 
+People with a HOMA-IR of ≥5.44 may see a −6.14 to −2.32 reduction. 
+The above potential benefits will be affected by your current fiber intake and baseline test values assessing blood glucose regulation. Also, a fiber supplement will perform better if it adds to your overall fiber intake, so don’t decrease your fibrous food intake simply because you start taking a supplement. 
+For all supplemental fiber options below, doses should be taken within 15 minutes before a meal, if not immediately before, and split evenly across meals. Start with the lowest suggested dose to see how you react before increasing, if needed. 
+To supplement with psyllium, take 10–15 g/day. Psyllium may be preferred for its high viscosity, which can aid in blood sugar regulation, and low degree of fermentation, which makes it less likely to produce unwanted side effects. In studies of soluble viscous fibers, it has also produced greater favorable effects on blood glucose control.[54] 
+To supplement with beta-glucan, take 5–10 g/day. Note that side effects may be more common with beta glucan compared with psyllium, as beta-glucan has higher fermentation potential. 
+To supplement with raw guar gum, take 10–20 g/day. It’s important to use raw guar gum, as partially hydrolyzed guar gum has low viscosity, which reduces its effectiveness.[73][74] Raw guar gum tends to have an undesirable taste and may be best consumed in capsule form, rather than added to foods or drinks. 
+20
+Alternatively, you can mix the options listed above, but keep an eye on your total dosage. For instance, in one day you could take one third of the upper dosage for psyllium (5 g), one third of the upper dosage for beta-glucan (≈3 g), and one third of the upper dosage for guar gum (≈6 g). 
+If you opt for a fiber blend supplement, make sure it is primarily composed of highly viscous soluble fibers, such as the ones listed above. Keep in mind, it’s difficult to know what effects various blends might have on blood sugar control or what dose to take. Broadly speaking, aim for ≈5–15 g/day. 
+Other soluble viscous fibers, such as xanthan gum, pectin, locust bean gum, konjac glucomannan, and the proprietary product PolyGlycopleX®(aka PGX), may be viable options but haven’t been well studied (or studied at all) with regard to blood sugar management. So their potential benefits or drawbacks are not as well documented. 
+21
+Functional properties and sources of dietary fiber 
+Adapted from McRorie. Nutr Today. 2015.[53] ● McRorie. Nutr Today. 2015.[73] 
+Regardless of where your fiber comes from (foods, supplements, or both), take these three steps to minimize unwanted side effects. 
+1. Gradually increase your fiber intake over a period of 1–2 weeks. This will allow time for your microbiome to adjust and help you identify your tolerance threshold. If taking a fiber supplement, begin with 3–4 g a day for the first few days before increasing your dose. 
+2. Ensure you are taking in enough fluids as you increase your fiber intake. A fiber intake of 40–70 g/day can be generally well tolerated, with sufficient fluid intake, in healthy adults without intestinal issues (e.g., IBD, IBS, celiac, Crohn’s, ulcerative colitis, low intestinal motility).[59]If your fiber supplement comes with instructions on how much fluid to consume per dose, follow these. If not, consume at least 355 mL (12 oz) of fluids for every 5 g of fiber. 
+3. Split your fiber intake evenly across meals to ease digestion. 
+22
+
+
+23
+Secondary Supplements 
+Berberine 
+
+
+What makes berberine a secondary option 
+Berberine can improve blood sugar control, HbA1c, and insulin sensitivity, particularly in those with type 2 diabetes. 
+Berberine is an alkaloid compound extracted from various plants, such as Berberis aquifolium, Berberis aristata, and Argemone mexicana. It can lower blood sugar levels by activating enzymes that draw blood glucose into cells and signaling that glucose should be used for energy production.[75] 
+Most berberine trials looking at blood glucose control have lasted 3 months, with a few trials lasting longer (four RCTs were ≥6 months). But it’s unclear how long it takes to see the full effects of berberine. 
+In six placebo-controlled trials conducted in China, berberine lead to a large reduction in blood sugar levels and HbA1c in patients with type 2 diabetes.[76]It may do the same and improve insulin sensitivity in people who are not type 2 diabetic but have impaired blood glucose control or insulin resistance.[77][78][79] Additionally, extracts and juices derived from the berberine-containing barberry fruit showed similar results (i.e., reduced blood sugar and HbA1c, improved insulin sensitivity) in people with type 2 diabetes.[80][81][82][83] 
+Further research has compared berberine to antidiabetic drugs and compared berberine + antidiabetic drugs to the drug alone. This research suggests that using berberine along with either of the diabetes drugs metformin or gliclazide is more effective than berberine or the drugs are separately. Some results indicated that berberine may be just as effective as some pharmaceuticals, such as metformin, gliclazide, and glyburide.[76] 
+Despite many studies suggesting a notable benefit of berberine supplementation, the quality of the studies presents some limitations. For example, detailed information about the blinding of participants (i.e., if they knew they were taking berberine or a placebo) is absent from many of the studies conducted in type 2 diabetes patients, which increases the risk for bias. So, while we have good reason to believe that berberine is effective in managing blood glucose, just how effective remains to be seen. 
+24
+Warnings about berberine 
+While low blood sugar (i.e., hypoglycemic events) has not been readily observed in clinical trials, no long term trials tracked this outcome. It is possible berberine may cause low blood sugar, so some caution is 
+warranted, particularly when taken with supplements or pharmaceuticals that can lower blood sugar.[84] If 
+you are taking any medication that can lower blood sugar, do not begin taking berberine without talking to your physician. 
+Research assessing berberine’s safety tends to be short term, making it difficult to predict adverse effects with prolonged use. The larger, more effective doses (1.5 g/day or more) of berberine may lead to a higher occurrence of adverse effects.[85] While major adverse events haven’t been associated with berberine supplementation, gastrointestinal symptoms such as nausea, diarrhea, constipation, and abdominal swelling from gas or fluid may result from taking high doses. 
+Berberine should only be taken by people with elevated fasting blood sugar (≥5.55 mmol/L; ≥100 mg/dL) or HbA1c (≥5.7%). Most of the research is in type 2 diabetics, and much of the rest is in people at risk for becoming diabetic. While it’s possible that berberine could help people with normal blood sugar levels and insulin sensitivity maintain lower fasting blood sugar, it’s not clear if the benefits outweigh the risks when used consistently for years. Additionally, it’s unclear if berberine can provide any benefit for people with gestational diabetes or polycystic ovary syndrome (PCOS),[86] a condition that is often accompanied by insulin resistance.[86] 
+Berberine interacts with several enzymes and thus has the potential to interact with many pharmaceuticals. Not all are known, but documented drug interactions include losartan (Cozaar), dextromethorphan (Vicks, Robitussin, Tussin Cough, Delsym), midazolam (Versed), and various oral contraceptives.[87] Do not take berberine if you are on cyclosporine (Neoral, Sandimmune, Gengraf), as berberine may interfere with its metabolism. 
+Do not supplement with berberine if pregnant or breastfeeding, as it has barely been studied under these conditions. What studies we do have point to some potential harm (unusual uterine contractions, miscarriage, and kernicterus in jaundiced newborns), but these events are not confirmed to be caused by berberine.[88][89] Even so, caution is warranted until more research has been conducted. 
+Lastly, berberine can increase bilirubin levels (a substance found in bile, which aids digestion), which may interfere with lab tests of bilirubin. If you plan on getting this tested, stop taking berberine at least 7 days prior to testing. 
+How to take berberine 
+Take 300–500 mg of berberine three or four times per day (900–2,000 mg total) before or with a meal, especially any containing carbohydrates. It could also be taken immediately following a meal, but this may lessen berberine’s effects. Start at the low end of the range, as higher doses are more likely to cause an upset stomach and/or diarrhea. 
+People with type 2 diabetes who are not currently taking pharmaceuticals for their condition may see a reduction in fasting blood sugar between −1.37 and −0.67 mmol/L (−24.68 to −12.07 mg/dL) and a reduction in HbA1C of −0.90 to −0.44%. 
+People with type 2 diabetes who are currently taking pharmaceuticals for their condition may see a reduction in fasting blood sugar between −1.03 and −0.47 mmol/L (−18.56 to −8.47 mg/dL) and a reduction 25
+in HbA1C of −1.29 to −0.05%. 
+In people who have signs of prediabetes, berberine supplementation may lead to reductions in blood sugar, HbA1c, and insulin resistance. However, far less research has been conducted on this population than in people with type 2 diabetes, so what improvements may be seen are much less certain. 
+Individual results for all the above scenarios will vary depending on berberine dosage. A higher dose is more potent until about 1.5 g/day, after which it’s not known if doses exceeding this are better. Age can also influence how effective berberine can be, because it may become a little less effective after 50, as can the type of diabetes medication, if any, being taken.[76]In the case of those taking glipizide, adding berberine may only lead to a small improvement. With those taking metformin, the addition of berberine appears to lead to moderate improvement.[76] 
+Inositol (for PCOS) 
+
+
+What makes inositol a secondary option 
+In females with polycystic ovary syndrome (PCOS), inositol (myo-inositol specifically) can reduce insulin resistance and fasting insulin levels. 
+Inositol encompasses nine vitamin-like compounds that are structurally similar to blood glucose. The most common of those, in nature as well as in health stores, is called myo-inositol. Supplemental myo-inositol is often called just “inositol” or sometimes “vitamin B8” (a misnomer, as inositol is not related to the B vitamins, nor is it a true vitamin). 
+Inositol is in most foods, notably whole grains and citrus fruits, and your body can produce it, so dietary deficiencies are rare.[90]Insulin resistance, however, can lower your levels of inositol,[90][91] which in turn lowers levels of PIP3 (a component of cell membranes), resulting in poor insulin signaling. 
+For PCOS, studies suggest that inositol can notably reduce insulin resistance and modestly reduce fasting insulin levels.[92][93][94][95][96] There’s also the question of efficacy when combining different inositol forms. One study found that 1,100 mg of myo-inositol and 27.6 mg of D-chiro-inositol daily was more effective at improving blood sugar control than 2,000 mg of myo-inositol alone 3 months into the study, but no differences were noted at 6 months.[97]It’s possible that this combination may lead to more rapid 
+improvements in the short term, but results may level out in the long term. This is currently an open 26
+research question. 
+Warnings about inositol 
+Studies haven’t reported notable adverse effects from taking inositol, though they haven’t been particularly meticulous about their accounting.[98] Myo-inositol might cause some gastrointestinal discomfort, but this is not a frequent occurrence. 
+In pregnant females taking up to 4 g of myo-inositol, no notable adverse effects were noted in the females or in their babies at birth.[99][100][101] There is insufficient evidence on the effects of taking myo-inositol while breastfeeding. 
+How to take inositol 
+While there are a few forms of inositol, myo-inositol is the most extensively researched form for PCOS. To supplement with myo-inositol, take 2–4 g/day with food. 
+Females with PCOS taking myo-inositol may see a reduction in fasting insulin between −12.43 and −1.74 pmol/L (−1.79 to −0.25 mIU/L) and their HOMA-IR score (a measure of insulin sensitivity) between −1.15 and −0.03. 
+Magnesium 
+What makes magnesium a secondary option 
+Magnesium may help improve insulin sensitivity, especially in people with type 2 diabetes or prediabetes who have low magnesium levels. 
+27
+Role of magnesium in diabetes and cardiovascular disease Adapted from Bo and Pisu. Curr Opin Lipidol. 2008.[102] 
+Magnesium is a factor in blood sugar metabolism[103] and may also assist in regulating inflammation, thus improving insulin sensitivity.[104] 
+It has been estimated that in developed countries, hypomagnesemia (subnormal magnesium levels in the blood) affects less than 15% of healthy people but up to 50% of people with type 2 diabetes.[105] Low magnesium intake is common in the US, as seen below. This is important because patients with low magnesium levels and type 2 diabetes can end up in a vicious cycle, with low magnesium increasing insulin resistance, which in turn decreases magnesium levels.[103] 
+28
+Suboptimal magnesium intake is common in the US 
+Reference: Rosanoff et al. Nutr Rev. 2012.[106] 
+The good news is, supplementing with magnesium can improve insulin sensitivity and modestly reduce fasting blood sugar levels in people with hypomagnesemia.[107][108][109] 
+The effects of supplementation in people with normal magnesium levels are less clear, but they don’t seem to be as potent. If you have been diagnosed with diabetes, it may be worth testing your magnesium levels before beginning supplementation. 
+Warnings about magnesium 
+High doses of supplemental magnesium can cause diarrhea and general intestinal discomfort;[110] fortunately, magnesium obtained via food has not been seen to cause such problems.[110] 
+Tolerable Upper Intake Level (UL) for supplemental magnesium (mg) 
+
+
+Reference: Institute of Medicine. Magnesium (chapter 6 in Dietary Reference Intakes for Calcium, Phosphorus, Magnesium, Vitamin D, and Fluoride. The National Academies Press. 1997.)[111] 
+Magnesium can lower blood sugar and may have additive effects when taken with other supplements or pharmaceuticals that can lower blood sugar, such as antidiabetic drugs. 
+But magnesium may impair the absorption of other pharmaceuticals, notably bisphosphonates and antibiotics, especially those in the tetracycline class (e.g., doxycycline) or quinolone class (e.g., ciprofloxacin).[112] Take magnesium at least 6 hours apart from bisphosphonates or antibiotics. 
+29
+Potential drug interactions with magnesium 
+Reference: Pazianas et al. Ther Clin Risk Manag. 2013.[112] ● Crippa et al. Ann Ital Med Int. 1999.[113] 
+Certain diuretics, proton pump inhibitors, and the antifungal medication amphotericin B can cause significant magnesium loss.[114][115]. However, potassium-sparing diuretics (e.g., amiloride, eplerenone/Inspra, spironolactone/Aldactone, triamterene/Dyrenium) may not.[114] 
+Since calcium, iron, magnesium, and zinc compete for absorption, it is better to take them at least one hour apart from each other. 
+Because magnesium might have a sedative effect and improve sleep quality, it is best to take it before bed. How to take magnesium 
+There is no single agreed-on, satisfactory method for assessing magnesium status.[116] To get a better sense of your_ _typical magnesium intake, you should track what you eat for a week. If, on average, you are getting less than 80% of your Recommended Dietary Allowance (RDA), supplementation becomes an option, but you should first try eating more foods rich in magnesium. 
+Recommended Dietary Allowance (RDA) for magnesium (mg) 
+
+
+30
+
+
+* Adequate intake (AI) 
+Reference: Institute of Medicine. Magnesium (chapter 6 of Dietary Reference Intakes for Calcium, Phosphorus, Magnesium, Vitamin D, and Fluoride. The National Academies Press. 1997.)[111] 
+If you cannot get enough magnesium through foods, start supplementing with 200 mg of magnesium once a day. Capsules with 400 mg are common, but keep in mind that the Tolerable Upper Intake Level (UL) for supplemental magnesium for adults is 350 mg. The higher the dose, the higher the risk of gastrointestinal issues. 
+If your magnesium intake is very low, take up to 350 mg of magnesium once a day. 
+People with elevated blood sugar taking magnesium may see a reduction in fasting blood sugar of −0.82 to −0.2 mmol/L (−14.77 to −3.60 mg/dL) after 3 months of supplementation, with greater reductions more likely in those with lower starting magnesium levels. 
+Commonly supplemented forms include citrate, gluconate, and glycinate. To increase absorption, magnesium gluconate should be taken with food; other forms can be taken on an empty stomach. Avoid magnesium oxide. It has poor bioavailability (rats absorbed only 15% in one study;[117] humans, only 4% in another[118]) and is especially liable to cause intestinal discomfort and diarrhea.[118][119][120] 
+Oral bioavailability of various magnesium salts in humans Reference: Ranade et al. Am J Ther. 2001.[121] 
+Zinc 
+What makes zinc a secondary option 
+Zinc can aid in improving insulin sensitivity, especially in people with type 2 diabetes or prediabetes who have low zinc levels. 
+Zinc is an essential dietary mineral. Around one fifth of the world’s population is thought to be at risk for zinc deficiency, but low zinc intake is rarer in developed countries, in part due to higher meat consumption.[122][123] 
+31
+Dietary zinc isn’t the only consideration when it comes to zinc status, however. People with type 2 diabetes or insulin resistance may be more likely to have low levels of zinc in their blood. This doesn’t seem to be explained by differences in intake; it’s more likely that the disease itself may reduce zinc levels.[124] A reduction of zinc levels due to insulin resistance may create a vicious cycle: Insulin resistance lowers zinc levels, and lower zinc levels worsen insulin resistance, due to the role zinc plays in blood sugar metabolism and insulin secretion.[125][126][127] 
+Possible benefits of zinc supplementation in people with type 2 diabetes 
+Reference: Ranasinghe et al. Daru. 2015.[126] 
+For people with type 2 diabetes or prediabetes, a zinc supplement can improve insulin sensitivity and thus lower levels of fasting blood sugar and HbA1c (a measure of average glucose levels over the past ≈3 months).[128][129][130][131][132][133][134][135][136][137][138] On the whole, supplementation trials support the use of zinc for this purpose, but there’s a fair bit of inconsistency among them. This may be explained by the simple fact that zinc supplementation is only likely to have an effect if the dose is high enough and taken for long enough to increase zinc status or if zinc status is very low to begin with. For these reasons, not everyone with high fasting blood sugar levels will see notable results. 
+It’s not known if maintaining adequate zinc intake preserves insulin sensitivity or prevents type 2 diabetes in healthy, nonobese people. There are barely any trials that can assess prevention, and these trials aren’t nearly long enough to do so, though we can’t yet rule out the possibility.[139][140][141] However, in people who 
+32
+are overweight or obese and insulin resistant but not prediabetic or diabetic, zinc supplementation may reduce insulin resistance. The evidence for this isn’t as strong as for people with type 2 diabetes, though, and the effects are not nearly as pronounced.[142] 
+Warnings about zinc 
+Zinc should be taken with food to prevent potential nausea, but studies observing nausea have used large doses, so it’s unclear what risk there is when not exceeding the Tolerable Upper Intake Level (UL) (see table below). Since calcium, iron, magnesium, and zinc compete for absorption, it is better to take them at least one hour apart. 
+Although to a lesser extent than magnesium, zinc may also impair the absorption of antibiotics, notably the tetracycline (e.g., doxycycline) and quinolone (e.g., ciprofloxacin) classes, so consider taking zinc and antibiotics at least 6 hours apart. Zinc can also impair the absorption of penicillamine, a drug used to treat rheumatoid arthritis, so these should be taken at least 2 hours apart. Thiazide diuretics may increase zinc excretion, thus causing zinc deficiency if taken in the long term.[143] 
+Excessive intake of zinc can be toxic and cause copper deficiency, and high-dose supplementation increases this risk.[144][145] Do not exceed the UL for zinc for more than 2 weeks unless under the direction and supervision of a physician. 
+Zinc can lower blood sugar and may have additive effects when taken with other supplements or pharmaceuticals that can lower blood sugar, such as antidiabetic drugs. 
+Tolerable Upper Intake Levels (ULs) for zinc (mg) 
+
+
+Reference: Institute of Medicine. Zinc (chapter 12 in Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc. The National Academies Press. 2001.)[146] 
+How to take zinc 
+First, you should determine if you really need to supplement with zinc. This can be done by checking your current blood plasma levels, but this test is not always very accurate,[147] so it can be more practical to track your food intake for a week to determine your average dietary zinc intake. 
+If, on average, you are getting less than 80% of your Recommended Dietary Allowance (RDA), supplementation becomes an option, though you should first try eating more foods rich in zinc. 
+33
+If you have high blood sugar or insulin resistance, getting your zinc levels tested may be a better option, as you could have an adequate dietary intake but still have low blood levels.[124] 
+Blood plasma zinc status 
+
+
+Reference: Yanagisawa. JMAJ. 2004. Vol:47-9:359–364 
+In case of deficiency or severe deficiency, a medically supervised intervention will be needed. Do not begin supplementing without discussing it with your physician first. Common medical interventions include taking a short-term oral dose of 1–2 mg/kg/day of elemental zinc; for severe deficiency, a short-term oral dose of 3 mg/kg/day may be used.[148][149] 
+In cases of mild deficiency, 30–40 mg per day of elemental zinc for 2–4 weeks may raise zinc levels to normal, at which point 10–20 mg/day may suffice for maintenance. 
+In people on the lower end of the normal range (12.9–16.7 µmoI/L, 84–109 mcg/dL) with: 
+normal blood sugars and no insulin resistance: take 5–10 mg/day of elemental zinc for maintenance elevated blood sugars or insulin resistance: take 20 mg/day of elemental zinc 
+In people on the higher end of the normal range (18.6–24.3 µmoI/L, 121.5–159 mcg/dL), a zinc supplement may not be necessary, but taking 5 mg/day of elemental zinc may help maintain normal levels. 
+In cases of intoxication (which can cause serious adverse effects), do not supplement with zinc, cease use of any zinc-containing supplements unless specifically instructed to by a medical professional, and consult your physician. 
+If you do not know your zinc levels and cannot get them tested but are intent on taking a zinc supplement, it would be prudent to limit yourself to a maintenance dose of 5–20 mg/day. If you cannot get your levels tested and have high blood sugar or insulin resistance, take up to 20 mg/day of elemental zinc. 
+The Recommended Dietary Allowance (RDA) for zinc for adults ranges from 8–12 mg/day.[146] While the 20– 40 mg/day doses discussed here exceed that, they do not exceed zinc’s Tolerable Upper Intake Level (UL) of 40 mg/day.[146] 
+Zinc sulfate and gluconate are the most researched forms of oral supplementation and are preferred. Zinc citrate seems to have comparable absorption to gluconate, whereas zinc oxide is less well absorbed.[150] Zinc picolinate and bis-glycinate may have greater absorption rates than gluconate, but more research is needed.[151][152] 
+Zinc absorption can be reduced if consumed with foods rich in phytates — namely, grains, legumes, seeds, and nuts.[153][154]If you’re unable to take zinc on an empty stomach, the next best way is with some low phytate food. 
+People with type 2 diabetes, prediabetes, or insulin resistance taking zinc may see a reduction in fasting 34
+blood sugar of −1.27 to −0.16 mmol/L (−22.88 to −2.88 mg/dL) and in HbA1c of −1.56 to −0.06%. Greater effects are more likely when baseline zinc levels are lower. 
+Effect of zinc vs placebo on glycemic control in people with prediabetes 
+
+* Measures were only taken at months 6 and 12. 
+Reference: Ranasinghe et al. J Diabetes. 2018.[135] 
+35
+Promising Supplements 
+Chromium 
+What makes chromium a promising option 
+Chromium supplements may improve overall glycemic control in people with type 2 diabetes 
+Chromium is a trace element involved in insulin signaling to some degree, though just how remains a matter of debate.[155][156] There is no standard and universally recognized measure of chromium status, but chromium levels in whole blood, blood plasma, toenails, and hair tend to be lower in people with type 1 or 2 diabetes than in people with normal blood sugar.[157][158][159][160][161][162][163] This is likely a result of increased chromium excretion (via urine, sweat, etc.) due to insulin resistance.[157] 
+Many randomized, controlled trials have evaluated chromium supplementation in type 2 diabetes. There’s solid evidence for modest reductions in fasting glucose and HbA1c but only limited evidence for improving fasting insulin and insulin resistance.[164] Studies are of moderate quality overall but inconsistent, with many finding a neutral effect and a few indicating a worsening in the chromium group.[165][166][167]It’s not clear why studies differ, though the severity of diabetes and baseline chromium levels are possible reasons. Research in females with polycystic ovary syndrome (PCOS) suggests a possible reduction in fasting glucose, insulin, and insulin resistance, but more research is needed to confirm this.[168][169][170] 
+It's unknown if taking chromium will improve insulin sensitivity or prevent the development of T2D. Only a single observational study has been conducted and, while it found chromium supplementation decreased the risk of developing T2D, no firm conclusions should be drawn from this.[171] 
+In a short-term clinical trial, a single dose of chromium with a meal reduced the post-meal blood sugar spike in healthy subjects.[172] Yet results from longer-term clinical trials in healthy subjects are mixed and don’t generally support the use of chromium for blood sugar management in this 
+population.[173][174][175][176][177][178] 
+Warnings about chromium 
+Adverse effects weren’t common in the studies that looked at chromium for type 2 diabetes, and no clear link between chromium supplementation and adverse effects can be made. The lack of observed chromium toxicity has led to a lack of Tolerable Upper Intake Levels (UL) for chromium, but supplemental chromium’s long-term safety hasn’t been sufficiently studied. To date, only an Adequate Intake (AI) for chromium has been set. 
+Adequate Intake (AI) for chromium (mcg) 
+
+
+36
+
+
+Reference: Institute of Medicine. Chromium (chapter 6 in Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc. The National Academies Press. 2001.)[146] 
+Chromium may interact with the medications listed below. If you take any of these, check with your physician before taking chromium. There have been a few instances where kidney or liver harm was reported in people with existing kidney or liver disease taking chromium. If you have preexisting kidney or liver disease, it would be advisable to avoid taking chromium. 
+Possible chromium-medication interactions 
+
+
+Adapted from Chromium: Dietary Supplement Fact Sheet. NIH ODS. Last updated July 9, 2019; accessed October 27, 2019. 
+Some supplements and multivitamins may “superdose” their product with chromium. Though chromium picolinate is generally considered nontoxic, chromium toxicity is not unheard of.[146] 
+The dosages listed in this guide may lower blood sugar and may have additive effects when taken with other supplements or pharmaceuticals that lower blood sugar, such as antidiabetic drugs. 
+37
+Potential adverse effects of chromium toxicity 
+Reference: Cerulli et al. Ann Pharmacother. 1998.[179] 
+How to take chromium 
+Take 600–1,000 mcg/day of chromium picolinate. It’s best to divide the dose throughout the day and take it with meals, particularly meals containing carbohydrates. 
+People with type 2 diabetes taking chromium picolinate may see a reduction in fasting blood sugar of −2.03 to −0.07 mmol/L (−36.58 to −1.26 mg/dL) and a reduction in HbA1c of −1.13 to −0.22%. 
+While other forms of chromium have been tested, such as brewer’s yeast and chromium chloride, studies to date have not indicated notable or reliable benefits to blood sugar management. 
+38
+Cinnamon 
+What makes cinnamon a promising option 
+In people with type 2 diabetes or prediabetes, particularly if their HbA1c is 8% or higher, cinnamon may be able to reduce fasting blood sugar levels and make small improvements to their HbA1c. 
+Cinnamon is a spice extracted from the bark of various _Cinnamomum _evergreen trees, such as the Cinnamomum cassia (which provides cassia cinnamon) and Cinnamomum verum (aka Cinnamomum zeylanicum, which provides ceylon cinnamon or “true cinnamon”). 
+Some of the chemicals in cinnamon aid in increased insulin production, while others increase insulin sensitivity, allowing cells to respond more readily to insulin.[180]If taken daily, cinnamon can reduce fasting blood sugar in people with elevated levels, commonly seen in people with type 2 diabetes or prediabetes. Cinnamon is heavily researched, as far as supplements go, and these findings are based on a large number of human studies.[181][182][183][184][185][186][187][188][189][190][191][192][193][194][195][196][197][198] Though there’s a notable effect as a whole, studies are inconsistent, likely owing to differences in the severity of glucose intolerance and cinnamon dosages used — with people who took less than 2 g daily experiencing less reliable effects. 
+39
+Cinnamon’s proposed antidiabetic mechanisms of action Reference: Medagama. Nutr J. 2015.[180] 
+Cinnamon may reduce insulin resistance in people whose fasting blood sugar levels aren’t yet in the prediabetic range (5.6–7.0 mmol/L; 100–125 mg/dL) but are at risk for diabetes later in life, such as those with non-alcoholic fatty liver disease and polycystic ovary syndrome (PCOS).[199][200][201] However, more research is needed on this specific health endpoint. 
+When taken with carbohydrates by people with normal blood sugar, cinnamon may also modestly tame the post-meal spike in blood sugar levels (though mostly in the studies that used high doses of 6 g at a single meal).[202][203][204][205][206][207][208][209][210][211] Cinnamon for reducing blood sugar spikes in the hours after a meal hasn’t been studied in people with insulin resistance, so it’s unclear whether it would have an effect. It also isn’t known if taking cinnamon will reduce the risk of developing glucose intolerance in the future when taken by people with normal blood sugar. 
+Though multiple studies suggest cinnamon can lower both blood sugar and insulin levels, much more research is needed to determine the optimal dosage and timing and specific populations that may benefit from it. 
+40
+Warnings about cinnamon 
+If you have liver disease or liver damage, had a liver transplant, or are taking any drugs that can be hard on the liver (see this searchable database), do not supplement with Cinnamomum cassia (cassia cinnamon). 
+Cinnamon contains coumarin, a potential liver toxin. Cassia cinnamon is especially rich in coumarin.[212][213] Even regular consumption of small amounts can place your coumarin intake over the tolerable daily intake (TDI) threshold of 0.1 mg/kg body weight, set by the European Food Safety Authority.[214] While it appears many people may be able to safely and regularly consume daily amounts above this threshold, some 1–9% of individuals may be more sensitive to low doses of coumarin, which can result in liver injury and hospitalization.[213] 
+Major metabolic pathways of coumarin 
+Reference: Abraham et al. Mol Nutr Food Res. 2010.[213] 
+The coumarin content of cassia cinnamon can vary widely, and there is no easily accessible method for determining the content of the cinnamon you might buy. Additionally, there is currently no easy way to determine if you might be sensitive to coumarin. Thus, the dosage and intake schedule for cassia cinnamon in this guide are particularly cautious, to greatly minimize the potential for adverse effects. 
+Additional effects may include headaches, heartburn, and gastrointestinal complaints.[215] 
+In addition to lowering blood sugar, cinnamon may also reduce blood pressure. It is possible that cinnamon may have additive effects when taken with some antidiabetic or blood pressure pharmaceuticals or supplements. 
+How to take cinnamon 
+41
+Take 500 mg of cassia cinnamon_ _twice daily, each time with a meal containing carbohydrates, for 2 weeks. After this period, stop for 2 weeks and then repeat this cycle for as long as desired. 
+Research has indicated that higher doses, such as 3 or 6 g/day, can deliver quicker results and larger improvements, but the potential for liver harm via coumarin is much greater.[181][213] A 2 g/day dose of cassia cinnamon can put many people over the TDI for coumarin.[213][214]If you’re considering using cinnamomum verum (ceylon cinnamon)_ _as an alternative, know that there are far fewer studies looking at the effects of this cinnamon type on blood sugar regulation. At present, the available studies have not found a consistent, worthwhile effect.[207][216] 
+Cinnamon supplements should be dosed as a powder, mixed with food or in capsule form. While cinnamon water and oil extracts are widely available, these forms aren’t commonly standardized and can contain wildly different amounts of cinnamon compounds. Without knowing what compounds are in these extracts, it is difficult to know how effective they might be, if at all. 
+Similarly, cinnamon infusions and teas are also difficult to dose properly. While these methods have the advantage of eliminating some of the coumarin, most of which is left behind in the dregs,[217] there is insufficient evidence to say how these preparation methods affect the compounds responsible for cinnamon’s blood sugar–lowering effects. 
+People with type 2 diabetes or prediabetes taking a 2 g daily dose (so, twice as much as the dose we recommend above to minimize toxicity risks) may see a change in fasting blood sugar of −1.99 to +0.61 mmol/L (−35.77 to +10.95 mg/dL). While it’s unclear if notable reductions in HbA1c will be seen, on average, with the 1 g daily doses recommended here, it’s possible that people with HbA1c levels over 8% may see a small benefit. Greater beneficial effects for fasting blood sugar might be more likely when HbA1c levels are at a higher starting point. 
+Inositol (for type 2 diabetes and prediabetes) 
+
+
+What makes inositol a promising option In people with type 2 diabetes or prediabetes, inositol (pinitol, specifically) may improve glycemic control. 42
+Inositol encompasses nine pseudovitamins structurally similar to glucose. The most common of those pseudovitamins, in nature as well as in health stores, is called myo-inositol. Supplemental myo-inositol is often called just “inositol” or sometimes “vitamin B8” (a misnomer: inositol is not related to the B vitamins, nor is it even a vitamin). 
+Inositol is in most foods — notably, whole grains and citrus fruits — so dietary deficiencies are rare. Some diseases, however, can lower your levels of inositol,[90][91] which translates to lower levels of PIP3 (a component of cell membranes), resulting in impaired insulin signaling. 
+For people with impaired glucose tolerance, such as in type 2 diabetes, the most studied form of inositol for this condition is 3-O-Methyl-D-chiro-inositol (pinitol). Overall, studies suggest it helps reduce fasting blood sugar and insulin resistance,[218][219][220][221][222][223][224][225] and four that found considerable reductions were generally of longer duration than the others.[218][219][222][223] 
+When it comes to people without insulin resistance, little research has been conducted to date.[226] Warnings about inositol 
+Studies haven’t reported notable adverse effects from taking inositol, but they also haven’t been particularly meticulous about their accounting.[98]Inositol might cause some gastrointestinal discomfort, although this is not a frequent occurrence. 
+In pregnant females supplementing with up to 4 g of myo-inositol, no notable adverse effects were noted in the females or in their babies at birth.[99][100][101] There is insufficient evidence on the effects of taking myo inositol while breastfeeding. 
+How to take inositol 
+There are a few forms of inositol. The pinitol form (more commonly sold under the name D-chiro-inositol) is the more well researched form for type 2 diabetes and prediabetes. 
+To supplement with pinitol, take 1.2 g/day with food. 
+People with type 2 or prediabetes taking pinitol may see a reduction in fasting blood sugar of −0.89 to −0.55 mmol/L (−16.0 to −9.9 mg/dL); in their HOMA-IR score (a measure of insulin sensitivity) of −3.34 to −0.08; and in their HbA1c of −0.83 to −0.48%. 
+Though less studied, myo-inositol may be an alternative option if pinitol does not produce any notable results. 
+To supplement with myo-inositol, take 4 g/day with food. 
+43
+Unproven Supplements 
+Banaba Leaf 
+What makes Banaba leaf an unproven option 
+Banaba leaf (Lagerstroemia speciosa) is a source of corosolic acid and ellagitannins, compounds that can increase the uptake of blood sugar by your cells.[227][228] Corosolic acid can also reduce the rate of carbohydrate absorption during digestion in mice and inhibit gluconeogenesis (the process by which your body makes glucose).[227][229] 
+Corosolic acid appears to improve insulin signaling, but more human studies are needed to confirm this. The clinical research is limited to two small, low-quality studies[230][231] and three that combined Banaba with other herbs, thus not revealing how effective Banaba is alone.[232][233][234] 
+44
+Corosolic acid’s proposed antidiabetic mechanisms of action Reference: Miura et al. Complement Alternat Med. 2012.[227] 
+Branched Chain Amino Acids (BCAAs) What makes BCAAs an unproven option 
+Proteins are composed of amino acids, some of which your body can make and others it cannot. The ones you need to ingest, because your body cannot synthesize them, are called essential amino acids (EAAs). The best-known EAAs are the three BCAAs: isoleucine, leucine, and valine. These amino acids, both in isolation and in combination, can influence the body’s response to carbohydrates.[235][236] A combination of BCAAs, as well as isoleucine and leucine in isolation, have been tested to see how they might affect blood sugar control. 
+45
+In four small, short-term trials (typically <24 hours) of BCAAs, a one-time dose of ≈7.5 g was not able to reliably lower blood sugar or affect insulin secretion in healthy, trained, young males.[237][238][239][240] 
+In two small, short-term trials of isoleucine[241][242] and two small, short-term trials of leucine[241][243] (each <24 hours), 7–10 g — but not 5 g — was able to notably increase insulin production and lower blood sugar when taken with carbohydrates, compared with carbohydrates alone, in healthy young to middle-aged males and females. 
+However, in longer trials — lasting 15 days,[244] 3 months,[245] and 6 months[246] — daily doses of leucine ranging from 7.5 to 12 g did not improve fasting blood sugar or insulin, HbA1c, or responses to an oral glucose tolerance test (OGTT) in adults with normal blood sugar or those with type 2 diabetes. Combined, these three interventions tested nearly 100 people, 60 of whom had type 2 diabetes. 
+Given the amount of evidence from cellular and animal studies indicating BCAAs do play a role in blood sugar regulation, ensuring you get an adequate amount of BCAAs in your diet may be prudent.[247][248] 
+Generally speaking, the daily minimum BCAA requirement for adults is: 
+40–50 mg/kg/day for leucine 
+20–30 mg/kg/day for isoleucine 
+17–25 mg/kg/day for valine 
+This is 77–105 mg/kg of BCAAs per day.[249] For a 68 kg (150 lb) person, this would be 5.2–7.1 g of BCAAs per day (more examples can be seen in the table below). For reference, 85 g (3 oz) chicken breast provides 4.6 g of BCAAs), and 237 mL (8 oz) of milk has 2 g. 
+Adequate BCAA intake per day 
+Reference: Kurpad et al. J Nutr. 2006.[249] 
+46
+Creatine 
+What makes creatine an unproven option 
+Creatine might modestly improve insulin sensitivity — when paired with regular exercise — in people with insulin resistance. 
+There is strong mechanistic evidence indicating creatine can play a role in blood sugar management, but under what conditions and to what degree is presently not well known.[250] The best available evidence indicates that creatine may help reduce blood sugar in people who exercise regularly. There are three main avenues through which creatine may influence blood sugar.[250] 
+1. It can increase blood sugar uptake during muscle contractions, particularly during exercise. 
+2. Via indirect stimulation, it may increase insulin secretion, thus speeding blood sugar clearance from the bloodstream. 3. By increasing exercise performance, which can further improve insulin sensitivity. 
+In studies testing creatine’s modulating effects on blood sugar, results have indicated that it may produce minor improvements in insulin sensitivity and fasting blood sugar.[251][252][253][254][255][256] Yet, positive effects have not been seen across all studies.[254][257][258][259] What’s more, the majority of these studies have been conducted in healthy subjects; only three RCTs to date were conducted in people with type 2 diabetes or signs of metabolic syndrome.[252][259][260] 
+However, there are a couple of major caveats to consider. 
+People who had poorer blood sugar control were more likely to experience the greatest improvements, small as they may be.[252][253][259][260] 
+The positive effects on blood sugar occurred more commonly in trials where creatine was paired with exercise.[251][252][253][258][260][261] Creatine alone may not be enough to affect relevant endpoints (insulin sensitivity, fasting glucose/insulin, glycemic control, etc). 
+If you want to give creatine a try, the dose best supported by current evidence is 5 g of creatine monohydrate per day with food. People with more muscle mass may benefit from as much as 10 g/day, but this claim is not fully supported by evidence. To supplement with 10 g/day, take 5 g twice a day. 
+In people with elevated blood glucose or insulin resistance, 5 g of creatine, when paired with exercise, might lead to a −11.04 to −0.69 pmol/L (−1.59 to −0.01 mIU/L) reduction in fasting insulin and a change in HOMA-IR (a measure of insulin sensitivity) of −1.7 to +0.59, particularly in people with insulin resistance. Negligible effects are seen in individuals with normal blood sugar levels. 
+Glycine 
+What makes glycine an unproven option 
+Glycine is a nonessential amino acid that has a number of roles in the body, including as a neurotransmitter and as a component of collagen, which helps form your skin, tendons, and ligaments. Blood levels of 
+47
+glycine tend to be low in type 2 diabetics, and a number of reasons have been proposed for this.[262] Research examining these ideas indicates supplemental glycine may cause a reduction in inflammation and an increase in insulin production. 
+When it comes to human trials, glycine appears to be a promising supplement, as it can reduce the rise in circulating blood sugar in the short term and reduce fasting blood sugar and HbA1c if taken daily.[263][264]It’s an unproven option because, of the studies that have been conducted, nearly all lasted <24 hours — necessitating further higher-quality and longer-term ones to establish its blood sugar impact. 
+However, if you want to give glycine a try anyway, the dose best supported by current evidence is 15 g/day of glycine divided into 5 g doses, taken right before a meal. 
+Inositol (for gestational diabetes) 
+
+
+What makes inositol an unproven option 
+Based on limited evidence, in females at high risk of developing gestational diabetes, inositol supplementation might reduce their risk.[265][266] For females who already have gestational diabetes, the research is very unclear if inositol is a viable treatment option.[267] 
+Salacia reticulata 
+What makes _salacia reticulata _an unproven option 
+Salacia refers to the herbs Salacia reticulata (“kothala himbutu” in Ayurvedic medicine,_ Salacia oblonga, _and chinensis.[268] Salacia can prevent the absorption of carbohydrates, potentially reducing the increase in blood sugar and insulin that occurs after consuming carbs. Additionally, salacia contains a wide variety of phytochemicals (plant chemicals) that may influence the metabolism of glucose.[269] 
+48
+Because of its effect on carbohydrate absorption, salacia has mainly been researched with regard to its ability to lower post-meal blood sugar and insulin concentrations.[270][271][272][273][274][275] The results of these short-term (<24 hours) studies suggest that salacia can notably reduce the rise in blood sugar and insulin after consuming a meal containing carbohydrates. It should be noted that three of these six studies were funded by industries with financial conflicts of interest. Only one study has looked at the effects of daily salacia supplementation on fasting blood sugar levels in people with impaired glucose tolerance.[276]It found a notable reduction after 6 weeks, but further studies are needed to ascertain long term efficacy. 
+Effect of different salacia doses on post-meal blood glucose peak Adapted from Williams et al. Am J Clin Nutr. 2007.[272] 
+While we have rated salacia to be an unproven supplement due to a lack of long-term trials, there is evidence from very short-term trials to suggest it does reduce glucose and insulin levels after meals. While it’s unclear how this translates to effects on long-term metabolic health and diabetes, it could theoretically produce some benefits. It would be prudent to wait for higher-quality studies, including long-term ones, before you go out of your way to take salacia. 
+However, if you want to give salacia a try anyway, the dose best supported by current evidence is 240–500 mg of Salacia reticulata or Salacia oblonga extract with each meal containing carbohydrates. 
+Due to limited long-term data, it is not recommended to exceed 1,500 mg/day. 
+Because of its ability to reduce carbohydrate absorption, higher doses of salacia may cause adverse gastrointestinal effects such as nausea, flatulence, belching, abdominal pain, and diarrhea. This was observed in one study where a group received 480 mg of a Salacia oblonga extract alongside a mix of maltodextrin, sucrose, and corn syrup; they experienced considerably more adverse effects than the group that received 240 mg or a placebo.[272] However, another study didn’t find any gastrointestinal adverse effects after dosing with 200, 300, or 500 mg of salacia during consumption of sucrose. People taking 49
+salacia may want to start at smaller doses and increase their dosage gradually as a precaution. 
+It is possible that, because it can lower blood sugar, salacia may have additive effects when taken with some antidiabetic drugs or other supplements that can lower blood sugar. People who are pregnant or breastfeeding may want to forgo taking salacia, as it has not been studied in this population. 
+Tribulus terrestris 
+What makes Tribulus terrestris an unproven option 
+Tribulus terrestris is an herb that has been used in Iranian, Persian, Turkish, Sudanese, Indian Ayurveda, and Chinese traditional medicines to treat an assortment of diseases.[277] 
+To date, only a single double-blind RCT has tested the potential effects of this herb on blood sugar.[278] This 3-month trial saw 98 females with type 2 diabetes take either 1 g of Tribulus terrestris per day or a placebo. People taking the herb saw meaningful reductions in their fasting blood sugar, HbA1c, and 2-hour post-meal blood sugar test (i.e., blood glucose levels 2 hours after a standardized meal). Importantly, all participants were taking their prescribed oral diabetes medications, indicating that the addition of Tribulus terrestris may provide synergistic benefits. 
+While promising, these results will need to be replicated in additional clinical trials. 
+Vinegar 
+What makes vinegar an unproven option 
+Acetic acid is, after water, the main component of vinegar. It may slow the passage of food from the stomach to the small intestines, thus slowing the absorption of carbohydrates and reducing both insulin response and damage from hyperglycemia. It may also improve insulin signaling via various molecular mechanisms.[279] 
+The overall research suggests a smaller increase in post-meal blood glucose when vinegar is taken before or with a meal,[280] but this reduction is modest and doesn’t last long (roughly 2 hours). Moreover, the studies are small and short term, and their methodologies don’t give us full confidence in their findings. 
+As for the reductions in HbA1c (a biomarker of glucose metabolism) and fasting blood glucose, they may not be strong enough to have a meaningful long-term effect on health and are supported by scant evidence.[281][282][283][284][285][286] 
+50
+Vinegar’s proposed antidiabetic mechanisms of action 
+In short, vinegar’s ability to prevent or treat type 2 diabetes is uncertain, as is its long-term benefit for people with impaired glucose tolerance. You should wait for studies of higher quality, including long-term studies, before you go out of your way to take vinegar with all your meals. 
+However, if you want to give vinegar a try anyway, here is the dose best supported by current evidence: 2.8 g/day of acetic acid divided into 1.4 g doses taken right before breakfast and dinner 
+Alternatively, you can take the following. 
+2 tablespoons (29.6 mL) of apple cider vinegar right before breakfast and dinner (59.2 mL/day; which is approximately 3.6 grams of acetic acid per day) 
+Vitamin C 
+What makes vitamin C an unproven option 
+Vitamin C (L-ascorbic acid) is a water-soluble essential vitamin. It is a very popular dietary supplement due to its antioxidant properties, safety, and low price. From existing research, it seems theoretically possible that vitamin C could help improve blood sugar control,[287][288][289][290] but the evidence is mixed at this point. 
+51
+Some 12 trials have examined the effects of vitamin C on markers of glycemic control (blood glucose, HbA1c, insulin levels) in type 2 diabetics .[291][292][293][294][295][296][297][298][299][300][301][302] 
+A meta-analysis summarizing the findings from all of the above-mentioned trials found no notable effects on insulin or HbA1c in diabetic individuals or those with normal blood sugar, and only a small reduction in fasting glucose levels (−0.44 mmol/L; −7.9 mg/dL) for those with type 2 diabetes.[303] 
+However, big differences in what the trials measured (fasting glucose vs post-meal glucose) and how the vitamin C was administered (orally vs injected) prevent any strong conclusions from being drawn. More research is needed before we can know if or when vitamin C might be useful for glycemic control. 
+52
+Inadvisable Supplements 
+Fructose 
+What makes fructose an inadvisable option 
+When fructose replaces other forms of refined dietary carbohydrate — glucose, dextrose, maltodextrin — it can provide minor reductions in HbA1c[304][305] and may reduce fasting blood sugar.[304][305][306] Some small benefits to blood sugar levels have also been shown with small, ≈10 g doses given prior to a meal, without replacing other carbs.[307] These reductions may be more pronounced in people with higher blood sugar. Consequently, these studies may partially explain why higher consumption of fruits, which often contain appreciable amounts of fructose, have been associated with lower risk of developing type 2 diabetes and metabolic syndrome.[308][309] 
+Fructose content per 1 cup (≈150 g) of various fruits 
+
+* Cola listed as comparison reference 
+Reference: USDA Food Composition Databases. Accessed September 27, 2019. https://ndb.nal.usda.gov/ndb/ 
+There is some evidence that high fructose consumption might contribute to liver fat accumulation and insulin resistance more so than other refined carbohydrates.[310][311] However, these effects may only be seen in people who are physically inactive and/or regularly overconsume calories. 
+Out of caution, isolated fructose is currently an inadvisable supplement for blood sugar control. Whole fruit consumption is more likely to benefit both glycemic control (due to better effects on satiety) and health in general (due to phytochemical content). 
+53
+Stevia (Stevia rebaudiana) 
+What makes stevia an inadvisable option 
+Stevia rebaudiana Bertoni, a plant common to South America (Paraguay, in particular), contains natural, noncaloric sweeteners known as steviol glycosides.[312] Among these steviol glycosides, stevioside and rebaudioside A (aka Reb A, or Rebiana™) are the most abundantly occurring.[313] Stevioside, Reb A, and 
+mixtures of the two are the most commonly available forms on the market.[314] Brand-name examples include Truvia®, Pure Via®, Enliten®, Splenda® Naturals Stevia Sweetener, Stevia Extract in the Raw®, and SweetLeaf®. 
+Raw stevia leaves and crude extracts have not been widely approved to be sold as sweeteners due to the lack of safety data. However, purified stevia extracts (purity of 93–95%) have been tested and approved in many countries, including the US, Canada, Japan, the European Union, and New Zealand and Australia. 
+54
+Digestion of stevia 
+Adapted from Magnuson et al. Nutr Rev. 2016.[315] 
+When taken as a dietary supplement, neither purified stevioside nor Reb A appear to consistently or notably improve blood sugar control. RCTs lasting 6 months to 2 years, using daily doses between 750 and 1,500 mg (usually stevioside) in people with elevated fasting blood sugars saw trivial changes in HbA1c, insulin sensitivity, and fasting blood sugar and insulin.[316][317][318] Shorter RCTs (<6 months) in people with prediabetes or type 2 diabetes, using daily doses between 500 and 1,500 mg, also did not show appreciable improvement.[319][320][321][322][323][324] When analyzed, there was no relationship seen between higher doses of steviosides and greater reductions in fasting blood sugar.[325] 
+A few RCTs have indicated that, while stevioside may not reduce fasting blood sugar levels, it might help keep them stable, preventing them from rising over time.[317][322][324] However, this effect has not been seen consistently across longer-term RCTs.[316][318] 
+Stevia may be able to improve blood sugar control when it replaces other carbohydrates in the diet, as opposed to adding them on top of your normal diet as a supplement. However, the same can be said of 55
+many other low- or zero-calorie sweeteners. 
+Tinospora crispa 
+What makes Tinospora crispa an inadvisable option 
+
+
+Tinospora crispa, not to be confused with Tinospora cordifolia,[326]is an herb traditionally used in Ayurvedic medicine. 
+In four clinical trials (two of them RCTs) lasting 1–6 months, doses of 0.5–3 g per day showed no improvements in fasting blood sugar, insulin, or HbA1c.[327][328][329] Short-term trials, all lasting only a few hours, have also not shown beneficial results.[329][330]It’s possible a larger dose may be needed to see favorable effects, as one short-term trial using a single 6 g dose brought a modest decrease to blood sugar — the only trial to date to see a beneficial effect.[329] Yet, even at this higher dose, positive effects are not uniformly seen; a second short-term trial using this dose saw no effect.[329] 
+Data on the toxicity of Tinospora crispa in humans are limited. However, in five clinical trials and one case report, enzymes used as indicators of potential liver damage (AST and ALT) were elevated in some of the participants taking Tinospora crispa.[327][328][329][330][331] These markers returned to normal after treatment stopped. Such elevations have been seen in animal studies as well.[332] Additionally, there are open questions about the effects Tinospora crispa may have on cholesterol, as it might cause an increase.[328] 
+Because current evidence has not shown a benefit of Tinospora crispa for blood sugar and there is some evidence it may be harmful to the liver or cholesterol levels, this herb should not be supplemented. 
+56
+FAQ 
+Q. What about the supplements not covered in this guide? 
+Our guides are regularly updated, often with new supplements. We prioritize assessing (and reassessing) the most popular of them and those most likely to work. However, if there is a specific supplement you’d like to see covered in a future update, please let us know by filling out this survey. 
+Q. Can I add a supplement not covered in this guide to my combo? 
+Supplement with your current combo for a few weeks before attempting any change. Talk to your physician and research each potential addition. Check for known negative interactions with other supplements and pharmaceuticals in your current combo, but also for synergies. If two supplements are synergistic or additive in their effects, you might want to use lower doses of each. 
+Q. Can I modify the recommended doses? 
+If a supplement has a recommended dose range, stay within that range. If a supplement has a precise recommended dose, stay within 10% of that dose. Taking more than recommended could be counterproductive or even dangerous. Taking less could render the supplement ineffective, yet starting with half the regular dose could be prudent — especially if you know you tend to react strongly to supplements or pharmaceuticals. 
+Q. At what time should I take my supplements? 
+The answer is provided in the “How to take” section of a supplement entry whenever the evidence permits. Too often, however, the evidence is either mixed or absent. Starting with half the regular dose can help minimize the harm a supplement may cause when taken during the day (e.g., fatigue) or in the evening (e.g., insomnia). 
+Q. Should I take my supplements with or without food? 
+The answer is provided in the “How to take” section of a supplement entry whenever the evidence permits. Too often, however, the evidence is either mixed or absent. Besides, a supplement’s digestion, absorption, and metabolism can be affected differently by different foods. Fat-soluble vitamins (A, D, E, K), for instance, are better absorbed with a small meal containing fat than with a large meal containing little to no fat. 
+57
+Q. What are DRI, RDA, AI, and UL? 
+The Dietary Reference Intakes (DRIs) is a system of nutrition recommendations designed by the Institute of Medicine (a US institution now known as the Health and Medicine Division). RDA, AI, and UL are part of this system. 
+Contrary to what the name suggests, a Recommended Dietary Allowance (RDA) doesn’t represent an ideal amount; it represents the minimum you need in order to avoid deficiency-related health issues. More precisely, it represents an amount just large enough to meet the minimum requirements of 97.5% of healthy males and females over all ages — which implies that the RDA is too low for 2.5% of healthy people. 
+The Adequate Intake (AI) is like the RDA, except that the number is more uncertain. 
+The Tolerable Upper Intake Level (UL) is the maximum safe amount. More precisely, it is the maximum daily amount deemed to be safe for 97.5% of healthy males and females over all ages — which implies that the UL is too high for 2.5% of healthy people. 
+As a general rule, a healthy diet should include at least the RDA of each nutrient — but less than this nutrient’s UL. This rule has many exceptions, though. For instance, people who sweat more need more salt (i.e., sodium), whereas people who take metformin (a diabetes medicine) need more vitamin B12. 
+Moreover, the DRIs are based on the median weight of adults and children in the United States. Everything else being equal (notably age, sex, and percentage of body fat), you likely need a lesser amount of nutrients if you weigh less, and vice versa if you weigh more. The numbers, however, are not proportional — if only because the brains of two people of very different weights have very similar needs. So you can’t just double your RDIs for each nutrient if you weigh twice as much as the median adult of your age and sex (even if we overlook that people weighing the same can differ in many respects, notably body fat). 
+Q. Can any of these supplements cause low blood sugar? 
+If dosages are followed, there is little risk that any supplement by itself will cause low blood sugar (i.e., hypoglycemic events). The risk increases when supplements are combined with each other or with medications meant to lower blood sugar, since their effects can be synergistic. 
+Q. What’s the difference between elemental magnesium/zinc and other kinds of 
+magnesium/zinc? 
+“Elemental” refers to the weight of the mineral by itself, separately from the compound bound to it. For instance, ingesting 500 mg of magnesium gluconate means consuming 27 mg of elemental magnesium; consuming 50 mg of zinc gluconate means consuming 7 mg of elemental zinc. 
+Product labels display the elemental dosage. On a label, “27 mg of magnesium (as magnesium gluconate)” means 27 mg of elemental magnesium and 473 mg of gluconic acid; “7 mg of zinc (as zinc gluconate)” means 7 mg of elemental zinc and 43 mg of gluconic acid. 
+58
+Q. Which food groups offer the greatest benefits for blood sugar management? 
+Insoluble and soluble fiber content can differ greatly between food groups.[333][334]It stands to reason that these differences may cause some food groups to produce superior blood glucose–regulating abilities compared with others. 
+In a large analysis of 88 observational prospective studies with some 230,000 participants, grains, vegetables, fruits, and dairy were the food groups consistently seen to decrease the risk of developing type 2 diabetes.[335] 
+Following up on these observational studies, another analysis of 66 RCTs examining 3,600 participants found the following.[336] 
+For reducing fasting blood sugar, nuts, grains, legumes, and dairy provided the greatest reductions. 
+For improving HOMA-IR (a measure of insulin sensitivity), grains, legumes, nuts, fish, fruits, and vegetables provided the greatest improvements. 
+For reducing HbA1c, grains, legumes, fruits, vegetables, and nuts provided the greatest reductions. 
+Across all these measures (from more to less potent), grains, nuts, legumes, fruits, and vegetables had the greatest impact on improving overall blood glucose control. 
+Q. Will insoluble fiber supplements help control my blood sugar? 
+The most common insoluble fiber supplement out there is wheat fiber. However, it hasn’t been studied enough under well-controlled conditions to know its effects, and what information we have doesn’t clearly support its use for blood sugar management.[337][338][339] The same goes for studies on isolated arabinoxylan, the dominant form of fiber in wheat.[340][341] 
+Q. I’ve heard that I should “load” creatine. What does that mean? 
+Loading creatine means taking a high daily dose for a few days before moving down to a smaller maintenance dose, which can be taken indefinitely. This is not necessary for effective supplementation, however; benefits may be felt sooner through loading, but they normalize after a few weeks. 
+If you wish to load creatine, take 20–25 g/day for 7 days (splitting your daily intake into smaller doses, taking them with some food, and drinking more fluids may help prevent intestinal discomfort). Take 5 g/day thereafter. 
+Q. Creatine doesn’t seem to work for me. What should I do? 
+Some people are creatine nonresponders: the creatine they ingest largely fails to reach their muscles. 59
+Alternate forms of creatine, such as creatine ethyl-ester, have been marketed to nonresponders, but they lack scientific support. Currently, the best way to lessen creatine nonresponse is to take 5 grams twice a day, each time with protein and carbs, preferably close to a time of muscle contraction (i.e., before or after your workout). 
+Note that even if supplemental creatine fails to enter your muscles it can still benefit you in other ways, such as by improving your body’s methylation status (methylation being a way for your cells to help manage gene expression). 
+Q. Will creatine cause hair loss? 
+The idea that creatine might increase hair loss stems from a single randomized controlled trial (RCT) whose participants (20 healthy, young, male rugby players) saw a small but statistically significant increase in dihydrotestosterone (DHT) after supplementing with creatine for 21 days.[342] When DHT, a potent metabolite of testosterone binds to DHT receptors on the hair follicles of the scalp, those follicles may shrink and stop producing hair.[343][344] 
+To date, this RCT is the only one to have tested creatine’s effects on DHT. However, a number of RCTs have examined creatine’s effects on testosterone. Out of 12 additional RCTs, two saw a significant increase in testosterone,[345][346] but 10 saw no effect.[342][347][348][349][350][351][352][353][354][355] Of those 12 RCTs, five also tested creatine’s effects on free testosterone, the form that gets converted into DHT, and all saw no significant increases.[347][348][350][352][354] 
+A proposed mechanism behind creatine’s effect on testosterone 
+Creatine could nonsignificantly increase free testosterone yet significantly increase DHT (i.e., a small increase in free testosterone, which can convert into DHT, could lead to a much greater increase in total DHT). So while it’s technically possible that creatine might have some effect on hair loss, current evidence and mechanistic data indicate it’s quite unlikely. 
+A summary of creatine-testosterone studies 
+
+
+60
+
+
+* While there was no creatine-only group, studies have not shown HMB to independently affect testosterone.[356][357][358][359] ** This study used creatine malate instead of creatine monohydrate. 
+*** This study reported an age range but not an average age. 
+61
+References 
+1. Berg JM, Tymoczko JL, Stryer L Food Intake and Starvation Induce Metabolic Changes. Biochemistry. 5th edition.. (2002) 
+2. Fournier PA, Fairchild TJ, Ferreira LD, Bräu L Post-exercise muscle glycogen repletion in the extreme: effect of food absence and active recovery. J Sports Sci Med. (2004 Sep 1) 
+3. Clarke DD & Sokoloff L Substrates of Cerebral Metabolism. 
+4. Hasselbalch SG, Knudsen GM, Jakobsen J, Hageman LP, Holm S, Paulson OB Brain metabolism during short-term starvation in humans. J Cereb Blood Flow Metab. (1994 Jan) 
+5. White H, Venkatesh B Clinical review: ketones and brain injury. Crit Care. (2011 Apr 6) 
+6. Cahill GF Jr Fuel metabolism in starvation. Annu Rev Nutr. (2006) 
+7. Owen OE, Felig P, Morgan AP, Wahren J, Cahill GF Jr Liver and kidney metabolism during prolonged starvation. J Clin Invest. (1969 Mar) 
+8. Maehlum S, Hermansen L Muscle glycogen concentration during recovery after prolonged severe exercise in fasting subjects. Scand J Clin Lab Invest. (1978 Oct) 
+9. Wasserman DH Four grams of glucose. Am J Physiol Endocrinol Metab. (2009 Jan) 
+10. De Meyts P The Insulin Receptor and Its Signal Transduction Network. 
+11. Mouri MI, Badireddy M Hyperglycemia. 
+12. Yuan T, Yang T, Chen H, Fu D, Hu Y, Wang J, Yuan Q, Yu H, Xu W, Xie X New insights into oxidative stress and inflammation during diabetes mellitus-accelerated atherosclerosis. Redox Biol. (2019 Jan) 
+13. Lee SC, Chan JC Evidence for DNA damage as a biological link between diabetes and cancer. Chin Med J (Engl). (2015 Jun 5) 
+14. Hamed SA Brain injury with diabetes mellitus: evidence, mechanisms and treatment implications. Expert Rev Clin Pharmacol. (2017 Apr) 
+15. Einarson TR, Acs A, Ludwig C, Panton UH Prevalence of cardiovascular disease in type 2 diabetes: a systematic literature review of scientific evidence from across the world in 2007-2017. Cardiovasc Diabetol. (2018 Jun 8) 
+16. Zhang J, Chen C, Hua S, Liao H, Wang M, Xiong Y, Cao F An updated meta-analysis of cohort studies: Diabetes and risk of Alzheimer's disease. Diabetes Res Clin Pract. (2017 Feb) 
+17. Yue X, Li H, Yan H, Zhang P, Chang L, Li T Risk of Parkinson Disease in Diabetes Mellitus: An Updated Meta-Analysis of Population-Based Cohort Studies. Medicine (Baltimore). (2016 May) 
+18. Tsilidis KK, Kasimis JC, Lopez DS, Ntzani EE, Ioannidis JP Type 2 diabetes and cancer: umbrella review of meta-analyses of observational studies. BMJ. (2015 Jan 2) 
+19. Magliano DJ, Islam RM, Barr ELM, Gregg EW, Pavkov ME, Harding JL, Tabesh M, Koye DN, Shaw JE Trends in incidence of total or type 2 diabetes: systematic review. BMJ. (2019 Sep 11) 
+20. CDC Diabetes Statistic Report. Centers for Disease Control and Prevention. 
+21. Huang D, Refaat M, Mohammedi K, Jayyousi A, Al Suwaidi J, Abi Khalil C Macrovascular Complications in Patients with Diabetes and Prediabetes. Biomed Res Int. (2017) 
+22. Gummesson A, Nyman E, Knutsson M, Karpefors M Effect of weight reduction on glycated haemoglobin in weight loss trials in patients with type 2 diabetes. Diabetes Obes Metab. (2017 Sep) 
+23. Franz MJ, Boucher JL, Rutten-Ramos S, VanWormer JJ Lifestyle weight-loss intervention outcomes in overweight and obese adults with type 2 diabetes: a systematic review and meta-analysis of randomized clinical trials. J Acad Nutr Diet. (2015 Sep) 
+24. Aune D, Norat T, Leitzmann M, Tonstad S, Vatten LJ Physical activity and the risk of type 2 diabetes: a systematic review and dose-response meta-analysis. Eur J Epidemiol. (2015 Jul) 
+25. Liubaoerjijin Y, Terada T, Fletcher K, Boulé NG Effect of aerobic exercise intensity on glycemic control in type 2 diabetes: a meta-analysis of head-to-head randomized trials. Acta Diabetol. (2016 Oct) 
+26. Pan B, Ge L, Xun YQ, Chen YJ, Gao CY, Han X, Zuo LQ, Shan HQ, Yang KH, Ding GW, Tian JH Exercise training modalities in patients with type 2 diabetes mellitus: a systematic review and network meta-analysis. Int J Behav Nutr Phys Act. (2018 Jul 25) 
+27. American Diabetes Association Diabetes Care. 
+28. Ollerton RL, Playle R, Ahmed K, Dunstan FD, Luzio SD, Owens DR Day-to-day variability of fasting plasma glucose in newly diagnosed type 2 diabetic subjects. Diabetes Care. (1999 Mar) 
+29. DeVries JH, Bailey TS, Bhargava A, Gerety G, Gumprecht J, Heller S, Lane W, Wysham CH, Zinman B, Bak BA, Hachmann Nielsen E, Philis-Tsimikas A Day-to-day fasting self-monitored blood glucose variability is associated with risk of hypoglycaemia in insulin-treated patients with type 1 and type 2 diabetes: A post hoc analysis of the SWITCH Trials. Diabetes Obes Metab. (2019 Mar) 
+30. Radin MS Pitfalls in hemoglobin A1c measurement: when results may be misleading. J Gen Intern Med. (2014 Feb) 62
+31. Virtue MA, Furne JK, Nuttall FQ, Levitt MD Relationship between GHb concentration and erythrocyte survival determined from breath carbon monoxide concentration. Diabetes Care. (2004 Apr) 
+32. American Diabetes Association Standards of Medical Care in Diabetes-2020 Abridged for Primary Care Providers. Clin Diabetes. (2020 Jan) 
+33. Monnier L, Mas E, Ginet C, Michel F, Villon L, Cristol JP, Colette C Activation of oxidative stress by acute glucose fluctuations compared with sustained chronic hyperglycemia in patients with type 2 diabetes. JAMA. (2006 Apr 12) 
+34. Ceriello A, Ihnat MA 'Glycaemic variability': a new therapeutic challenge in diabetes and the critical care setting. Diabet Med. (2010 Aug) 
+35. Brownlee M The pathobiology of diabetic complications: a unifying mechanism. Diabetes. (2005 Jun) 36. Monnier L, Colette C Glycemic variability: should we and can we prevent it?. Diabetes Care. (2008 Feb) 
+37. Gutch M, Kumar S, Razi SM, Gupta KK, Gupta A Assessment of insulin sensitivity/resistance. Indian J Endocrinol Metab. (2015 Jan-Feb) 
+38. Carmina E, Stanczyk FZ, Lobo RA Chapter 34 - Laboratory Assessment. Yen & Jaffe’s Reproductive Endocrinology (Seventh Edition). (2014) 
+39. Matthews DR, Hosker JP, Rudenski AS, Naylor BA, Treacher DF, Turner RC Homeostasis model assessment: insulin resistance and beta-cell function from fasting plasma glucose and insulin concentrations in man. Diabetologia. (1985 Jul) 
+40. Salgado AL, Carvalho Ld, Oliveira AC, Santos VN, Vieira JG, Parise ER Insulin resistance index (HOMA-IR) in the differentiation of patients with non-alcoholic fatty liver disease and healthy individuals. Arq Gastroenterol. (2010 Apr-Jun) 
+41. Katz A, Nambi SS, Mather K, Baron AD, Follmann DA, Sullivan G, Quon MJ Quantitative insulin sensitivity check index: a simple, accurate method for assessing insulin sensitivity in humans. J Clin Endocrinol Metab. (2000 Jul) 
+42. Tam CS, Xie W, Johnson WD, Cefalu WT, Redman LM, Ravussin E Defining insulin resistance from hyperinsulinemic-euglycemic clamps. Diabetes Care. (2012 Jul) 
+43. Kim JK Hyperinsulinemic-euglycemic clamp to assess insulin sensitivity in vivo. Methods Mol Biol. (2009) 
+44. Archer E, Lavie CJ, Hill JO The Failure to Measure Dietary Intake Engendered a Fictional Discourse on Diet-Disease Relations. Front Nutr. (2018 Nov 13) 
+45. Archer E, Pavela G, Lavie CJ The Inadmissibility of What We Eat in America and NHANES Dietary Data in Nutrition and Obesity Research and the Scientific Formulation of National Dietary Guidelines. Mayo Clin Proc. (2015 Jul) 
+46. Miller TM, Abdel-Maksoud MF, Crane LA, Marcus AC, Byers TE Effects of social approval bias on self-reported fruit and vegetable consumption: a randomized controlled trial. Nutr J. (2008 Jun 27) 
+47. Dwyer JT, Krall EA, Coleman KA The problem of memory in nutritional epidemiology research. J Am Diet Assoc. (1987 Nov) 48. Weickert MO, Pfeiffer AF Metabolic effects of dietary fiber consumption and prevention of diabetes. J Nutr. (2008 Mar) 
+49. Prasad KN, Bondy SC Dietary Fibers and Their Fermented Short-Chain Fatty Acids in Prevention of Human Diseases. Mech Ageing Dev. (2018 Oct 15) 
+50. Zhao L, Zhang F, Ding X, Wu G, Lam YY, Wang X, Fu H, Xue X, Lu C, Ma J, Yu L, Xu C, Ren Z, Xu Y, Xu S, Shen H, Zhu X, Shi Y, Shen Q, Dong W, Liu R, Ling Y, Zeng Y, Wang X, Zhang Q, Wang J, Wang L, Wu Y, Zeng B, Wei H, Zhang M, Peng Y, Zhang C Gut bacteria selectively promoted by dietary fibers alleviate type 2 diabetes. Science. (2018 Mar 9) 
+51. McNabney SM, Henagan TM Short Chain Fatty Acids in the Colon and Peripheral Tissues: A Focus on Butyrate, Colon Cancer, Obesity and Insulin Resistance. Nutrients. (2017 Dec 12) 
+52. Dreher ML Introduction to Dietary Fiber. Dietary Fiber in Health and Disease. (2018) 
+53. McRorie JW Jr Evidence-Based Approach to Fiber Supplements and Clinically Meaningful Health Benefits, Part 1: What to Look for and How to Recommend an Effective Fiber Therapy. Nutr Today. (2015 Mar) 
+54. Jovanovski E, Khayyat R, Zurbau A, Komishon A, Mazhar N, Sievenpiper JL, Blanco Mejia S, Ho HVT, Li D, Jenkins AL, Duvnjak L, Vuksan V Should Viscous Fiber Supplements Be Considered in Diabetes Control? Results From a Systematic Review and Meta-analysis of Randomized Controlled Trials. Diabetes Care. (2019 May) 
+55. McRae MP Dietary Fiber Intake and Type 2 Diabetes Mellitus: An Umbrella Review of Meta-analyses. J Chiropr Med. (2018 Mar) 
+56. Thompson SV, Hannon BA, An R, Holscher HD Effects of isolated soluble fiber supplementation on body weight, glycemia, and insulinemia in adults with overweight and obesity: a systematic review and meta-analysis of randomized controlled trials. Am J Clin Nutr. (2017 Dec) 
+57. Gibb RD, McRorie JW Jr, Russell DA, Hasselblad V, D'Alessio DA Psyllium fiber improves glycemic control proportional to loss of glycemic control: a meta-analysis of data in euglycemic subjects, patients at risk of type 2 diabetes mellitus, and patients being treated for type 2 diabetes mellitus. Am J Clin Nutr. (2015 Dec) 
+58. Dikeman CL, Fahey GC Viscosity as related to dietary fiber: a review. Crit Rev Food Sci Nutr. (2006) 
+59. Institute of Medicine et al. Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids. The National Academies Press. (2005) 
+60. McGill CR, Fulgoni VL 3rd, Devareddy L Ten-year trends in fiber and whole grain intakes and food sources for the United 63
+States population: National Health and Nutrition Examination Survey 2001-2010. Nutrients. (2015 Feb 9) 
+61. Evert AB, Dennison M, Gardner CD, Garvey WT, Lau KHK, MacLeod J, Mitri J, Pereira RF, Rawlings K, Robinson S, Saslow L, Uelmen S, Urbanski PB, Yancy WS Jr Nutrition Therapy for Adults With Diabetes or Prediabetes: A Consensus Report. Diabetes Care. (2019 May) 
+62. Dreher ML Fiber in Type 2 Diabetes Prevention and Management. Dietary Fiber in Health and Disease. (2017 NOV) 
+63. Reynolds A, Mann J, Cummings J, Winter N, Mete E, Te Morenga L Carbohydrate quality and human health: a series of systematic reviews and meta-analyses. Lancet. (2019 Feb 2) 
+64. Dahl WJ, Stewart ML Position of the Academy of Nutrition and Dietetics: Health Implications of Dietary Fiber. J Acad Nutr Diet. (2015 Nov) 
+65. Kohmoto T, Tsuji K, Kaneko T, Shiota M, Fukui F, Takaku H, Nakagawa Y, Ichikawa T, Kobayash S Metabolism of (13)C Isomaltooligosaccharides in Healthy Men. Biosci Biotechnol Biochem. (1992 Jan) 
+66. Oku T, Nakamura S Comparison of digestibility and breath hydrogen gas excretion of fructo-oligosaccharide, galactosyl sucrose, and isomalto-oligosaccharide in healthy human subjects. Eur J Clin Nutr. (2003 Sep) 
+67. Gourineni V, Stewart ML, Icoz D, Zimmer JP Gastrointestinal Tolerance and Glycemic Response of Isomaltooligosaccharides in Healthy Adults. Nutrients. (2018 Mar 3) 
+68. Gardner CD, Trepanowski JF, Del Gobbo LC, Hauser ME, Rigdon J, Ioannidis JPA, Desai M, King AC Effect of Low-Fat vs Low Carbohydrate Diet on 12-Month Weight Loss in Overweight Adults and the Association With Genotype Pattern or Insulin Secretion: The DIETFITS Randomized Clinical Trial. JAMA. (2018 Feb 20) 
+69. Slavin JL Dietary fiber and body weight. Nutrition. (2005 Mar) 
+70. Anderson JW, Konz EC, Jenkins DJ Health advantages and disadvantages of weight-reducing diets: a computer analysis and critical review. J Am Coll Nutr. (2000 Oct) 
+71. Fernandez N, Lopez C, Díez R, Garcia JJ, Diez MJ, Sahagun A, Sierra M Drug interactions with the dietary fiber Plantago ovata husk. Expert Opin Drug Metab Toxicol. (2012 Nov) 
+72. Fong SY, Gao Q, Zuo Z Interaction of carbamazepine with herbs, dietary supplements, and food: a systematic review. Evid Based Complement Alternat Med. (2013) 
+73. McRorie JW Jr Evidence-Based Approach to Fiber Supplements and Clinically Meaningful Health Benefits, Part 2: What to Look for and How to Recommend an Effective Fiber Therapy. Nutr Today. (2015 Mar) 
+74. Jenkins DJ, Wolever TM, Leeds AR, Gassull MA, Haisman P, Dilawari J, Goff DV, Metz GL, Alberti KG Dietary fibres, fibre analogues, and glucose tolerance: importance of viscosity. Br Med J. (1978 May 27) 
+75. Wang H, Zhu C, Ying Y, Luo L, Huang D, Luo Z Metformin and berberine, two versatile drugs in treatment of common metabolic diseases. Oncotarget. (2017 Sep 11) 
+76. Liang Y, Xu X, Yin M, Zhang Y, Huang L, Chen R, Ni J Effects of berberine on blood glucose in patients with type 2 diabetes mellitus: a systematic literature review and a meta-analysis. Endocr J. (2019 Jan 28) 
+77. Wei W, Zhao H, Wang A, Sui M, Liang K, Deng H, Ma Y, Zhang Y, Zhang H, Guan Y A clinical study on the short-term effect of berberine in comparison to metformin on the metabolic characteristics of women with polycystic ovary syndrome. Eur J Endocrinol. (2012 Jan) 
+78. Yan HM, Xia MF, Wang Y, Chang XX, Yao XZ, Rao SX, Zeng MS, Tu YF, Feng R, Jia WP, Liu J, Deng W, Jiang JD, Gao X Efficacy of Berberine in Patients with Non-Alcoholic Fatty Liver Disease. PLoS One. (2015 Aug 7) 
+79. Pérez-Rubio KG, González-Ortiz M, Martínez-Abundis E, Robles-Cervantes JA, Espinel-Bermúdez MC Effect of berberine administration on metabolic syndrome, insulin sensitivity, and insulin secretion. Metab Syndr Relat Disord. (2013 Oct) 
+80. Asemani S, Montazeri V, Baradaran B, Tabatabiefar MA, Pirouzpanah S The Effects of Berberis Vulgaris Juice on Insulin Indices in Women with Benign Breast Disease: A Randomized Controlled Clinical Trial. Iran J Pharm Res. (2018 Winter) 
+81. Lazavi F, Mirmiran P, Sohrab G, Nikpayam O, Angoorani P, Hedayati M The barberry juice effects on metabolic factors and oxidative stress in patients with type 2 diabetes: A randomized clinical trial. Complement Ther Clin Pract. (2018 May) 
+82. Moazezi Z, Qujeq D Berberis Fruit Extract and Biochemical Parameters in Patients With Type II Diabetes. Jundishapur J Nat Pharm Prod. (2014 Apr 7) 
+83. Shidfar F, Ebrahimi SS, Hosseini S, Heydari I, Shidfar S, Hajhassani G The Effects of Berberis vulgaris Fruit Extract on Serum Lipoproteins, apoB, apoA-I, Homocysteine, Glycemic Control and Total Antioxidant Capacity in Type 2 Diabetic Patients. Iran J Pharm Res. (2012 Spring) 
+84. Dong H, Wang N, Zhao L, Lu F Berberine in the treatment of type 2 diabetes mellitus: a systemic review and meta-analysis. Evid Based Complement Alternat Med. (2012) 
+85. Lan J, Zhao Y, Dong F, Yan Z, Zheng W, Fan J, Sun G Meta-analysis of the effect and safety of berberine in the treatment of type 2 diabetes mellitus, hyperlipemia and hypertension. J Ethnopharmacol. (2015 Feb 23) 
+86. Li MF, Zhou XM, Li XL The Effect of Berberine on Polycystic Ovary Syndrome Patients with Insulin Resistance (PCOS-IR): A Meta-Analysis and Systematic Review. Evid Based Complement Alternat Med. (2018 Nov 14) 
+87. Guo Y, Chen Y, Tan ZR, Klaassen CD, Zhou HH Repeated administration of berberine inhibits cytochromes P450 in humans. Eur J Clin Pharmacol. (2012 Feb) 
+64
+88. Chan E Displacement of bilirubin from albumin by berberine. Biol Neonate. (1993) 
+89. Imanshahidi M, Hosseinzadeh H Pharmacological and therapeutic effects of Berberis vulgaris and its active constituent, berberine. Phytother Res. (2008 Aug) 
+90. Croze ML, Soulage CO Potential role and therapeutic interests of myo-inositol in metabolic diseases. Biochimie. (2013 Oct) 
+91. Croze ML, Géloën A, Soulage CO Abnormalities in myo-inositol metabolism associated with type 2 diabetes in mice fed a high fat diet: benefits of a dietary myo-inositol supplementation. Br J Nutr. (2015 Jun 28) 
+92. Zeng L, Yang K Effectiveness of myoinositol for polycystic ovary syndrome: a systematic review and meta-analysis. Endocrine. (2018 Jan) 
+93. Unfer V, Facchinetti F, Orrù B, Giordani B, Nestler J Myo-inositol effects in women with PCOS: a meta-analysis of randomized controlled trials. Endocr Connect. (2017 Nov) 
+94. Shokrpour M, Foroozanfard F, Afshar Ebrahimi F, Vahedpoor Z, Aghadavod E, Ghaderi A, Asemi Z Comparison of myo-inositol and metformin on glycemic control, lipid profiles, and gene expression related to insulin and lipid metabolism in women with polycystic ovary syndrome: a randomized controlled clinical trial. Gynecol Endocrinol. (2019 May) 
+95. Nestler JE, Jakubowicz DJ, Reamer P, Gunn RD, Allan G Ovulatory and metabolic effects of D-chiro-inositol in the polycystic ovary syndrome. N Engl J Med. (1999 Apr 29) 
+96. Iuorno MJ, Jakubowicz DJ, Baillargeon JP, Dillon P, Gunn RD, Allan G, Nestler JE Effects of d-chiro-inositol in lean women with the polycystic ovary syndrome. Endocr Pract. (2002 Nov-Dec) 
+97. M Nordio, E Proietti The combined therapy with myo-inositol and D-chiro-inositol reduces the risk of metabolic disease in PCOS overweight patients compared to myo-inositol supplementation alone. Eur Rev Med Pharmacol Sci. (2012 May) 
+98. Miñambres I, Cuixart G, Gonçalves A, Corcoy R Effects of inositol on glucose homeostasis: Systematic review and meta analysis of randomized controlled trials. Clin Nutr. (2019 Jun) 
+99. D'Anna R, Scilipoti A, Giordano D, Caruso C, Cannata ML, Interdonato ML, Corrado F, Di Benedetto A myo-Inositol supplementation and onset of gestational diabetes mellitus in pregnant women with a family history of type 2 diabetes: a prospective, randomized, placebo-controlled study. Diabetes Care. (2013 Apr) 
+100. Matarrelli B, Vitacolonna E, D'Angelo M, Pavone G, Mattei PA, Liberati M, Celentano C Effect of dietary myo-inositol supplementation in pregnancy on the incidence of maternal gestational diabetes mellitus and fetal outcomes: a randomized controlled trial. J Matern Fetal Neonatal Med. (2013 Jul) 
+101. Farren M, Daly N, McKeating A, Kinsley B, Turner MJ, Daly S The Prevention of Gestational Diabetes Mellitus With Antenatal Oral Inositol Supplementation: A Randomized Controlled Trial. Diabetes Care. (2017 Jun) 
+102. Bo S, Pisu E Role of dietary magnesium in cardiovascular disease prevention, insulin sensitivity and diabetes. Curr Opin Lipidol. (2008 Feb) 
+103. Gommers LM, Hoenderop JG, Bindels RJ, de Baaij JH Hypomagnesemia in Type 2 Diabetes: A Vicious Circle?. Diabetes. (2016 Jan) 
+104. Mazidi M, Rezaie P, Banach M Effect of magnesium supplements on serum C-reactive protein: a systematic review and meta analysis. Arch Med Sci. (2018 Jun) 
+105. Pham PC, Pham PM, Pham SV, Miller JM, Pham PT Hypomagnesemia in patients with type 2 diabetes. Clin J Am Soc Nephrol. (2007 Mar) 
+106. Rosanoff A, Weaver CM, Rude RK Suboptimal magnesium status in the United States: are the health consequences underestimated?. Nutr Rev. (2012 Mar) 
+107. Verma H, Garg R Effect of magnesium supplementation on type 2 diabetes associated cardiovascular risk factors: a systematic review and meta-analysis. J Hum Nutr Diet. (2017 Oct) 
+108. Simental-Mendía LE, Sahebkar A, Rodríguez-Morán M, Guerrero-Romero F A systematic review and meta-analysis of randomized controlled trials on the effects of magnesium supplementation on insulin sensitivity and glucose control. Pharmacol Res. (2016 Sep) 
+109. Veronese N, Watutantrige-Fernando S, Luchini C, Solmi M, Sartore G, Sergi G, Manzato E, Barbagallo M, Maggi S, Stubbs B Effect of magnesium supplementation on glucose metabolism in people with or at risk of diabetes: a systematic review and meta-analysis of double-blind randomized controlled trials. Eur J Clin Nutr. (2016 Dec) 
+110. Institute of Medicine Dietary Reference Intakes for Calcium, Phosphorus, Magnesium, Vitamin D, and Fluoride. The National Academies Press. (1997) 
+111. Institute of Medicine (US) Standing Committee on the Scientific Evaluation of Dietary Reference Intakes Dietary Reference Intakes for Calcium, Phosphorus, Magnesium, Vitamin D, and Fluoride. 
+112. Pazianas M, Abrahamsen B, Ferrari S, Russell RG Eliminating the need for fasting with oral administration of bisphosphonates. Ther Clin Risk Manag. (2013) 
+113. Crippa G, Sverzellati E, Giorgi-Pierfranceschi M, Carrara GC Magnesium and cardiovascular drugs: interactions and therapeutic role. Ann Ital Med Int. (1999 Jan-Mar) 
+114. Sarafidis PA, Georgianos PI, Lasaridis AN Diuretics in clinical practice. Part II: electrolyte and acid-base disorders complicating diuretic therapy. Expert Opin Drug Saf. (2010 Mar) 
+65
+115. Center for Drug Evaluation. Low Magnesium Levels Can Be Associated with Long-Term Use of Proton Pump Inhibitor Drugs (PPIs).. Drug Safety and Availability - FDA Drug Safety Communication.. 
+116. Witkowski M, Hubert J, Mazur A Methods of assessment of magnesium status in humans: a systematic review. Magnes Res. (2011 Dec) 
+117. Yoshimura Y, Fujisaki K, Yamamoto T, Shinohara Y Pharmacokinetic Studies of Orally Administered Magnesium Oxide in Rats. Yakugaku Zasshi. (2017 May 1) 
+118. Firoz M, Graber M Bioavailability of US commercial magnesium preparations. Magnes Res. (2001 Dec) 
+119. Walker AF, Marakis G, Christie S, Byng M Mg citrate found more bioavailable than other Mg preparations in a randomised, double-blind study. Magnes Res. (2003 Sep) 
+120. Lindberg JS, Zobitz MM, Poindexter JR, Pak CY Magnesium bioavailability from magnesium citrate and magnesium oxide. J Am Coll Nutr. (1990 Feb) 
+121. Ranade VV, Somberg JC Bioavailability and pharmacokinetics of magnesium after administration of magnesium salts to humans. Am J Ther. (2001 Sep-Oct) 
+122. Wessells KR, Singh GM, Brown KH Estimating the global prevalence of inadequate zinc intake from national food balance sheets: effects of methodological assumptions. PLoS One. (2012) 
+123. Kumssa DB, Joy EJ, Ander EL, Watts MJ, Young SD, Walker S, Broadley MR Dietary calcium and zinc deficiency risks are decreasing but remain prevalent. Sci Rep. (2015 Jun 22) 
+124. Fernández-Cao JC, Warthon-Medina M, Hall Moran V, Arija V, Doepking C, Lowe NM Dietary zinc intake and whole blood zinc concentration in subjects with type 2 diabetes versus healthy subjects: A systematic review, meta-analysis and meta regression. J Trace Elem Med Biol. (2018 Sep) 
+125. Fukunaka A, Fujitani Y Role of Zinc Homeostasis in the Pathogenesis of Diabetes and Obesity. Int J Mol Sci. (2018 Feb 6) 
+126. Ranasinghe P, Pigera S, Galappatthy P, Katulanda P, Constantine GR Zinc and diabetes mellitus: understanding molecular mechanisms and clinical implications. Daru. (2015 Sep 17) 
+127. Norouzi S, Adulcikas J, Sohal SS, Myers S Zinc transporters and insulin resistance: therapeutic implications for type 2 diabetes and metabolic disease. J Biomed Sci. (2017 Nov 20) 
+128. Pérez A, Rojas P, Carrasco F, Basfi-Fer K, Pérez-Bravo F, Codoceo J, Inostroza J, Ruz M Zinc Supplementation Does Not Affect Glucagon Response to Intravenous Glucose and Insulin Infusion in Patients with Well-Controlled Type 2 Diabetes. Biol Trace Elem Res. (2018 Oct) 
+129. Partida-Hernández G, Arreola F, Fenton B, Cabeza M, Román-Ramos R, Revilla-Monsalve MC Effect of zinc replacement on lipids and lipoproteins in type 2-diabetic patients. Biomed Pharmacother. (2006 May) 
+130. Seet RC, Lee CY, Lim EC, Quek AM, Huang H, Huang SH, Looi WF, Long LH, Halliwell B Oral zinc supplementation does not improve oxidative stress or vascular function in patients with type 2 diabetes with normal zinc levels. Atherosclerosis. (2011 Nov) 
+131. Al-Maroof RA, Al-Sharbatti SS Serum zinc levels in diabetic patients and effect of zinc supplementation on glycemic control of type 2 diabetics. Saudi Med J. (2006 Mar) 
+132. Gunasekara P, Hettiarachchi M, Liyanage C, Lekamwasam S Effects of zinc and multimineral vitamin supplementation on glycemic and lipid control in adult diabetes. Diabetes Metab Syndr Obes. (2011 Jan 26) 
+133. Khan MI, Siddique KU, Ashfaq F, Ali W, Reddy HD, Mishra A Effect of high-dose zinc supplementation with oral hypoglycemic agents on glycemic control and inflammation in type-2 diabetic nephropathy patients. J Nat Sci Biol Med. (2013 Jul) 
+134. Islam MR, Attia J, Ali L, McEvoy M, Selim S, Sibbritt D, Akhter A, Akter S, Peel R, Faruque O, Mona T, Lona H, Milton AH Zinc supplementation for improving glucose handling in pre-diabetes: A double blind randomized placebo controlled pilot study. Diabetes Res Clin Pract. (2016 May) 
+135. Ranasinghe P, Wathurapatha WS, Galappatthy P, Katulanda P, Jayawardena R, Constantine GR Zinc supplementation in prediabetes: A randomized double-blind placebo-controlled clinical trial. J Diabetes. (2018 May) 
+136. Momen-Heravi M, Barahimi E, Razzaghi R, Bahmani F, Gilasi HR, Asemi Z The effects of zinc supplementation on wound healing and metabolic status in patients with diabetic foot ulcer: A randomized, double-blind, placebo-controlled trial. Wound Repair Regen. (2017 May) 
+137. Parham M, Amini M, Aminorroaya A, Heidarian E Effect of zinc supplementation on microalbuminuria in patients with type 2 diabetes: a double blind, randomized, placebo-controlled, cross-over trial. Rev Diabet Stud. (2008 Summer) 
+138. Afkhami-Ardekani M, Karimi M, Mohammadi SM, Nourani F Effect of Zinc Sulfate Supplementation on Lipid and Glucose in Type 2 Diabetic Patients. Pakistan Journal of Nutrition. (2008) 
+139. El Dib R, Gameiro OL, Ogata MS, Módolo NS, Braz LG, Jorge EC, do Nascimento P Jr, Beletate V Zinc supplementation for the prevention of type 2 diabetes mellitus in adults with insulin resistance. Cochrane Database Syst Rev. (2015 May 28) 
+140. Roshanravan N, Alizadeh M, Hedayati M, Asghari-Jafarabadi M, Mesri Alamdari N, Anari F, Tarighat-Esfanjani A Effect of zinc supplementation on insulin resistance, energy and macronutrients intakes in pregnant women with impaired glucose tolerance. Iran J Public Health. (2015 Feb) 
+141. Lobene AJ, Kindler JM, Jenkins NT, Pollock NK, Laing EM, Grider A, Lewis RD Zinc Supplementation Does Not Alter Indicators of Insulin Secretion and Sensitivity in Black and White Female Adolescents. J Nutr. (2017 Jul) 
+66
+142. Cruz KJ, Morais JB, de Oliveira AR, Severo JS, Marreiro DD The Effect of Zinc Supplementation on Insulin Resistance in Obese Subjects: a Systematic Review. Biol Trace Elem Res. (2017 Apr) 
+143. Chiba M, Katayama K, Takeda R, Morita R, Iwahashi K, Onishi Y, Kita H, Nishio A, Kanno T, Saito T, Maeda K, Naito M, Michida T, Ito T Diuretics aggravate zinc deficiency in patients with liver cirrhosis by increasing zinc excretion in urine. Hepatol Res. (2013 Apr) 
+144. Duncan A, Yacoubian C, Watson N, Morrison I The risk of copper deficiency in patients prescribed zinc supplements. J Clin Pathol. (2015 Sep) 
+145. Willis MS, Monaghan SA, Miller ML, McKenna RW, Perkins WD, Levinson BS, Bhushan V, Kroft SH Zinc-induced copper deficiency: a report of three cases initially recognized on bone marrow examination. Am J Clin Pathol. (2005 Jan) 
+146. Institute of Medicine et al. Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, Manganese, Molybdenum, Nickel, Silicon, Vanadium, and Zinc. The National Academies Press. (2001) 
+147. Maret W, Sandstead HH Zinc requirements and the risks and benefits of zinc supplementation. J Trace Elem Med Biol. (2006) 
+148. Maverakis E, Fung MA, Lynch PJ, Draznin M, Michael DJ, Ruben B, Fazel N Acrodermatitis enteropathica and an overview of zinc metabolism. J Am Acad Dermatol. (2007 Jan) 
+149. Neldner KH, Hambidge KM Zinc therapy of acrodermatitis enteropathica. N Engl J Med. (1975 Apr 24) 
+150. Wegmüller R, Tay F, Zeder C, Brnic M, Hurrell RF Zinc absorption by young adults from supplemental zinc citrate is comparable with that from zinc gluconate and higher than from zinc oxide. J Nutr. (2014 Feb) 
+151. Barrie SA, Wright JV, Pizzorno JE, Kutter E, Barron PC Comparative absorption of zinc picolinate, zinc citrate and zinc gluconate in humans. Agents Actions. (1987 Jun) 
+152. Gandia P, Bour D, Maurette JM, Donazzolo Y, Duchène P, Béjot M, Houin G A bioavailability study comparing two oral formulations containing zinc (Zn bis-glycinate vs. Zn gluconate) after a single administration to twelve healthy female volunteers. Int J Vitam Nutr Res. (2007 Jul) 
+153. Bel-Serrat S, Stammers AL, Warthon-Medina M, Moran VH, Iglesia-Altaba I, Hermoso M, Moreno LA, Lowe NM, EURRECA Network Factors that affect zinc bioavailability and losses in adult and elderly populations. Nutr Rev. (2014 May) 
+154. Schlemmer U, Frølich W, Prieto RM, Grases F Phytate in foods and significance for humans: food sources, intake, processing, bioavailability, protective role and analysis. Mol Nutr Food Res. (2009 Sep) 
+155. Hua Y, Clark S, Ren J, Sreejayan N Molecular mechanisms of chromium in alleviating insulin resistance. J Nutr Biochem. (2012 Apr) 
+156. Vincent JB Is the Pharmacological Mode of Action of Chromium(III) as a Second Messenger?. Biol Trace Elem Res. (2015 Jul) 157. Kaur B, Henry J Micronutrient status in type 2 diabetes: a review. Adv Food Nutr Res. (2014) 
+158. Ngala RA, Awe MA, Nsiah P The effects of plasma chromium on lipid profile, glucose metabolism and cardiovascular risk in type 2 diabetes mellitus. A case - control study. PLoS One. (2018 Jul 5) 
+159. Flores CR, Puga MP, Wrobel K, Garay Sevilla ME, Wrobel K Trace elements status in diabetes mellitus type 2: possible role of the interaction between molybdenum and copper in the progress of typical complications. Diabetes Res Clin Pract. (2011 Mar) 
+160. Gluschenko N, Vasylyshyn Kh, Roschupkin A, Lekishvili S, Gladchenko O THE CONTENT OF MICROELEMENTS IN BLOOD SERUM AND ERYTHROCYTES IN CHILDREN WITH DIABETES MELLITUS TYPE I DEPENDING ON LEVEL OF GLYCEMIC CONTROL. Georgian Med News. (2016 Jan) 
+161. Kazi TG, Afridi HI, Kazi N, Jamali MK, Arain MB, Jalbani N, Kandhro GA Copper, chromium, manganese, iron, nickel, and zinc levels in biological samples of diabetes mellitus patients. Biol Trace Elem Res. (2008 Apr) 
+162. Chen S, Jin X, Shan Z, Li S, Yin J, Sun T, Luo C, Yang W, Yao P, Yu K, Zhang Y, Cheng Q, Cheng J, Bao W, Liu L Inverse Association of Plasma Chromium Levels with Newly Diagnosed Type 2 Diabetes: A Case-Control Study. Nutrients. (2017 Mar 17) 
+163. Zhou Q, Guo W, Jia Y, Xu J Comparison of Chromium and Iron Distribution in Serum and Urine among Healthy People and Prediabetes and Diabetes Patients. Biomed Res Int. (2019 Feb 24) 
+164. Huang H, Chen G, Dong Y, Zhu Y, Chen H Chromium supplementation for adjuvant treatment of type 2 diabetes mellitus: Results from a pooled analysis. Mol Nutr Food Res. (2018 Jan) 
+165. Jain SK, Kahlon G, Morehead L, Dhawan R, Lieblong B, Stapleton T, Caldito G, Hoeldtke R, Levine SN, Bass PF 3rd Effect of chromium dinicocysteinate supplementation on circulating levels of insulin, TNF-α, oxidative stress, and insulin resistance in type 2 diabetic subjects: randomized, double-blind, placebo-controlled study. Mol Nutr Food Res. (2012 Aug) 
+166. Guimarães MM, Martins Silva Carvalho AC, Silva MS Chromium nicotinate has no effect on insulin sensitivity, glycemic control, and lipid profile in subjects with type 2 diabetes. J Am Coll Nutr. (2013) 
+167. Abraham AS, Brooks BA, Eylath U The effects of chromium supplementation on serum glucose and lipids in patients with and without non-insulin-dependent diabetes. Metabolism. (1992 Jul) 
+168. Fazelian S, Rouhani MH, Bank SS, Amani R Chromium supplementation and polycystic ovary syndrome: A systematic review and meta-analysis. J Trace Elem Med Biol. (2017 Jul) 
+169. Heshmati J, Omani-Samani R, Vesali S, Maroufizadeh S, Rezaeinejad M, Razavi M, Sepidarkish M The Effects of Supplementation with Chromium on Insulin Resistance Indices in Women with Polycystic Ovarian Syndrome: A Systematic Review and Meta-Analysis of Randomized Clinical Trials. Horm Metab Res. (2018 Mar) 
+67
+170. Tang XL, Sun Z, Gong L Chromium supplementation in women with polycystic ovary syndrome: Systematic review and meta analysis. J Obstet Gynaecol Res. (2018 Jan) 
+171. McIver DJ, Grizales AM, Brownstein JS, Goldfine AB Risk of Type 2 Diabetes Is Lower in US Adults Taking Chromium Containing Supplements. J Nutr. (2015 Dec) 
+172. Frauchiger MT, Wenk C, Colombani PC Effects of acute chromium supplementation on postprandial metabolism in healthy young men. J Am Coll Nutr. (2004 Aug) 
+173. Riales R, Albrink MJ Effect of chromium chloride supplementation on glucose tolerance and serum lipids including high-density lipoprotein of adult men. Am J Clin Nutr. (1981 Dec) 
+174. Amato P, Morales AJ, Yen SS Effects of chromium picolinate supplementation on insulin sensitivity, serum lipids, and body composition in healthy, nonobese, older men and women. J Gerontol A Biol Sci Med Sci. (2000 May) 
+175. Masharani U, Gjerde C, McCoy S, Maddux BA, Hessler D, Goldfine ID, Youngren JF Chromium supplementation in non-obese non-diabetic subjects is associated with a decline in insulin sensitivity. BMC Endocr Disord. (2012 Nov 30) 
+176. Thomas VL, Gropper SS Effect of chromium nicotinic acid supplementation on selected cardiovascular disease risk factors. Biol Trace Elem Res. (1996 Dec) 
+177. Wilson BE, Gondy A Effects of chromium supplementation on fasting insulin levels and lipid parameters in healthy, non-obese young subjects. Diabetes Res Clin Pract. (1995 Jun) 
+178. Offenbacher EG, Rinko CJ, Pi-Sunyer FX The effects of inorganic chromium and brewer's yeast on glucose tolerance, plasma lipids, and plasma chromium in elderly subjects. Am J Clin Nutr. (1985 Sep) 
+179. Cerulli J, Grabe DW, Gauthier I, Malone M, McGoldrick MD Chromium picolinate toxicity. Ann Pharmacother. (1998 Apr) 
+180. Medagama AB The glycaemic outcomes of Cinnamon, a review of the experimental evidence and clinical trials. Nutr J. (2015 Oct 16) 
+181. Khan A, Safdar M, Ali Khan MM, Khattak KN, Anderson RA Cinnamon improves glucose and lipids of people with type 2 diabetes. Diabetes Care. (2003 Dec) 
+182. Vanschoonbeek K, Thomassen BJ, Senden JM, Wodzig WK, van Loon LJ Cinnamon supplementation does not improve glycemic control in postmenopausal type 2 diabetes patients. J Nutr. (2006 Apr) 
+183. Mang B, Wolters M, Schmitt B, Kelb K, Lichtinghagen R, Stichtenoth DO, Hahn A Effects of a cinnamon extract on plasma glucose, HbA, and serum lipids in diabetes mellitus type 2. Eur J Clin Invest. (2006 May) 
+184. Ziegenfuss TN, Hofheins JE, Mendel RW, Landis J, Anderson RA Effects of a water-soluble cinnamon extract on body composition and features of the metabolic syndrome in pre-diabetic men and women. J Int Soc Sports Nutr. (2006 Dec 28) 
+185. Suppapitiporn S, Kanpaksi N, Suppapitiporn S The effect of cinnamon cassia powder in type 2 diabetes mellitus. J Med Assoc Thai. (2006 Sep) 
+186. Roussel AM, Hininger I, Benaraba R, Ziegenfuss TN, Anderson RA Antioxidant effects of a cinnamon extract in people with impaired fasting glucose that are overweight or obese. J Am Coll Nutr. (2009 Feb) 
+187. Crawford P Effectiveness of cinnamon for lowering hemoglobin A1C in patients with type 2 diabetes: a randomized, controlled trial. J Am Board Fam Med. (2009 Sep-Oct) 
+188. Vafa M, Mohammadi F, Shidfar F, Sormaghi MS, Heidari I, Golestan B, Amiri F Effects of cinnamon consumption on glycemic status, lipid profile and body composition in type 2 diabetic patients. Int J Prev Med. (2012 Aug) 
+189. Lu T, Sheng H, Wu J, Cheng Y, Zhu J, Chen Y Cinnamon extract improves fasting blood glucose and glycosylated hemoglobin level in Chinese patients with type 2 diabetes. Nutr Res. (2012 Jun) 
+190. Hasanzade F, Toliat M, Emami SA, Emamimoghaadam Z The Effect of Cinnamon on Glucose of Type II Diabetes Patients. J Tradit Complement Med. (2013 Jul) 
+191. Wickenberg J, Lindstedt S, Nilsson J, Hlebowicz J Cassia cinnamon does not change the insulin sensitivity or the liver enzymes in subjects with impaired glucose tolerance. Nutr J. (2014 Sep 24) 
+192. Talaei B, Amouzegar A, Sahranavard S, Hedayati M, Mirmiran P, Azizi F Effects of Cinnamon Consumption on Glycemic Indicators, Advanced Glycation End Products, and Antioxidant Status in Type 2 Diabetic Patients. Nutrients. (2017 Sep 8) 
+193. Akilen R, Tsiami A, Devendra D, Robinson N Glycated haemoglobin and blood pressure-lowering effect of cinnamon in multi ethnic Type 2 diabetic patients in the UK: a randomized, placebo-controlled, double-blind clinical trial. Diabet Med. (2010 Oct) 
+194. Mirfeizi M, Mehdizadeh Tourzani Z, Mirfeizi SZ, Asghari Jafarabadi M, Rezvani HR, Afzali M Controlling type 2 diabetes mellitus with herbal medicines: A triple-blind randomized clinical trial of efficacy and safety. J Diabetes. (2016 Sep) 
+195. Gupta Jain S, Puri S, Misra A, Gulati S, Mani K Effect of oral cinnamon intervention on metabolic profile and body composition of Asian Indians with metabolic syndrome: a randomized double -blind control trial. Lipids Health Dis. (2017 Jun 12) 
+196. Zare R, Nadjarzadeh A, Zarshenas MM, Shams M, Heydari M Efficacy of cinnamon in patients with type II diabetes mellitus: A randomized controlled clinical trial. Clin Nutr. (2019 Apr) 
+197. Blevins SM, Leyva MJ, Brown J, Wright J, Scofield RH, Aston CE Effect of cinnamon on glucose and lipid levels in non insulin dependent type 2 diabetes. Diabetes Care. (2007 Sep) 
+198. Khan R, Khan Z, Shah SH Cinnamon May Reduce Glucose, Lipid and Cholesterol Level in Type 2 Diabetic Individuals. Pakistan Journal of Nutrition. (2010) 
+68
+199. Askari F, Rashidkhani B, Hekmatdoost A Cinnamon may have therapeutic benefits on lipid profile, liver enzymes, insulin resistance, and high-sensitivity C-reactive protein in nonalcoholic fatty liver disease patients. Nutr Res. (2014 Feb) 
+200. Hajimonfarednejad M, Nimrouzi M, Heydari M, Zarshenas MM, Raee MJ, Jahromi BN Insulin resistance improvement by cinnamon powder in polycystic ovary syndrome: A randomized double-blind placebo controlled clinical trial. Phytother Res. (2018 Feb) 
+201. Borzoei A, Rafraf M, Asghari-Jafarabadi M Cinnamon improves metabolic factors without detectable effects on adiponectin in women with polycystic ovary syndrome. Asia Pac J Clin Nutr. (2018) 
+202. Solomon TP, Blannin AK Effects of short-term cinnamon ingestion on in vivo glucose tolerance. Diabetes Obes Metab. (2007 Nov) 
+203. Hlebowicz J, Darwiche G, Björgell O, Almér LO Effect of cinnamon on postprandial blood glucose, gastric emptying, and satiety in healthy subjects. Am J Clin Nutr. (2007 Jun) 
+204. Hlebowicz J, Hlebowicz A, Lindstedt S, Björgell O, Höglund P, Holst JJ, Darwiche G, Almér LO Effects of 1 and 3 g cinnamon on gastric emptying, satiety, and postprandial blood glucose, insulin, glucose-dependent insulinotropic polypeptide, glucagon-like peptide 1, and ghrelin concentrations in healthy subjects. Am J Clin Nutr. (2009 Mar) 
+205. Mettler S, Schwarz I, Colombani PC Additive postprandial blood glucose-attenuating and satiety-enhancing effect of cinnamon and acetic acid. Nutr Res. (2009 Oct) 
+206. Beejmohun V, Peytavy-Izard M, Mignon C, Muscente-Paque D, Deplanque X, Ripoll C, Chapal N Acute effect of Ceylon cinnamon extract on postprandial glycemia: alpha-amylase inhibition, starch tolerance test in rats, and randomized crossover clinical trial in healthy volunteers. BMC Complement Altern Med. (2014 Sep 23) 
+207. Markey O, McClean CM, Medlow P, Davison GW, Trinick TR, Duly E, Shafat A Effect of cinnamon on gastric emptying, arterial stiffness, postprandial lipemia, glycemia, and appetite responses to high-fat breakfast. Cardiovasc Diabetol. (2011 Sep 7) 
+208. Magistrelli A, Chezem JC Effect of ground cinnamon on postprandial blood glucose concentration in normal-weight and obese adults. J Acad Nutr Diet. (2012 Nov) 
+209. Bernardo MA, Silva ML, Santos E, Moncada MM, Brito J, Proença L, Singh J, de Mesquita MF Effect of Cinnamon Tea on Postprandial Glucose Concentration. J Diabetes Res. (2015) 
+210. Gutierrez JL, Bowden RG, Willoughby DS Cassia Cinnamon Supplementation Reduces Peak Blood Glucose Responses but Does Not Improve Insulin Resistance and Sensitivity in Young, Sedentary, Obese Women. J Diet Suppl. (2016) 
+211. Hochkogler CM, Hoi JK, Lieder B, Müller N, Hans J, Widder S, Ley JP, Somoza V Cinnamyl Isobutyrate Decreases Plasma Glucose Levels and Total Energy Intake from a Standardized Breakfast: A Randomized, Crossover Intervention. Mol Nutr Food Res. (2018 Sep) 
+212. Sproll C, Ruge W, Andlauer C, Godelmann R, Lachenmeier DW HPLC analysis and safety assessment of coumarin in foods. Food Chem. (2008 Jul 15) 
+213. Abraham K, Wöhrlin F, Lindtner O, Heinemeyer G, Lampen A Toxicology and risk assessment of coumarin: focus on human data. Mol Nutr Food Res. (2010 Feb) 
+214. Aguilar F, et. al. Coumarin in flavorings and other food ingredients with flavoring properties ‐ Scientific Opinion of the Panel on Food Additives, Flavourings, Processing Aids and Materials in Contact with Food (AFC). EFSA Journal. (2008 OCT) 
+215. Hajimonfarednejad M, Ostovar M, Raee MJ, Hashempur MH, Mayer JG, Heydari M Cinnamon: A systematic review of adverse events. Clin Nutr. (2019 Apr) 
+216. Ranasinghe P, Jayawardena R, Pigera S, Wathurapatha WS, Weeratunga HD, Premakumara GAS, Katulanda P, Constantine GR, Galappaththy P Evaluation of pharmacodynamic properties and safety of Cinnamomum zeylanicum (Ceylon cinnamon) in healthy adults: a phase I clinical trial. BMC Complement Altern Med. (2017 Dec 28) 
+217. Abraham K, Pfister M, Wöhrlin F, Lampen A Relative bioavailability of coumarin from cinnamon and cinnamon-containing foods compared to isolated coumarin: a four-way crossover study in human volunteers. Mol Nutr Food Res. (2011 Apr) 
+218. Kim JI, Kim JC, Kang MJ, Lee MS, Kim JJ, Cha IJ Effects of pinitol isolated from soybeans on glycaemic control and cardiovascular risk factors in Korean patients with type II diabetes mellitus: a randomized controlled study. Eur J Clin Nutr. (2005 Mar) 
+219. Kim HJ, Park KS, Lee SK, Min KW, Han KA, Kim YK, Ku BJ Effects of pinitol on glycemic control, insulin resistance and adipocytokine levels in patients with type 2 diabetes mellitus. Ann Nutr Metab. (2012) 
+220. Davis A, Christiansen M, Horowitz JF, Klein S, Hellerstein MK, Ostlund RE Jr Effect of pinitol treatment on insulin action in subjects with insulin resistance. Diabetes Care. (2000 Jul) 
+221. Choi JY, Shin SK, Jeon SM, Baek NI, Chung HG, Jeong TS, Lee KT, Lee MK, Choi MS Dose-response study of sajabalssuk ethanol extract from Artemisia princeps Pampanini on blood glucose in subjects with impaired fasting glucose or mild type 2 diabetes. J Med Food. (2011 Jan-Feb) 
+222. Santamaria A, Giordano D, Corrado F, Pintaudi B, Interdonato ML, Vieste GD, Benedetto AD, D'Anna R One-year effects of myo inositol supplementation in postmenopausal women with metabolic syndrome. Climacteric. (2012 Oct) 
+223. Giordano D, Corrado F, Santamaria A, Quattrone S, Pintaudi B, Di Benedetto A, D'Anna R Effects of myo-inositol supplementation in postmenopausal women with metabolic syndrome: a perspective, randomized, placebo-controlled study. Menopause. (2011 Jan) 
+69
+224. Cho YY, Baek NI, Chung HG, Jeong TS, Lee KT, Jeon SM, Kim HJ, McGregor RA, Choi MS Randomized controlled trial of Sajabalssuk (Artemisia princeps Pampanini) to treat pre-diabetes. Eur. J. Integr. Med.. (2012 SEP) 
+225. Mijares AH, Banuls C, Llopis SR, Álvarez A, Orden S, Puchol OR, Víctor VM, Rocha M Chronic consumption of an inositol enriched beverage ameliorates endothelial dysfunction and oxidative stress in type 2 diabetes. J. Funct. Foods. (2015 OCT) 
+226. Bañuls C, Rovira-Llopis S, Falcón R, Veses S, Monzó N, Víctor VM, Rocha M, Hernández-Mijares A Chronic consumption of an inositol-enriched carob extract improves postprandial glycaemia and insulin sensitivity in healthy subjects: A randomized controlled trial. Clin Nutr. (2016 Jun) 
+227. Miura T, Takagi S, Ishida T Management of Diabetes and Its Complications with Banaba (Lagerstroemia speciosa L.) and Corosolic Acid. Evid Based Complement Alternat Med. (2012) 
+228. Stohs SJ, Miller H, Kaats GR A review of the efficacy and safety of banaba (Lagerstroemia speciosa L.) and corosolic acid. Phytother Res. (2012 Mar) 
+229. Takagi S, Miura T, Ishibashi C, Kawata T, Ishihara E, Gu Y, Ishida T Effect of corosolic acid on the hydrolysis of disaccharides. J Nutr Sci Vitaminol (Tokyo). (2008 Jun) 
+230. Fukushima M, Matsuyama F, Ueda N, Egawa K, Takemoto J, Kajimoto Y, Yonaha N, Miura T, Kaneko T, Nishi Y, Mitsui R, Fujita Y, Yamada Y, Seino Y Effect of corosolic acid on postchallenge plasma glucose levels. Diabetes Res Clin Pract. (2006 Aug) 
+231. Judy WV, Hari SP, Stogsdill WW, Judy JS, Naguib YM, Passwater R Antidiabetic activity of a standardized extract (Glucosol) from Lagerstroemia speciosa leaves in Type II diabetics. A dose-dependence study. J Ethnopharmacol. (2003 Jul) 
+232. Manaf A, Tjandrawinata RR, Malinda D Insulin sensitizer in prediabetes: a clinical study with DLBS3233, a combined bioactive fraction of Cinnamomum burmanii and Lagerstroemia speciosa. Drug Des Devel Ther. (2016 Mar 29) 
+233. Tjokroprawiro A, Murtiwi S, Tjandrawinata RR DLBS3233, a combined bioactive fraction of Cinnamomum burmanii and Lagerstroemia speciosa, in type-2 diabetes mellitus patients inadequately controlled by metformin and other oral antidiabetic agents. J Complement Integr Med. (2016 Dec 1) 
+234. Canale RE, Farney TM, McCarthy CG, Bloomer RJ A blend of phellodendron and crape myrtle improves glucose tolerance in exercise-trained men. Nutr Metab Insights. (2011 Sep 13) 
+235. Layman DK, Walker DA Potential importance of leucine in treatment of obesity and the metabolic syndrome. J Nutr. (2006 Jan) 
+236. Chartrand D, Da Silva MS, Julien P, Rudkowska I Influence of Amino Acids in Dairy Products on Glucose Homeostasis: The Clinical Evidence. Can J Diabetes. (2017 Jun) 
+237. Blomstrand E, Andersson S, Hassmén P, Ekblom B, Newsholme EA Effect of branched-chain amino acid and carbohydrate supplementation on the exercise-induced change in plasma and muscle concentration of amino acids in human subjects. Acta Physiol Scand. (1995 Feb) 
+238. Gualano AB, Bozza T, Lopes De Campos P, Roschel H, Dos Santos Costa A, Luiz Marquezi M, Benatti F, Herbert Lancha Junior A Branched-chain amino acids supplementation enhances exercise capacity and lipid oxidation during endurance exercise after muscle glycogen depletion. J Sports Med Phys Fitness. (2011 Mar) 
+239. Wiśnik P, Chmura J, Ziemba AW, Mikulski T, Nazar K The effect of branched chain amino acids on psychomotor performance during treadmill exercise of changing intensity simulating a soccer game. Appl Physiol Nutr Metab. (2011 Dec) 
+240. Smith JW, Krings BM, Shepherd BD, Waldman HS, Basham SA, McAllister MJ Effects of carbohydrate and branched-chain amino acid beverage ingestion during acute upper body resistance exercise on performance and postexercise hormone response. Appl Physiol Nutr Metab. (2018 May) 
+241. Ullrich SS, Fitzgerald PC, Schober G, Steinert RE, Horowitz M, Feinle-Bisset C Intragastric administration of leucine or isoleucine lowers the blood glucose response to a mixed-nutrient drink by different mechanisms in healthy, lean volunteers. Am J Clin Nutr. (2016 Nov) 
+242. Nuttall FQ, Schweim K, Gannon MC Effect of orally administered isoleucine with and without glucose on insulin, glucagon and glucose concentrations in non-diabetic subjects. ESPEN. (2008 AUG) 
+243. Kalogeropoulou D, Lafave L, Schweim K, Gannon MC, Nuttall FQ Leucine, when ingested with glucose, synergistically stimulates insulin secretion and lowers blood glucose. Metabolism. (2008 Dec) 
+244. Casperson SL, Sheffield-Moore M, Hewlings SJ, Paddon-Jones D Leucine supplementation chronically improves muscle protein synthesis in older adults consuming the RDA for protein. Clin Nutr. (2012 Aug) 
+245. Leenders M, Verdijk LB, van der Hoeven L, van Kranenburg J, Hartgens F, Wodzig WK, Saris WH, van Loon LJ Prolonged leucine supplementation does not augment muscle mass or affect glycemic control in elderly type 2 diabetic men. J Nutr. (2011 Jun) 
+246. Verhoeven S, Vanschoonbeek K, Verdijk LB, Koopman R, Wodzig WK, Dendale P, van Loon LJ Long-term leucine supplementation does not increase muscle mass or strength in healthy elderly men. Am J Clin Nutr. (2009 May) 
+247. Gannon NP, Schnuck JK, Vaughan RA BCAA Metabolism and Insulin Sensitivity - Dysregulated by Metabolic Status?. Mol Nutr Food Res. (2018 Mar) 
+248. Brunetta HS, de Camargo CQ, Nunes EA Does L-leucine supplementation cause any effect on glucose homeostasis in rodent models of glucose intolerance? A systematic review. Amino Acids. (2018 Dec) 
+249. Kurpad AV, Regan MM, Raj T, Gnanou JV Branched-chain amino acid requirements in healthy adult human subjects. J Nutr. (2006 Jan) 
+70
+250. Pinto CL, Botelho PB, Pimentel GD, Campos-Ferraz PL, Mota JF Creatine supplementation and glycemic control: a systematic review. Amino Acids. (2016 Sep) 
+251. Forbes SC, Sletten N, Durrer C, Myette-Côté É, Candow D, Little JP Creatine Monohydrate Supplementation Does Not Augment Fitness, Performance, or Body Composition Adaptations in Response to Four Weeks of High-Intensity Interval Training in Young Females. Int J Sport Nutr Exerc Metab. (2017 Jun) 
+252. Gualano B, DE Salles Painneli V, Roschel H, Artioli GG, Neves M Jr, De Sá Pinto AL, Da Silva ME, Cunha MR, Otaduy MC, Leite Cda C, Ferreira JC, Pereira RM, Brum PC, Bonfá E, Lancha AH Jr Creatine in type 2 diabetes: a randomized, double-blind, placebo-controlled trial. Med Sci Sports Exerc. (2011 May) 
+253. Gualano B, Novaes RB, Artioli GG, Freire TO, Coelho DF, Scagliusi FB, Rogeri PS, Roschel H, Ugrinowitsch C, Lancha AH Jr Effects of creatine supplementation on glucose tolerance and insulin sensitivity in sedentary healthy males undergoing aerobic training. Amino Acids. (2008 Feb) 
+254. van Loon LJ, Murphy R, Oosterlaar AM, Cameron-Smith D, Hargreaves M, Wagenmakers AJ, Snow R Creatine supplementation increases glycogen storage but not GLUT-4 expression in human skeletal muscle. Clin Sci (Lond). (2004 Jan) 
+255. Newman JE, Hargreaves M, Garnham A, Snow RJ Effect of creatine ingestion on glucose tolerance and insulin sensitivity in men. Med Sci Sports Exerc. (2003 Jan) 
+256. Rooney KB, Bryson JM, Digney AL, Rae CD, Thompson CH Creatine supplementation affects glucose homeostasis but not insulin secretion in humans. Ann Nutr Metab. (2003) 
+257. Manjarrez-Montes de Oca R, Farfán-González F, Camarillo-Romero S, Tlatempa-Sotelo P, Francisco-Argüelles C, Kormanowski A, González-Gallego J, Alvear-Ordenes I Effects of creatine supplementation in taekwondo practitioners. Nutr Hosp. (2013 Mar Apr) 
+258. Derave W, Eijnde BO, Verbessem P, Ramaekers M, Van Leemputte M, Richter EA, Hespel P Combined creatine and protein supplementation in conjunction with resistance training promotes muscle GLUT-4 content and glucose tolerance in humans. J Appl Physiol (1985). (2003 May) 
+259. Earnest CP, Almada AL, Mitchell TL High-performance capillary electrophoresis-pure creatine monohydrate reduces blood lipids in men and women. Clin Sci (Lond). (1996 Jul) 
+260. Alves CR, Ferreira JC, de Siqueira-Filho MA, Carvalho CR, Lancha AH Jr, Gualano B Creatine-induced glucose uptake in type 2 diabetes: a role for AMPK-α?. Amino Acids. (2012 Oct) 
+261. Op 't Eijnde B, Ursø B, Richter EA, Greenhaff PL, Hespel P Effect of oral creatine supplementation on human muscle GLUT4 protein content after immobilization. Diabetes. (2001 Jan) 
+262. Yan-Do R, MacDonald PE Impaired "Glycine"-mia in Type 2 Diabetes and Potential Mechanisms Contributing to Glucose Homeostasis. Endocrinology. (2017 May 1) 
+263. Cruz M, Maldonado-Bernal C, Mondragón-Gonzalez R, Sanchez-Barrera R, Wacher NH, Carvajal-Sandoval G, Kumate J Glycine treatment decreases proinflammatory cytokines and increases interferon-gamma in patients with type 2 diabetes. J Endocrinol Invest. (2008 Aug) 
+264. Gannon MC, Nuttall JA, Nuttall FQ The metabolic response to ingested glycine. Am J Clin Nutr. (2002 Dec) 
+265. Zhang H, Lv Y, Li Z, Sun L, Guo W The efficacy of myo-inositol supplementation to prevent gestational diabetes onset: a meta analysis of randomized controlled trials. J Matern Fetal Neonatal Med. (2019 Jul) 
+266. Guo X, Guo S, Miao Z, Li Z, Zhang H Myo-inositol lowers the risk of developing gestational diabetic mellitus in pregnancies: A systematic review and meta-analysis of randomized controlled trials with trial sequential analysis. J Diabetes Complications. (2018 Mar) 
+267. Martis R, Crowther CA, Shepherd E, Alsweiler J, Downie MR, Brown J Treatments for women with gestational diabetes mellitus: an overview of Cochrane systematic reviews. Cochrane Database Syst Rev. (2018 Aug 14) 
+268. Stohs SJ, Ray S Anti-diabetic and Anti-hyperlipidemic Effects and Safety of Salacia reticulata and Related Species. Phytother Res. (2015 Jul) 
+269. Kushwaha PS, Singh AK, Keshari AK, Maity S, Saha S An Updated Review on the Phytochemistry, Pharmacology, and Clinical Trials of Salacia oblonga. Pharmacogn Rev. (2016 Jul-Dec) 
+270. Heacock PM, Hertzler SR, Williams JA, Wolf BW Effects of a medical food containing an herbal alpha-glucosidase inhibitor on postprandial glycemia and insulinemia in healthy adults. J Am Diet Assoc. (2005 Jan) 
+271. Collene AL, Hertzler SR, Williams JA, Wolf BW Effects of a nutritional supplement containing Salacia oblonga extract and insulinogenic amino acids on postprandial glycemia, insulinemia, and breath hydrogen responses in healthy adults. Nutrition. (2005 Jul-Aug) 
+272. Williams JA, Choe YS, Noss MJ, Baumgartner CJ, Mustad VA Extract of Salacia oblonga lowers acute glycemia in patients with type 2 diabetes. Am J Clin Nutr. (2007 Jul) 
+273. Koteshwar P, Raveendra KR, Allan JJ, Goudar KS, Venkateshwarlu K, Agarwal A Effect of NR-Salacia on post-prandial hyperglycemia: A randomized double blind, placebo-controlled, crossover study in healthy volunteers. Pharmacogn Mag. (2013 Oct) 
+274. Jeykodi S, Deshpande J, Juturu V Salacia Extract Improves Postprandial Glucose and Insulin Response: A Randomized Double-Blind, Placebo Controlled, Crossover Study in Healthy Volunteers. J Diabetes Res. (2016) 
+71
+275. Hao L, Schlussel Y, Fieselmann K, Schneider SH, Shapses SA Appetite and Gut Hormones Response to a Putative α Glucosidase Inhibitor, Salacia Chinensis, in Overweight/Obese Adults: A Double Blind Randomized Controlled Trial. Nutrients. (2017 Aug 12) 
+276. Shivaprasad HN, Bhanumathy M, Sushma G, Midhun T, Raveendra KR, Sushma KR, Venkateshwarlu K Salacia reticulata improves serum lipid profiles and glycemic control in patients with prediabetes and mild to moderate hyperlipidemia: a double blind, placebo-controlled, randomized trial. J Med Food. (2013 Jun) 
+277. Zhu W, Du Y, Meng H, Dong Y, Li L A review of traditional pharmacological uses, phytochemistry, and pharmacological activities of Tribulus terrestris. Chem Cent J. (2017 Jul 11) 
+278. Samani NB, Jokar A, Soveid M, Heydari M, Mosavat SH Efficacy of the Hydroalcoholic Extract of Tribulus terrestris on the Serum Glucose and Lipid Profile of Women With Diabetes Mellitus: A Double-Blind Randomized Placebo-Controlled Clinical Trial. J Evid Based Complementary Altern Med. (2016 Oct) 
+279. Lim J, Henry CJ, Haldar S Vinegar as a functional ingredient to improve postprandial glycemic control-human intervention findings and molecular mechanisms. Mol Nutr Food Res. (2016 Aug) 
+280. Shishehbor F, Mansoori A, Shirani F Vinegar consumption can attenuate postprandial glucose and insulin responses; a systematic review and meta-analysis of clinical trials. Diabetes Res Clin Pract. (2017 May) 
+281. Kondo T, Kishi M, Fushimi T, Ugajin S, Kaga T Vinegar intake reduces body weight, body fat mass, and serum triglyceride levels in obese Japanese subjects. Biosci Biotechnol Biochem. (2009 Aug) 
+282. Derakhshandeh-Rishehri SM, Heidari-Beni M, Feizi A, Askari GR, Entezari MH Effect of honey vinegar syrup on blood sugar and lipid profile in healthy subjects. Int J Prev Med. (2014 Dec) 
+283. Johnston CS, White AM, Kent SM Preliminary evidence that regular vinegar ingestion favorably influences hemoglobin A1c values in individuals with type 2 diabetes mellitus. Diabetes Res Clin Pract. (2009 May) 
+284. Panetta CJ, Jonk YC, Shapiro AC Prospective randomized clinical trial evaluating the impact of vinegar on lipids in non diabetics. WJCD. (2013) 
+285. Gheflati A, Bashiri R, Ghadiri-Anari A, Reza JZ, Kord MT, Nadjarzadeh A The effect of apple vinegar consumption on glycemic indices, blood pressure, oxidative stress, and homocysteine in patients with type 2 diabetes and dyslipidemia: A randomized controlled clinical trial. Clin Nutr ESPEN. (2019 Oct) 
+286. Jasbi P, Baker O, Shi X, Gonzalez LA, Wang S, Anderson S, Xi B, Gu H, Johnston CS Daily red wine vinegar ingestion for eight weeks improves glucose homeostasis and affects the metabolome but does not reduce adiposity in adults. Food Funct. (2019 Nov 1) 
+287. Sargeant LA, Wareham NJ, Bingham S, Day NE, Luben RN, Oakes S, Welch A, Khaw KT Vitamin C and hyperglycemia in the European Prospective Investigation into Cancer--Norfolk (EPIC-Norfolk) study: a population-based study. Diabetes Care. (2000 Jun) 
+288. Kositsawat J, Freeman VL Vitamin C and A1c relationship in the National Health and Nutrition Examination Survey (NHANES) 2003-2006. J Am Coll Nutr. (2011 Dec) 
+289. Will JC, Byers T Does diabetes mellitus increase the requirement for vitamin C?. Nutr Rev. (1996 Jul) 
+290. Wilson R, Willis J, Gearry R, Skidmore P, Fleming E, Frampton C, Carr A Inadequate Vitamin C Status in Prediabetes and Type 2 Diabetes Mellitus: Associations with Glycaemic Control, Obesity, and Smoking. Nutrients. (2017 Sep 9) 
+291. Chen H, Karne RJ, Hall G, Campia U, Panza JA, Cannon RO 3rd, Wang Y, Katz A, Levine M, Quon MJ High-dose oral vitamin C partially replenishes vitamin C levels in patients with Type 2 diabetes and low vitamin C levels but does not improve endothelial dysfunction or insulin resistance. Am J Physiol Heart Circ Physiol. (2006 Jan) 
+292. Tousoulis D, Antoniades C, Vasiliadou C, Kourtellaris P, Koniari K, Marinou K, Charakida M, Ntarladimas I, Siasos G, Stefanadis C Effects of atorvastatin and vitamin C on forearm hyperaemic blood flow, asymmentrical dimethylarginine levels and the inflammatory process in patients with type 2 diabetes mellitus. Heart. (2007 Feb) 
+293. Dakhale GN, Chaudhari HV, Shrivastava M Supplementation of vitamin C reduces blood glucose and improves glycosylated hemoglobin in type 2 diabetes mellitus: a randomized, double-blind study. Adv Pharmacol Sci. (2011) 
+294. Mahmoudabadi MM, Djalali M, Djazayery SA, Keshavarz SA, Eshraghian MR, Yaraghi AA, Askari G, Ghiasvand R, Zarei M Effects of eicosapentaenoic acid and vitamin C on glycemic indices, blood pressure, and serum lipids in type 2 diabetic Iranian males. J Res Med Sci. (2011 Mar) 
+295. Gutierrez AD, Duran-Valdez E, Robinson I, de Serna DG, Schade DS Does short-term vitamin C reduce cardiovascular risk in type 2 diabetes?. Endocr Pract. (2013 Sep-Oct) 
+296. Siavash M, Amini M Vitamin C may have similar beneficial effects to Gemfibrozil on serum high-density lipoprotein-cholesterol in type 2 diabetic patients. J Res Pharm Pract. (2014 Jul) 
+297. Ellulu MS, Rahmat A, Patimah I, Khaza'ai H, Abed Y Effect of vitamin C on inflammation and metabolic markers in hypertensive and/or diabetic obese adults: a randomized controlled trial. Drug Des Devel Ther. (2015 Jul 1) 
+298. Mason SA, Della Gatta PA, Snow RJ, Russell AP, Wadley GD Ascorbic acid supplementation improves skeletal muscle oxidative stress and insulin sensitivity in people with type 2 diabetes: Findings of a randomized controlled study. Free Radic Biol Med. (2016 Apr) 
+299. Bishop N, Schorah CJ, Wales JK The effect of vitamin C supplementation on diabetic hyperlipidaemia: a double blind, crossover study. Diabet Med. (1985 Mar) 
+72
+300. Mason SA, Rasmussen B, van Loon LJC, Salmon J, Wadley GD Ascorbic acid supplementation improves postprandial glycaemic control and blood pressure in individuals with type 2 diabetes: Findings of a randomized cross-over trial. Diabetes Obes Metab. (2019 Mar) 
+301. Bhatt J, Thomas S, Nanjan M Effect of oral supplementation of vitamin C on glycemic control and lipid profile in patients with type 2 diabetes mellitus. Int J Pharm Pharm Sci. (2012) 
+302. Ghaffari P, Nadiri M, Gharib A, Rahimi F The effects of vitamin C on diabetic patients. Der Pharmacia Lettre. (2015) 
+303. Ashor AW, Werner AD, Lara J, Willis ND, Mathers JC, Siervo M Effects of vitamin C supplementation on glycaemic control: a systematic review and meta-analysis of randomised controlled trials. Eur J Clin Nutr. (2017 Dec) 
+304. Choo VL, Viguiliouk E, Blanco Mejia S, Cozma AI, Khan TA, Ha V, Wolever TMS, Leiter LA, Vuksan V, Kendall CWC, de Souza RJ, Jenkins DJA, Sievenpiper JL Food sources of fructose-containing sugars and glycaemic control: systematic review and meta analysis of controlled intervention studies. BMJ. (2018 Nov 21) 
+305. Evans RA, Frese M, Romero J, Cunningham JH, Mills KE Chronic fructose substitution for glucose or sucrose in food or beverages has little effect on fasting blood glucose, insulin, or triglycerides: a systematic review and meta-analysis. Am J Clin Nutr. (2017 Aug) 
+306. Cozma AI, Sievenpiper JL, de Souza RJ, Chiavaroli L, Ha V, Wang DD, Mirrahimi A, Yu ME, Carleton AJ, Di Buono M, Jenkins AL, Leiter LA, Wolever TM, Beyene J, Kendall CW, Jenkins DJ Effect of fructose on glycemic control in diabetes: a systematic review and meta-analysis of controlled feeding trials. Diabetes Care. (2012 Jul) 
+307. Noronha JC, Braunstein CR, Blanco Mejia S, Khan TA, Kendall CWC, Wolever TMS, Leiter LA, Sievenpiper JL The Effect of Small Doses of Fructose and Its Epimers on Glycemic Control: A Systematic Review and Meta-Analysis of Controlled Feeding Trials. Nutrients. (2018 Nov 20) 
+308. Tian Y, Su L, Wang J, Duan X, Jiang X Fruit and vegetable consumption and risk of the metabolic syndrome: a meta-analysis. Public Health Nutr. (2018 Mar) 
+309. Wu Y, Zhang D, Jiang X, Jiang W Fruit and vegetable consumption and risk of type 2 diabetes mellitus: a dose-response meta analysis of prospective cohort studies. Nutr Metab Cardiovasc Dis. (2015 Feb) 
+310. Tappy L Fructose-containing caloric sweeteners as a cause of obesity and metabolic disorders. J Exp Biol. (2018 Mar 7) 
+311. Ter Horst KW, Schene MR, Holman R, Romijn JA, Serlie MJ Effect of fructose consumption on insulin sensitivity in nondiabetic subjects: a systematic review and meta-analysis of diet-intervention trials. Am J Clin Nutr. (2016 Dec) 
+312. Rojas E, Bermúdez V, Motlaghzadeh Y, Mathew J, Fidilio E, Faria J, Rojas J, de Bravo MC, Contreras J, Mantilla LP, Angarita L, Sepúlveda PA, Kuzmar I Stevia rebaudiana Bertoni and Its Effects in Human Disease: Emphasizing Its Role in Inflammation, Atherosclerosis and Metabolic Syndrome. Curr Nutr Rep. (2018 Jul 11) 
+313. Momtazi-Borojeni AA, Esmaeili SA, Abdollahi E, Sahebkar A A Review on the Pharmacology and Toxicology of Steviol Glycosides Extracted from Stevia rebaudiana. Curr Pharm Des. (2017) 
+314. Carakostas MC, Curry LL, Boileau AC, Brusick DJ Overview: the history, technical function and safety of rebaudioside A, a naturally occurring steviol glycoside, for use in food and beverages. Food Chem Toxicol. (2008 Jul) 
+315. Magnuson BA, Carakostas MC, Moore NH, Poulos SP, Renwick AG Biological fate of low-calorie sweeteners. Nutr Rev. (2016 Nov) 
+316. Ferri LA, Alves-Do-Prado W, Yamada SS, Gazola S, Batista MR, Bazotte RB Investigation of the antihypertensive effect of oral crude stevioside in patients with mild essential hypertension. Phytother Res. (2006 Sep) 
+317. Hsieh MH, Chan P, Sue YM, Liu JC, Liang TH, Huang TY, Tomlinson B, Chow MS, Kao PF, Chen YJ Efficacy and tolerability of oral stevioside in patients with mild essential hypertension: a two-year, randomized, placebo-controlled study. Clin Ther. (2003 Nov) 
+318. Chan P, Tomlinson B, Chen YJ, Liu JC, Hsieh MH, Cheng JT A double-blind placebo-controlled study of the effectiveness and tolerability of oral stevioside in human hypertension. Br J Clin Pharmacol. (2000 Sep) 
+319. Rizwan F, Rashid HU, Yesmine S, Monjur F, Chatterjee TK Preliminary analysis of the effect of Stevia (Stevia rebaudiana) in patients with chronic kidney disease (stage I to stage III). Contemp Clin Trials Commun. (2018 Aug 21) 
+320. Mayasari NR, Susetyowati, Wahyuningsih MSH, Probosuseno Antidiabetic Effect of Rosella-Stevia Tea on Prediabetic Women in Yogyakarta, Indonesia. J Am Coll Nutr. (2018 Jul) 
+321. Ritu M, Nandini J Nutritional composition of Stevia rebaudiana, a sweet herb, and its hypoglycaemic and hypolipidaemic effect on patients with non-insulin dependent diabetes mellitus. J Sci Food Agric. (2016 Sep) 
+322. Barriocanal LA, Palacios M, Benitez G, Benitez S, Jimenez JT, Jimenez N, Rojas V Apparent lack of pharmacological effect of steviol glycosides used as sweeteners in humans. A pilot study of repeated exposures in some normotensive and hypotensive individuals and in Type 1 and Type 2 diabetics. Regul Toxicol Pharmacol. (2008 Jun) 
+323. Maki KC, Curry LL, Reeves MS, Toth PD, McKenney JM, Farmer MV, Schwartz SL, Lubin BC, Boileau AC, Dicklin MR, Carakostas MC, Tarka SM Chronic consumption of rebaudioside A, a steviol glycoside, in men and women with type 2 diabetes mellitus. Food Chem Toxicol. (2008 Jul) 
+324. Abstracts of the 42nd EASD (European Association for the Study of Diabetes) Annual Meeting, Copenhagen, Denmark, 14 - 17 September 2006.. Diabetologia. (2006-Sep) 
+325. Onakpoya IJ, Heneghan CJ Effect of the natural sweetener, steviol glycoside, on cardiovascular risk factors: a systematic 73
+review and meta-analysis of randomised clinical trials. Eur J Prev Cardiol. (2015 Dec) 
+326. Wei-Te Huang, Ching-Yeh Tu, Fen-Yu Wang, Sheng-Teng Huang Literature review of liver injury induced by Tinospora crispa associated with two cases of acute fulminant hepatitis. Complement Ther Med. (2019 Feb) 
+327. Sriyapai C,Dhumma-upakorn R, Sangwatanaroj S, Kongkathip N, Krittiyanunt S Hypoglycemic Effect of Tinospora crispa Dry Powder in Outpatients with Metabolic Syndrome at King Chulalongkorn Memorial Hospital. Journal of Health Research. (2009 SEPT) 
+328. Sangsuwan C, Udompanthurak S, Vannasaeng S, Thamlikitkul V Randomized controlled trial of Tinospora crispa for additional therapy in patients with type 2 diabetes mellitus. J Med Assoc Thai. (2004 May) 
+329. Thomas A, Rajesh EK, Kumar DS The Significance of Tinospora crispa in Treatment of Diabetes Mellitus. Phytother Res. (2016 Mar) 
+330. Klangjareonchai T, Roongpisuthipong C The effect of Tinospora crispa on serum glucose and insulin levels in patients with type 2 diabetes mellitus. J Biomed Biotechnol. (2012) 
+331. Langrand J, Regnault H, Cachet X, Bouzidi C, Villa AF, Serfaty L, Garnier R, Michel S Toxic hepatitis induced by a herbal medicine: Tinospora crispa. Phytomedicine. (2014 Jul-Aug) 
+332. Ahmad W, Jantan I, Bukhari SN Tinospora crispa (L.) Hook. f. & Thomson: A Review of Its Ethnobotanical, Phytochemical, and Pharmacological Aspects. Front Pharmacol. (2016 Mar 21) 
+333. Dhingra D, Michael M, Rajput H, Patil RT Dietary fibre in foods: a review. J Food Sci Technol. (2012 Jun) 334. Marlett JA Content and composition of dietary fiber in 117 frequently consumed foods. J Am Diet Assoc. (1992 Feb) 
+335. Schwingshackl L, Hoffmann G, Lampousi AM, Knüppel S, Iqbal K, Schwedhelm C, Bechthold A, Schlesinger S, Boeing H Food groups and risk of type 2 diabetes mellitus: a systematic review and meta-analysis of prospective studies. Eur J Epidemiol. (2017 May) 
+336. Schwingshackl L, Hoffmann G, Iqbal K, Schwedhelm C, Boeing H Food groups and intermediate disease markers: a systematic review and network meta-analysis of randomized trials. Am J Clin Nutr. (2018 Sep 1) 
+337. Haripriya S, Premakumari S Effect of wheat bran on diabetic subjects. INDJSRT. 
+338. Jenkins DJ, Kendall CW, Augustin LS, Martini MC, Axelsen M, Faulkner D, Vidgen E, Parker T, Lau H, Connelly PW, Teitel J, Singer W, Vandenbroucke AC, Leiter LA, Josse RG Effect of wheat bran on glycemic control and risk factors for cardiovascular disease in type 2 diabetes. Diabetes Care. (2002 Sep) 
+339. Tripkovic L, Muirhead NC, Hart KH, Frost GS, Lodge JK The effects of a diet rich in inulin or wheat fibre on markers of cardiovascular disease in overweight male subjects. J Hum Nutr Diet. (2015 Oct) 
+340. Lu ZX, Walker KZ, Muir JG, O'Dea K Arabinoxylan fibre improves metabolic control in people with Type II diabetes. Eur J Clin Nutr. (2004 Apr) 
+341. Garcia AL, Steiniger J, Reich SC, Weickert MO, Harsch I, Machowetz A, Mohlig M, Spranger J, Rudovich NN, Meuser F, Doerfer J, Katz N, Speth M, Zunft HJ, Pfeiffer AH, Koebnick C Arabinoxylan fibre consumption improved glucose metabolism, but did not affect serum adipokines in subjects with impaired glucose tolerance. Horm Metab Res. (2006 Nov) 
+342. van der Merwe J, Brooks NE, Myburgh KH Three weeks of creatine monohydrate supplementation affects dihydrotestosterone to testosterone ratio in college-aged rugby players. Clin J Sport Med. (2009 Sep) 
+343. Hamada K, Randall VA Inhibitory autocrine factors produced by the mesenchyme-derived hair follicle dermal papilla may be a key to male pattern baldness. Br J Dermatol. (2006 Apr) 
+344. Trüeb RM Molecular mechanisms of androgenetic alopecia. Exp Gerontol. (2002 Aug-Sep) 
+345. Vatani DS, Faraji J, Soori R, Mogharnasi M The effects of creatine supplementation on performance and hormonal response in amateur swimmers. SCI SPORT. (2011 NOV) 
+346. Arazi H, Rahmaninia F, Hosseini K, Asadi A Effects of short term creatine supplementation and resistance exercises on resting hormonal and cardiovascular responses. SCI SPORT. (2015 APR) 
+347. Cook CJ, Crewther BT, Kilduff LP, Drawer S, Gaviglio CM Skill execution and sleep deprivation: effects of acute caffeine or creatine supplementation - a randomized placebo-controlled trial. J Int Soc Sports Nutr. (2011 Feb 16) 
+348. Cooke MB, Brabham B, Buford TW, Shelmadine BD, McPheeters M, Hudson GM, Stathis C, Greenwood M, Kreider R, Willoughby DS Creatine supplementation post-exercise does not enhance training-induced adaptations in middle to older aged males. Eur J Appl Physiol. (2014 Jun) 
+349. Crowe MJ, O'Connor DM, Lukins JE The effects of beta-hydroxy-beta-methylbutyrate (HMB) and HMB/creatine supplementation on indices of health in highly trained athletes. Int J Sport Nutr Exerc Metab. (2003 Jun) 
+350. Hoffman J, Ratamess N, Kang J, Mangine G, Faigenbaum A, Stout J Effect of creatine and beta-alanine supplementation on performance and endocrine responses in strength/power athletes. Int J Sport Nutr Exerc Metab. (2006 Aug) 
+351. Eijnde BO, Hespel P Short-term creatine supplementation does not alter the hormonal response to resistance training. Med Sci Sports Exerc. (2001 Mar) 
+352. Volek JS, Ratamess NA, Rubin MR, Gómez AL, French DN, McGuigan MM, Scheett TP, Sharman MJ, Häkkinen K, Kraemer WJ The effects of creatine supplementation on muscular performance and body composition responses to short-term resistance training overreaching. Eur J Appl Physiol. (2004 May) 
+74
+353. Faraji H, Arazi H, Vatani D, Hakimi M The effects of creatine supplementation on sprint running performance and selected hormonal responses. S AFR J RES SPORT PH. (2010) 
+354. Rahimi R, Faraji H, Vatani DS, Qaderi M Creatine supplementation alters the body&#039;s hormonal response to exercise. Kinesiology. (2010 JAN) 
+355. Volek JS, Boetes M, Bush JA, Putukian M, Sebastianelli WJ, Jraemer WJ Response of Testosterone and Cortisol Concentrations to High-Intensity Resistance Exercise Following Creatine Supplementation. J STRENGTH COND RES. (1997) 
+356. Wilson JM, Lowery RP, Joy JM, Walters JA, Baier SM, Fuller JC, Stout JR, Norton LE, Sikorski EM, Wilson SM, Duncan NM, Zanchi NE, Rathmacher J β-Hydroxy-β-methylbutyrate free acid reduces markers of exercise-induced muscle damage and improves recovery in resistance-trained men. Br J Nutr. (2013 Jan 3) 
+357. Hoffman JR, Cooper J, Wendell M, Im J, Kang J Effects of beta-hydroxy beta-methylbutyrate on power performance and indices of muscle damage and stress during high-intensity training. J Strength Cond Res. (2004 Nov) 
+358. Portal S, Zadik Z, Rabinowitz J, Pilz-Burstein R, Adler-Portal D, Meckel Y, Cooper DM, Eliakim A, Nemet D The effect of HMB supplementation on body composition, fitness, hormonal and inflammatory mediators in elite adolescent volleyball players: a prospective randomized, double-blind, placebo-controlled study. Eur J Appl Physiol. (2011 Sep) 
+359. Slater GJ, Logan PA, Boston T, Gore CJ, Stenhouse A, Hahn AG Beta-hydroxy beta-methylbutyrate (HMB) supplementation does not influence the urinary testosterone: epitestosterone ratio in healthy males. J Sci Med Sport. (2000 Mar) 
+75

@@ -1,0 +1,8 @@
+[
+  "test_assessment.py::test_assessment_endpoint",
+  "test_assessment.py::test_cache_functionality",
+  "test_assessment.py::test_create_agents_and_tasks",
+  "test_assessment.py::test_grocery_list_endpoint",
+  "test_assessment.py::test_health_check",
+  "test_assessment.py::test_prompt_endpoint"
+]
