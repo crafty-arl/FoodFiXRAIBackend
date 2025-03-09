@@ -26,6 +26,7 @@ from ffassement import (
     process_category_goals,
     format_assessment_result
 )
+from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
@@ -454,6 +455,15 @@ class CustomHttpAdapter(HTTPAdapter):
         )
 
 app = FastAPI(title="FoodFiXR API", description="Nutrition and Shopping Assistant API")
+
+# Add CORS middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000", "http://31.220.107.113:3000"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Pydantic models for request/response
 class PromptRequest(BaseModel):
