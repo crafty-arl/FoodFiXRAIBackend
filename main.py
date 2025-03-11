@@ -239,126 +239,40 @@ def create_safety_agent():
         by carefully validating all nutrition recommendations against their specific dietary needs, 
         restrictions, and health conditions. I take a conservative approach - if there's any doubt 
         about safety, I flag it for review. Safety first, always! 🛡️""",
-        tools=[search_tool],
-        max_iterations=1,
-        allow_delegation=False,
-        verbose=False,
-        max_rpm=MAX_RPM
-    )
-
-def create_agents_and_tasks(query, dietary_preferences=None, exclude_ingredients=None):
-    """Create optimized agents and tasks based on the user's query"""
-    
-    # Create safety agent
-    safety_agent = create_safety_agent()
-    
-    # Check if this is a grocery generation request
-    is_grocery_request = any(keyword in query.lower() for keyword in ['grocery', 'shopping', 'ingredients', 'list'])
-
-    if is_grocery_request:
-        nutrition_expert = Agent(
-            role="Nutrition Category Expert",
-            goal="Generate fun, engaging, and personality-filled grocery lists with delicious nutritional categories",
-            backstory="""Hey there, Food Explorer! 🌟 I'm your nutrition storyteller and 
-            ingredient whisperer! I don't just list foods - I share their amazing stories 
-            and superpowers! Every ingredient has a fascinating tale to tell, and I'm here 
-            to make your grocery list an adventure through the world of nutrition. 
-            I combine precise data formatting with fun, engaging descriptions that'll make 
-            you say "Wow, I never knew that!" Let's make grocery shopping exciting! 🎯✨""",
             tools=[search_tool],
-            max_iterations=2,
+        max_iterations=1,
             allow_delegation=False,
             verbose=False,
             max_rpm=MAX_RPM
         )
 
-        grocery_task = Task(
-            description=f"""Time to create a FUN and ENGAGING grocery list that tells amazing food stories! 🌟
-
-CRITICAL FORMAT REQUIREMENTS:
-1. Response MUST be a SINGLE LINE of valid JSON
-2. Response MUST start with exactly: {{"ingredients":[
-3. Response MUST end with exactly: ]}}
-4. NO markdown, NO backticks, NO extra spaces or newlines
-
-EXAMPLE FORMAT:
-{{"ingredients":[{{"name":"Avocado","category":"Healthy Fats","benefits":"Nature's butter bomb! 🥑","fun_fact":"These are actually berries!","usage":["Make guacamole","Top your toast"]}}]}}
-
-SAFETY REQUIREMENTS:
-1. NEVER include any ingredients from the exclude list: {exclude_ingredients if exclude_ingredients else []}
-2. STRICTLY follow dietary preferences: {dietary_preferences if dietary_preferences else 'None'}
-3. Double-check EVERY ingredient against these requirements
-4. If unsure about an ingredient's safety, DO NOT include it
-
-Content Requirements:
-1. Include exactly 15 ingredients:
-   - 5 "Healthy Fats"
-   - 5 "Carbohydrates"
-   - 5 "Proteins"
-2. For each ingredient:
-   - name: Clear, specific name
-   - category: One of ["Healthy Fats", "Carbohydrates", "Proteins"]
-   - benefits: Fun description with emojis
-   - fun_fact: Interesting fact
-   - usage: EXACTLY 2 creative suggestions
-
-FINAL VALIDATION:
-1. Verify JSON structure is perfect
-2. Confirm exactly 15 ingredients
-3. Verify all dietary restrictions
-4. Check JSON is valid before submitting
-
-Query: {query}""",
-            expected_output="Single-line JSON string starting with {\"ingredients\":[",
+def create_delegation_manager():
+    """Create a delegation manager agent to orchestrate the safety validation process"""
+    return Agent(
+        role="Dietary Delegation Manager",
+        goal="Orchestrate and validate dietary safety compliance through agent delegation",
+        backstory="""I am the delegation manager responsible for ensuring all dietary and 
+        safety requirements are met through careful orchestration of our expert agents. 
+        I coordinate between our nutrition experts and safety validators, ensuring no 
+        recommendation moves forward until it passes all safety checks. I'm like a strict 
+        but fair project manager who puts user safety first! 🎯""",
             tools=[search_tool],
-            agent=nutrition_expert,
-            async_execution=False
-        )
+        max_iterations=3,
+        allow_delegation=True,
+        verbose=True,
+        max_rpm=MAX_RPM
+    )
 
-        safety_task = Task(
-            description=f"""SAFETY VALIDATION REQUIREMENTS:
-
-1. Input will be JSON starting with {{"ingredients":[
-2. Validate each ingredient against:
-   - Allergen risks (especially: {exclude_ingredients if exclude_ingredients else []})
-   - Dietary compliance: {dietary_preferences if dietary_preferences else 'None'}
-   - Safe handling requirements
-   
-3. For ANY safety concerns:
-   - Remove unsafe items
-   - Replace with safe alternatives
-   - Add safety warnings
-   
-4. MAINTAIN EXACT JSON FORMAT:
-   - Must start with {{"ingredients":[
-   - Must end with ]}}
-   - Must be valid JSON
-   - Must have exactly 15 ingredients
-
-Your response must be valid JSON in the exact same format.""",
-            expected_output="Safety-validated JSON response",
-            tools=[search_tool],
-            agent=safety_agent,
-            async_execution=False
-        )
-        
-        return [nutrition_expert, safety_agent], [grocery_task, safety_task]
-    else:
-        # Default FoodFiXR expert for non-grocery queries
-        foodfixr = Agent(
-            role="FoodFiXR Expert",
-            goal=f"Share awesome nutrition knowledge about {query}",
-            backstory="""Hey there, food friend! 🌟 I'm your nutrition buddy with a PhD in 
-            Food Fun-damentals! 🥑 I absolutely geek out about food science and love sharing 
-            cool facts that'll make you go "Wow!" 🤓 
-
-            I'm like your personal food detective, always on the case to find the tastiest, 
-            healthiest solutions! Whether you're curious about superfoods or need help 
-            planning your next kitchen adventure, I'm here with evidence-based advice - 
-            but make it fun! ✨
-
-            And hey, if I don't know something, I'll be the first to say "Time for more research!" 
-            because that's what good food scientists do! Let's make nutrition exciting together! 🎉""",
+def create_dietary_safety_agent():
+    """Create a dietary safety agent to verify ingredient compliance"""
+    return Agent(
+        role="Dietary Safety Agent",
+        goal="Ensure all ingredients are safe and compliant with dietary requirements",
+        backstory="""I am the dietary safety agent tasked with ensuring all ingredients 
+        are safe and compliant with dietary requirements. My primary mission is to 
+        verify the compliance of all ingredients against the specified dietary 
+        preferences and restrictions. I'm here to make sure your food is both delicious 
+        and safe! 🍽️""",
             tools=[search_tool],
             max_iterations=1,
             allow_delegation=False,
@@ -366,62 +280,123 @@ Your response must be valid JSON in the exact same format.""",
             max_rpm=MAX_RPM
         )
 
-        combined_task = Task(
-            description=f"""Time to dive into this tasty question! 🏊‍♂️
+def create_agents_and_tasks(query, dietary_preferences=None, exclude_ingredients=None):
+    """Create optimized agents and tasks with delegation management"""
+    
+    # Create all required agents
+    delegation_manager = create_delegation_manager()
+    safety_agent = create_safety_agent()
+    dietary_safety_agent = create_dietary_safety_agent()
+    
+    # Create the delegation management task
+    delegation_task = Task(
+        description=f"""DELEGATION MANAGEMENT PROTOCOL
 
-            Your burning question: {query}
-            
-            Let's make this response as delicious as it is informative! 
+DIETARY CONTEXT:
+- Diet Type: {dietary_preferences if dietary_preferences else 'standard'}
+- Exclusions: {exclude_ingredients if exclude_ingredients else 'None'}
 
-            Rules of the Kitchen:
-            1. Serve up ONE clear, complete answer
-            2. Mix nutrition science with practical tips
-            3. Keep it focused but fun
-            4. Add a dash of personality
-            5. Sprinkle in some science for extra flavor
-            
-            Remember: We're here to make nutrition fun AND factual! 🎯
-            """,
-            expected_output="A fun, engaging response that combines solid nutrition info with practical advice",
-            tools=[search_tool],
-            agent=foodfixr,
-            async_execution=True
-        )
+YOUR WORKFLOW:
 
-        safety_task = Task(
-            description=f"""NUTRITION SAFETY VALIDATION:
+1. INITIAL VALIDATION
+   - Review the query type and dietary requirements
+   - Determine required safety checks
+   - Set up validation chain
 
-1. Review the response for:
-   - Scientific accuracy
-   - Safety of recommendations
-   - Appropriate disclaimers
-   - Potential risks/contraindications
+2. ORCHESTRATION STEPS:
+   Step 1: Initial Content Generation
+   - Delegate to Nutrition Expert
+   - Receive initial recommendations
    
-2. Verify all advice is:
-   - Evidence-based
-   - Generally safe for the target audience
-   - Clear and not misleading
-   - Appropriate in scope/scale
+   Step 2: Dietary Compliance Check
+   - Send to Dietary Safety Agent
+   - Verify all items match dietary requirements
+   - If fails, request revisions
    
-3. Add safety context where needed:
-   - Warning for specific populations
-   - Consultation recommendations
-   - Usage limitations
-   - Potential interactions
+   Step 3: General Safety Validation
+   - Send to Safety Agent
+   - Verify general safety compliance
+   - If fails, request revisions
+   
+   Step 4: Final Verification
+   - Perform final check of all requirements
+   - Only approve if ALL checks pass
 
-Query context: {query}
+3. REVISION PROTOCOL:
+   If any check fails:
+   - Return to appropriate agent
+   - Provide specific correction requirements
+   - Repeat validation cycle
 
-If ANY safety concerns are found:
-1. Modify recommendations to ensure safety
-2. Add appropriate warnings/disclaimers
-3. Document any significant changes""",
-            expected_output="Safety-validated nutrition response",
+4. REQUIREMENTS FOR APPROVAL:
+   ✓ Matches dietary restrictions exactly
+   ✓ No forbidden ingredients
+   ✓ Safe preparation methods
+   ✓ Appropriate portions
+   ✓ Clear safety warnings where needed
+
+5. FORMAT REQUIREMENTS:
+   - Maintain JSON structure
+   - Include all required fields
+   - Preserve engaging tone
+
+YOU MUST:
+1. Never approve content that doesn't meet ALL requirements
+2. Keep iterating until all safety checks pass
+3. Document all validation steps
+4. Maintain clear communication between agents
+
+Query: {query}""",
+        expected_output="Fully validated and safe response",
+        tools=[search_tool],
+        agent=delegation_manager,
+        async_execution=False
+    )
+
+    # Modify the nutrition expert task to work with delegation
+    nutrition_task = Task(
+        description=f"""Generate initial recommendations following these guidelines:
+
+1. STRICT DIETARY COMPLIANCE
+   - Diet Type: {dietary_preferences if dietary_preferences else 'standard'}
+   - Excluded Items: {exclude_ingredients if exclude_ingredients else 'None'}
+
+2. FORMAT REQUIREMENTS
+   [existing format requirements...]
+
+3. SUBMISSION PROCESS
+   - Submit to Delegation Manager
+   - Be ready for revision requests
+   - Provide clear rationale for choices
+
+4. REVISION PROTOCOL
+   - Accept feedback from safety agents
+   - Modify recommendations as required
+   - Maintain quality while ensuring safety
+
+[Rest of existing task description...]""",
+        expected_output="Initial recommendations for validation",
             tools=[search_tool],
-            agent=safety_agent,
-            async_execution=True
-        )
-        
-        return [foodfixr, safety_agent], [combined_task, safety_task]
+        agent=nutrition_expert,
+        async_execution=False
+    )
+
+    # Create the crew with sequential processing
+    return [delegation_manager, nutrition_expert, dietary_safety_agent, safety_agent], \
+           [delegation_task, nutrition_task]
+
+# Update the crew creation to ensure proper delegation flow
+def create_validation_crew(agents, tasks, session):
+    return Crew(
+        agents=agents,
+        tasks=tasks,
+        process=Process.sequential,
+        memory=True,  # Enable memory for delegation tracking
+        verbose=True,
+        cache=False,  # Disable cache for safety validation
+        max_rpm=MAX_RPM,
+        session=session
+    )
 
 def chat_interface():
     # Configure SSL context for the session
@@ -484,16 +459,7 @@ def chat_interface():
             print("\n🔍 Generating new response...")
             # Create optimized agents and tasks with additional context
             agents, tasks = create_agents_and_tasks(query + additional_context)
-            knowledge_crew = Crew(
-                agents=agents,
-                tasks=tasks,
-                process=Process.sequential,
-                memory=False,
-                verbose=False,
-                cache=True,
-                max_rpm=MAX_RPM,
-                session=session
-            )
+            knowledge_crew = create_validation_crew(agents, tasks, session)
             
             crew_response = knowledge_crew.kickoff(inputs={"query": query})
             # Clean and format the response to ensure single output
@@ -606,16 +572,7 @@ async def process_prompt(prompt: str, webhook_url: Optional[str] = None, convers
         session.trust_env = False
         
         # Create and execute crew
-        knowledge_crew = Crew(
-            agents=agents,
-            tasks=tasks,
-            process=Process.sequential,
-            memory=False,
-            verbose=False,
-            cache=True,
-            max_rpm=MAX_RPM,
-            session=session
-        )
+        knowledge_crew = create_validation_crew(agents, tasks, session)
         
         # Get response from crew
         crew_response = knowledge_crew.kickoff(inputs={"query": prompt})
@@ -691,33 +648,26 @@ def validate_dietary_compliance(ingredients: List[dict], exclude_list: List[str]
 
 @app.post("/grocery-list", response_model=GroceryListResponse)
 async def generate_grocery_list(request: GroceryListRequest, background_tasks: BackgroundTasks):
-    """Generate a structured grocery list with 15 ingredients"""
+    """Generate a structured grocery list with delegation-managed safety validation"""
     try:
-        # Construct the grocery list query
-        query = "Generate a grocery list"
-        if request.dietary_preferences:
-            query += f" following {request.dietary_preferences} dietary preferences"
-        if request.exclude_ingredients:
-            query += f" excluding {', '.join(request.exclude_ingredients)}"
-        
-        # Pass dietary preferences and exclusions to create_agents_and_tasks
+        # Create agents and tasks with delegation
         agents, tasks = create_agents_and_tasks(
-            query,
-            request.dietary_preferences,
-            request.exclude_ingredients
+            query="Generate a grocery list",
+            dietary_preferences=request.dietary_preferences,
+            exclude_ingredients=request.exclude_ingredients
         )
-        # Create and execute crew
-        knowledge_crew = Crew(
-            agents=agents,
-            tasks=tasks,
-            process=Process.sequential,
-            memory=False,
-            verbose=False,  # Changed from True to False
-            cache=True,
-            max_rpm=MAX_RPM
-        )
-
-        # Get response from crew
+        
+        # Configure session
+        session = requests.Session()
+        session.verify = False
+        adapter = CustomHttpAdapter()
+        session.mount('https://', adapter)
+        session.trust_env = False
+        
+        # Create crew with delegation management
+        knowledge_crew = create_validation_crew(agents, tasks, session)
+        
+        # Get response through delegation process
         crew_response = knowledge_crew.kickoff()
         
         # Clean and validate the response string
