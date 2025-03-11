@@ -275,56 +275,41 @@ def create_agents_and_tasks(query, dietary_preferences=None, exclude_ingredients
         grocery_task = Task(
             description=f"""Time to create a FUN and ENGAGING grocery list that tells amazing food stories! 🌟
 
-CRITICAL SAFETY REQUIREMENTS:
-1. NEVER include any ingredients from the exclude list: {exclude_ingredients}
-2. STRICTLY follow dietary preferences: {dietary_preferences}
-3. Double-check EVERY ingredient against these requirements before including
-4. If unsure about an ingredient's compatibility, DO NOT include it
+CRITICAL FORMAT REQUIREMENTS:
+1. Response MUST be a SINGLE LINE of valid JSON
+2. Response MUST start with exactly: {{"ingredients":[
+3. Response MUST end with exactly: ]}}
+4. NO markdown, NO backticks, NO extra spaces or newlines
 
-First, generate your response with PERSONALITY, then verify the format matches this structure:
-{{"ingredients":[{{"name":"Avocado","category":"Healthy Fats","benefits":"Nature's butter bomb! 🥑 Packed with creamy goodness that makes your skin glow and heart happy","fun_fact":"These green gems are actually berries and take so long to grow (9 months!) that farmers call them 'time fruits'","usage":["Smash into the world's creamiest guacamole","Crown your toast like breakfast royalty"]}}]}}
+EXAMPLE FORMAT:
+{{"ingredients":[{{"name":"Avocado","category":"Healthy Fats","benefits":"Nature's butter bomb! 🥑","fun_fact":"These are actually berries!","usage":["Make guacamole","Top your toast"]}}]}}
 
-DIETARY SAFETY CHECKLIST:
-✓ Verify each ingredient is safe for {dietary_preferences} diet
-✓ Confirm NO ingredients from exclude list are present
-✓ Ensure all suggestions respect dietary restrictions
-✓ Validate that usage recommendations are diet-compliant
-
-MAKE IT ENGAGING:
-1. Benefits should tell a story! Use fun metaphors and emojis
-2. Fun facts should be truly fascinating and surprising
-3. Usage suggestions should be creative and inspiring
-4. Add personality while keeping the format perfect
-
-FORMAT RULES:
-1. Each ingredient MUST have EXACTLY 2 creative usage suggestions
-2. START with {{"ingredients":[
-3. END with ]}}
-4. NO extra spaces or newlines
-5. NO markdown or backticks
+SAFETY REQUIREMENTS:
+1. NEVER include any ingredients from the exclude list: {exclude_ingredients if exclude_ingredients else []}
+2. STRICTLY follow dietary preferences: {dietary_preferences if dietary_preferences else 'None'}
+3. Double-check EVERY ingredient against these requirements
+4. If unsure about an ingredient's safety, DO NOT include it
 
 Content Requirements:
 1. Include exactly 15 ingredients:
-   - 5 "Healthy Fats" (the smooth operators 🥑)
-   - 5 "Carbohydrates" (the energy rockstars 🌾)
-   - 5 "Proteins" (the muscle wizards 💪)
+   - 5 "Healthy Fats"
+   - 5 "Carbohydrates"
+   - 5 "Proteins"
 2. For each ingredient:
    - name: Clear, specific name
    - category: One of ["Healthy Fats", "Carbohydrates", "Proteins"]
-   - benefits: Make it FUN! Use metaphors, emojis, and engaging language
-   - fun_fact: Share mind-blowing facts that make people say "No way!"
-   - usage: EXACTLY 2 creative, inspiring ways to use it
+   - benefits: Fun description with emojis
+   - fun_fact: Interesting fact
+   - usage: EXACTLY 2 creative suggestions
 
 FINAL VALIDATION:
-1. Re-check every ingredient against exclusion list
-2. Confirm all ingredients match dietary preferences
-3. Verify all usage suggestions are diet-appropriate
-4. Only proceed if ALL safety checks pass
+1. Verify JSON structure is perfect
+2. Confirm exactly 15 ingredients
+3. Verify all dietary restrictions
+4. Check JSON is valid before submitting
 
-Context: {query}
-
-REMEMBER: Safety and dietary compliance come first, then make it fun AND factual!""",
-            expected_output="Single-line JSON string with personality-filled descriptions",
+Query: {query}""",
+            expected_output="Single-line JSON string starting with {\"ingredients\":[",
             tools=[search_tool],
             agent=nutrition_expert,
             async_execution=False
@@ -333,24 +318,24 @@ REMEMBER: Safety and dietary compliance come first, then make it fun AND factual
         safety_task = Task(
             description=f"""SAFETY VALIDATION REQUIREMENTS:
 
-1. Review all ingredients and recommendations for:
-   - Allergen risks (especially regarding: {exclude_ingredients})
-   - Dietary restriction compliance (following: {dietary_preferences})
-   - Potential interactions
-   - Safe handling/preparation requirements
+1. Input will be JSON starting with {{"ingredients":[
+2. Validate each ingredient against:
+   - Allergen risks (especially: {exclude_ingredients if exclude_ingredients else []})
+   - Dietary compliance: {dietary_preferences if dietary_preferences else 'None'}
+   - Safe handling requirements
    
-2. Verify all usage suggestions are safe and appropriate
-3. Check for any misleading or potentially dangerous claims
-4. Ensure portion/serving suggestions are appropriate
-5. Flag any ingredients requiring special preparation/handling
+3. For ANY safety concerns:
+   - Remove unsafe items
+   - Replace with safe alternatives
+   - Add safety warnings
+   
+4. MAINTAIN EXACT JSON FORMAT:
+   - Must start with {{"ingredients":[
+   - Must end with ]}}
+   - Must be valid JSON
+   - Must have exactly 15 ingredients
 
-If ANY safety concerns are found:
-1. Remove unsafe items/suggestions
-2. Replace with safe alternatives
-3. Add appropriate safety warnings
-4. Document all changes made
-
-Your response MUST maintain the exact same JSON format while ensuring safety.""",
+Your response must be valid JSON in the exact same format.""",
             expected_output="Safety-validated JSON response",
             tools=[search_tool],
             agent=safety_agent,
