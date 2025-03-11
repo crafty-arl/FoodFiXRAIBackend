@@ -255,8 +255,20 @@ def create_agents_and_tasks(query):
         grocery_task = Task(
             description=f"""Time to create a FUN and ENGAGING grocery list that tells amazing food stories! 🌟
 
+CRITICAL SAFETY REQUIREMENTS:
+1. NEVER include any ingredients from the exclude list: {request.exclude_ingredients}
+2. STRICTLY follow dietary preferences: {request.dietary_preferences}
+3. Double-check EVERY ingredient against these requirements before including
+4. If unsure about an ingredient's compatibility, DO NOT include it
+
 First, generate your response with PERSONALITY, then verify the format matches this structure:
 {{"ingredients":[{{"name":"Avocado","category":"Healthy Fats","benefits":"Nature's butter bomb! 🥑 Packed with creamy goodness that makes your skin glow and heart happy","fun_fact":"These green gems are actually berries and take so long to grow (9 months!) that farmers call them 'time fruits'","usage":["Smash into the world's creamiest guacamole","Crown your toast like breakfast royalty"]}}]}}
+
+DIETARY SAFETY CHECKLIST:
+✓ Verify each ingredient is safe for {request.dietary_preferences} diet
+✓ Confirm NO ingredients from exclude list are present
+✓ Ensure all suggestions respect dietary restrictions
+✓ Validate that usage recommendations are diet-compliant
 
 MAKE IT ENGAGING:
 1. Benefits should tell a story! Use fun metaphors and emojis
@@ -283,22 +295,15 @@ Content Requirements:
    - fun_fact: Share mind-blowing facts that make people say "No way!"
    - usage: EXACTLY 2 creative, inspiring ways to use it
 
+FINAL VALIDATION:
+1. Re-check every ingredient against exclusion list
+2. Confirm all ingredients match dietary preferences
+3. Verify all usage suggestions are diet-appropriate
+4. Only proceed if ALL safety checks pass
+
 Context: {query}
 
-PERSONALITY CHECKLIST:
-✓ Benefits tell a story and use fun language
-✓ Fun facts are truly fascinating
-✓ Usage suggestions are creative and inspiring
-✓ Each description has personality while maintaining perfect format
-
-FORMAT CHECKLIST:
-✓ Starts with {{"ingredients":[
-✓ Ends with ]}}
-✓ Each ingredient has exactly 2 usage suggestions
-✓ Valid JSON syntax
-✓ 5 ingredients per category
-
-REMEMBER: Make it fun AND factual! If you need a second iteration, use it to add more personality while keeping the format perfect.""",
+REMEMBER: Safety and dietary compliance come first, then make it fun AND factual!""",
             expected_output="Single-line JSON string with personality-filled descriptions",
             tools=[search_tool],
             agent=nutrition_expert,
@@ -602,6 +607,21 @@ async def handle_prompt(request: PromptRequest, background_tasks: BackgroundTask
         request.conversation_id
     )
 
+def validate_dietary_compliance(ingredients: List[dict], exclude_list: List[str], dietary_preferences: str) -> bool:
+    """Validate that ingredients comply with dietary restrictions"""
+    for ingredient in ingredients:
+        # Check against exclusion list
+        if ingredient["name"].lower() in [x.lower() for x in exclude_list]:
+            raise ValueError(f"Found excluded ingredient: {ingredient['name']}")
+            
+        # Check usage suggestions
+        for usage in ingredient["usage"]:
+            for excluded in exclude_list:
+                if excluded.lower() in usage.lower():
+                    raise ValueError(f"Usage suggestion contains excluded ingredient: {usage}")
+    
+    return True
+
 @app.post("/grocery-list", response_model=GroceryListResponse)
 async def generate_grocery_list(request: GroceryListRequest, background_tasks: BackgroundTasks):
     """Generate a structured grocery list with 15 ingredients"""
@@ -633,8 +653,20 @@ async def generate_grocery_list(request: GroceryListRequest, background_tasks: B
         grocery_task = Task(
             description=f"""Time to create a FUN and ENGAGING grocery list that tells amazing food stories! 🌟
 
+CRITICAL SAFETY REQUIREMENTS:
+1. NEVER include any ingredients from the exclude list: {request.exclude_ingredients}
+2. STRICTLY follow dietary preferences: {request.dietary_preferences}
+3. Double-check EVERY ingredient against these requirements before including
+4. If unsure about an ingredient's compatibility, DO NOT include it
+
 First, generate your response with PERSONALITY, then verify the format matches this structure:
 {{"ingredients":[{{"name":"Avocado","category":"Healthy Fats","benefits":"Nature's butter bomb! 🥑 Packed with creamy goodness that makes your skin glow and heart happy","fun_fact":"These green gems are actually berries and take so long to grow (9 months!) that farmers call them 'time fruits'","usage":["Smash into the world's creamiest guacamole","Crown your toast like breakfast royalty"]}}]}}
+
+DIETARY SAFETY CHECKLIST:
+✓ Verify each ingredient is safe for {request.dietary_preferences} diet
+✓ Confirm NO ingredients from exclude list are present
+✓ Ensure all suggestions respect dietary restrictions
+✓ Validate that usage recommendations are diet-compliant
 
 MAKE IT ENGAGING:
 1. Benefits should tell a story! Use fun metaphors and emojis
@@ -661,22 +693,15 @@ Content Requirements:
    - fun_fact: Share mind-blowing facts that make people say "No way!"
    - usage: EXACTLY 2 creative, inspiring ways to use it
 
+FINAL VALIDATION:
+1. Re-check every ingredient against exclusion list
+2. Confirm all ingredients match dietary preferences
+3. Verify all usage suggestions are diet-appropriate
+4. Only proceed if ALL safety checks pass
+
 Context: {query}
 
-PERSONALITY CHECKLIST:
-✓ Benefits tell a story and use fun language
-✓ Fun facts are truly fascinating
-✓ Usage suggestions are creative and inspiring
-✓ Each description has personality while maintaining perfect format
-
-FORMAT CHECKLIST:
-✓ Starts with {{"ingredients":[
-✓ Ends with ]}}
-✓ Each ingredient has exactly 2 usage suggestions
-✓ Valid JSON syntax
-✓ 5 ingredients per category
-
-REMEMBER: Make it fun AND factual! If you need a second iteration, use it to add more personality while keeping the format perfect.""",
+REMEMBER: Safety and dietary compliance come first, then make it fun AND factual!""",
             expected_output="Single-line JSON string with personality-filled descriptions",
             tools=[search_tool],
             agent=nutrition_expert,
@@ -747,6 +772,14 @@ REMEMBER: Make it fun AND factual! If you need a second iteration, use it to add
                 
             if not all(count == 5 for count in category_counts.values()):
                 raise ValueError("Must have exactly 5 ingredients per category")
+            
+            # Validate the response before returning
+            if request.exclude_ingredients:
+                validate_dietary_compliance(
+                    json_data["ingredients"],
+                    request.exclude_ingredients,
+                    request.dietary_preferences
+                )
             
             # Parse into response model
             response_data = GroceryListResponse.parse_raw(response_str)
