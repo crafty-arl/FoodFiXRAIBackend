@@ -229,8 +229,28 @@ def save_cached_response(query, response):
     # Save to memory cache
     query_cache[query] = response_str
 
-def create_agents_and_tasks(query):
+def create_safety_agent():
+    """Create a dedicated safety validation agent"""
+    return Agent(
+        role="Nutrition Safety Validator",
+        goal="Ensure all nutrition advice and recommendations are safe and appropriate",
+        backstory="""I am a meticulous nutrition safety expert with extensive experience in 
+        dietary restrictions, allergies, and food safety. My primary mission is to protect users 
+        by carefully validating all nutrition recommendations against their specific dietary needs, 
+        restrictions, and health conditions. I take a conservative approach - if there's any doubt 
+        about safety, I flag it for review. Safety first, always! 🛡️""",
+        tools=[search_tool],
+        max_iterations=1,
+        allow_delegation=False,
+        verbose=False,
+        max_rpm=MAX_RPM
+    )
+
+def create_agents_and_tasks(query, dietary_preferences=None, exclude_ingredients=None):
     """Create optimized agents and tasks based on the user's query"""
+    
+    # Create safety agent
+    safety_agent = create_safety_agent()
     
     # Check if this is a grocery generation request
     is_grocery_request = any(keyword in query.lower() for keyword in ['grocery', 'shopping', 'ingredients', 'list'])
@@ -256,8 +276,8 @@ def create_agents_and_tasks(query):
             description=f"""Time to create a FUN and ENGAGING grocery list that tells amazing food stories! 🌟
 
 CRITICAL SAFETY REQUIREMENTS:
-1. NEVER include any ingredients from the exclude list: {request.exclude_ingredients}
-2. STRICTLY follow dietary preferences: {request.dietary_preferences}
+1. NEVER include any ingredients from the exclude list: {exclude_ingredients}
+2. STRICTLY follow dietary preferences: {dietary_preferences}
 3. Double-check EVERY ingredient against these requirements before including
 4. If unsure about an ingredient's compatibility, DO NOT include it
 
@@ -265,7 +285,7 @@ First, generate your response with PERSONALITY, then verify the format matches t
 {{"ingredients":[{{"name":"Avocado","category":"Healthy Fats","benefits":"Nature's butter bomb! 🥑 Packed with creamy goodness that makes your skin glow and heart happy","fun_fact":"These green gems are actually berries and take so long to grow (9 months!) that farmers call them 'time fruits'","usage":["Smash into the world's creamiest guacamole","Crown your toast like breakfast royalty"]}}]}}
 
 DIETARY SAFETY CHECKLIST:
-✓ Verify each ingredient is safe for {request.dietary_preferences} diet
+✓ Verify each ingredient is safe for {dietary_preferences} diet
 ✓ Confirm NO ingredients from exclude list are present
 ✓ Ensure all suggestions respect dietary restrictions
 ✓ Validate that usage recommendations are diet-compliant
@@ -307,9 +327,37 @@ REMEMBER: Safety and dietary compliance come first, then make it fun AND factual
             expected_output="Single-line JSON string with personality-filled descriptions",
             tools=[search_tool],
             agent=nutrition_expert,
-            async_execution=True
+            async_execution=False
         )
-        return [nutrition_expert], [grocery_task]
+
+        safety_task = Task(
+            description=f"""SAFETY VALIDATION REQUIREMENTS:
+
+1. Review all ingredients and recommendations for:
+   - Allergen risks (especially regarding: {exclude_ingredients})
+   - Dietary restriction compliance (following: {dietary_preferences})
+   - Potential interactions
+   - Safe handling/preparation requirements
+   
+2. Verify all usage suggestions are safe and appropriate
+3. Check for any misleading or potentially dangerous claims
+4. Ensure portion/serving suggestions are appropriate
+5. Flag any ingredients requiring special preparation/handling
+
+If ANY safety concerns are found:
+1. Remove unsafe items/suggestions
+2. Replace with safe alternatives
+3. Add appropriate safety warnings
+4. Document all changes made
+
+Your response MUST maintain the exact same JSON format while ensuring safety.""",
+            expected_output="Safety-validated JSON response",
+            tools=[search_tool],
+            agent=safety_agent,
+            async_execution=False
+        )
+        
+        return [nutrition_expert, safety_agent], [grocery_task, safety_task]
     else:
         # Default FoodFiXR expert for non-grocery queries
         foodfixr = Agent(
@@ -354,7 +402,41 @@ REMEMBER: Safety and dietary compliance come first, then make it fun AND factual
             agent=foodfixr,
             async_execution=True
         )
-        return [foodfixr], [combined_task]
+
+        safety_task = Task(
+            description=f"""NUTRITION SAFETY VALIDATION:
+
+1. Review the response for:
+   - Scientific accuracy
+   - Safety of recommendations
+   - Appropriate disclaimers
+   - Potential risks/contraindications
+   
+2. Verify all advice is:
+   - Evidence-based
+   - Generally safe for the target audience
+   - Clear and not misleading
+   - Appropriate in scope/scale
+   
+3. Add safety context where needed:
+   - Warning for specific populations
+   - Consultation recommendations
+   - Usage limitations
+   - Potential interactions
+
+Query context: {query}
+
+If ANY safety concerns are found:
+1. Modify recommendations to ensure safety
+2. Add appropriate warnings/disclaimers
+3. Document any significant changes""",
+            expected_output="Safety-validated nutrition response",
+            tools=[search_tool],
+            agent=safety_agent,
+            async_execution=True
+        )
+        
+        return [foodfixr, safety_agent], [combined_task, safety_task]
 
 def chat_interface():
     # Configure SSL context for the session
@@ -528,8 +610,8 @@ async def process_prompt(prompt: str, webhook_url: Optional[str] = None, convers
     start_time = time.time()
     
     try:
-        # Create agents and tasks
-        agents, tasks = create_agents_and_tasks(prompt)
+        # Create agents and tasks with None for dietary preferences
+        agents, tasks = create_agents_and_tasks(prompt, None, None)
         
         # Configure custom session for HTTPS requests
         session = requests.Session()
@@ -633,85 +715,16 @@ async def generate_grocery_list(request: GroceryListRequest, background_tasks: B
         if request.exclude_ingredients:
             query += f" excluding {', '.join(request.exclude_ingredients)}"
         
-        # Create nutrition expert agent with increased iterations
-        nutrition_expert = Agent(
-            role="Nutrition Category Expert",
-            goal="Generate fun, engaging, and personality-filled grocery lists with delicious nutritional categories",
-            backstory="""Hey there, Food Explorer! 🌟 I'm your nutrition storyteller and 
-            ingredient whisperer! I don't just list foods - I share their amazing stories 
-            and superpowers! Every ingredient has a fascinating tale to tell, and I'm here 
-            to make your grocery list an adventure through the world of nutrition. 
-            I combine precise data formatting with fun, engaging descriptions that'll make 
-            you say "Wow, I never knew that!" Let's make grocery shopping exciting! 🎯✨""",
-            tools=[search_tool],
-            max_iterations=2,
-            allow_delegation=False,
-            verbose=False,
-            max_rpm=MAX_RPM
+        # Pass dietary preferences and exclusions to create_agents_and_tasks
+        agents, tasks = create_agents_and_tasks(
+            query,
+            request.dietary_preferences,
+            request.exclude_ingredients
         )
-
-        grocery_task = Task(
-            description=f"""Time to create a FUN and ENGAGING grocery list that tells amazing food stories! 🌟
-
-CRITICAL SAFETY REQUIREMENTS:
-1. NEVER include any ingredients from the exclude list: {request.exclude_ingredients}
-2. STRICTLY follow dietary preferences: {request.dietary_preferences}
-3. Double-check EVERY ingredient against these requirements before including
-4. If unsure about an ingredient's compatibility, DO NOT include it
-
-First, generate your response with PERSONALITY, then verify the format matches this structure:
-{{"ingredients":[{{"name":"Avocado","category":"Healthy Fats","benefits":"Nature's butter bomb! 🥑 Packed with creamy goodness that makes your skin glow and heart happy","fun_fact":"These green gems are actually berries and take so long to grow (9 months!) that farmers call them 'time fruits'","usage":["Smash into the world's creamiest guacamole","Crown your toast like breakfast royalty"]}}]}}
-
-DIETARY SAFETY CHECKLIST:
-✓ Verify each ingredient is safe for {request.dietary_preferences} diet
-✓ Confirm NO ingredients from exclude list are present
-✓ Ensure all suggestions respect dietary restrictions
-✓ Validate that usage recommendations are diet-compliant
-
-MAKE IT ENGAGING:
-1. Benefits should tell a story! Use fun metaphors and emojis
-2. Fun facts should be truly fascinating and surprising
-3. Usage suggestions should be creative and inspiring
-4. Add personality while keeping the format perfect
-
-FORMAT RULES:
-1. Each ingredient MUST have EXACTLY 2 creative usage suggestions
-2. START with {{"ingredients":[
-3. END with ]}}
-4. NO extra spaces or newlines
-5. NO markdown or backticks
-
-Content Requirements:
-1. Include exactly 15 ingredients:
-   - 5 "Healthy Fats" (the smooth operators 🥑)
-   - 5 "Carbohydrates" (the energy rockstars 🌾)
-   - 5 "Proteins" (the muscle wizards 💪)
-2. For each ingredient:
-   - name: Clear, specific name
-   - category: One of ["Healthy Fats", "Carbohydrates", "Proteins"]
-   - benefits: Make it FUN! Use metaphors, emojis, and engaging language
-   - fun_fact: Share mind-blowing facts that make people say "No way!"
-   - usage: EXACTLY 2 creative, inspiring ways to use it
-
-FINAL VALIDATION:
-1. Re-check every ingredient against exclusion list
-2. Confirm all ingredients match dietary preferences
-3. Verify all usage suggestions are diet-appropriate
-4. Only proceed if ALL safety checks pass
-
-Context: {query}
-
-REMEMBER: Safety and dietary compliance come first, then make it fun AND factual!""",
-            expected_output="Single-line JSON string with personality-filled descriptions",
-            tools=[search_tool],
-            agent=nutrition_expert,
-            async_execution=True
-        )
-
         # Create and execute crew
         knowledge_crew = Crew(
-            agents=[nutrition_expert],
-            tasks=[grocery_task],
+            agents=agents,
+            tasks=tasks,
             process=Process.sequential,
             memory=False,
             verbose=False,  # Changed from True to False
